@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rxvAXRLbnrqvN07f6Btnrw
+! Checksum: hCQeYWUfJ7XASIWfG2c3Mw
 ! Title: Easylist Cookie List
-! Updated: 2022-10-13 11:00 UTC
+! Updated: 2022-10-13 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -6576,6 +6576,7 @@ _vpcookieconsent/
 ###gdpr-warden-banner
 ###gdpr-warning
 ###gdpr-widget
+###gdpr-wrapper
 ###gdpr-wrp
 ###gdpr.m-active
 ###gdpr.row
@@ -22211,6 +22212,7 @@ rockcode.com.br##.modalDialogAviso
 terra.com.br##.navbar-disclaimer
 livelo.com.br##.notifi
 lojasrenner.com.br##.notification
+agazeta.com.br##.notification-footer
 pbs.up.pt##.notificationBar
 jaguarportugal.pt,landrover.pt##.notificationBars
 jaguarbrasil.com.br##.notificationBarsWrapper
