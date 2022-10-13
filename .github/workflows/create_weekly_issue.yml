@@ -1,0 +1,42 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * SAT"
+name: Create weekly issue
+permissions:
+  contents: write
+  issues: write
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: "last_issue"
+          fetch-depth: 0
+
+      - name: Get last issue commit
+        id: last_issue_commit
+        run: |
+          echo "last_issue_commit=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+
+      - name: Get current master commit
+        run: |
+          git checkout origin/master
+          echo "current_commit=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+
+      - name: Rebase last_issue branch
+        run: |
+          git checkout last_issue
+          git rebase origin/master
+          git push
+
+      - name: Create an issue
+        uses: actions-ecosystem/action-create-issue@v1
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          repo: OhMyGuus/I-Dont-Care-About-Cookies
+          title: "Weekly ABP & original IDCAC changes"
+          body: |
+            New changes to the original IDCAC or the ABP lists found!
+            https://github.com/${{github.repository}}/compare/${{env.last_issue_commit}}..${{env.current_commit}}

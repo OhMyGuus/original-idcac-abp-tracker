@@ -1,0 +1,24 @@
+name: Run updater
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Installing node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Run the updater
+        run: cd updater && npm install && cd .. && node updater/index.js
+
+      - name: Push to git
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated update

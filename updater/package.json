@@ -1,0 +1,17 @@
+{
+  "name": "fetch-anti-cookiewarning-thingies",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "js-beautify": "^1.14.6",
+    "node-7z": "^3.0.0"
+  }
+}
