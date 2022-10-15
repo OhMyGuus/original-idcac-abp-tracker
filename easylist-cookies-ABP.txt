@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4KHJHVgNECz1Oukdwv6ovA
+! Checksum: NFvmUZn5PR4eYDWWEQSIfw
 ! Title: Easylist Cookie List
-! Updated: 2022-10-15 00:20 UTC
+! Updated: 2022-10-15 01:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -7859,7 +7859,6 @@ _vpcookieconsent/
 ###overlay-cookie-popup
 ###overlay-cookielaw-form
 ###overlay-cookies
-###overlay-gdpr
 ###overlayContentCookie
 ###overlayCookie
 ###overlayCookie2015
@@ -9410,6 +9409,7 @@ _vpcookieconsent/
 ##.CookieWarning__wrapper
 ##.CookieWindow
 ##.Cookie_Banner
+##.Cookie_Pane
 ##.Cookie_Terms
 ##.Cookie__Banner
 ##.Cookie__banner
@@ -12404,6 +12404,7 @@ _vpcookieconsent/
 ##.cookie_float
 ##.cookie_flyout
 ##.cookie_footer_fixed
+##.cookie_frame_background
 ##.cookie_gdpr
 ##.cookie_grayL
 ##.cookie_helper
@@ -19936,6 +19937,7 @@ i.mi.com##div[class^="order-"][class*="policy-"]
 youtube.com##div[class^="ytd-consent"]
 patreon.com##div[data-tag="cookie-disclosure"]
 reddit.com##div[style*="--Toaster-indicatorColor"]
+pango.education##div[style*="position: fixed; left: 0px; top: 0px; width: 100%;"]
 cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 g4tv.com##div[style^="align-items: baseline; background: rgb(53, 53, 53)"]
 openpli.org##div[style^="background-color:#FF9595"]
@@ -20087,7 +20089,7 @@ commentcoder.com,eanews.ru##[class^="gdpr_"]
 !! .overLay
 abundantgracetabernacle.org.uk,destemma.org,pacificandgold.co.uk##.overLay
 !! .CookieConsent
-e-ville.com,forbesafrica.com,geeksforgeeks.org,officedepot.hu,rcskinclinic.com,tayama.pl,u.sb,upgrade.chat,wheels.ca##.CookieConsent
+e-ville.com,forbesafrica.com,geeksforgeeks.org,officedepot.hu,pango.education,rcskinclinic.com,tayama.pl,u.sb,upgrade.chat,wheels.ca##.CookieConsent
 !! .m-smartbar-container
 hilti.com,hilti.dk,hilti.ru##.m-smartbar-container
 !! #policy-ribbon
@@ -22372,7 +22374,7 @@ aquagrunt.ru##.confidentalInfo
 2x2tv.ru##.cook-web
 mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
-5corners.ru,akstel.ru,bosporshop.ru,cafe-retro.ru,calista-opt.ru,charuel.ru,dschool.ru,ekogrunty.ru,everpharma.ru,g-ygol.ru,gruzim-vse.com,gtlk.ru,hashrating.com,hino.ru,hitmotors.ru,island-green.ru,jv.ru,kanal-o.ru,key-test.ru,komandor-ufa.com,korzinka.uz,kurskdrama.ru,llider.ru,magwai.ru,mkkedr.ru,narbutas.ru,okbssp.ru,olinecontact.ru,onlinesim.ru,oscillo.ru,petrovax.ru,quale-vita.com,rmh.ru,rostec.ru,rozochka.ru,rutoken.ru,sibsoc.ru,sintez.online,siticard.ru,skoroprint.com,sovremennik.ru,sovrhistory.ru,spaceinspace.ru,tk-alpha.ru,tt-72.ru,tw1.ru,universalna.com,wpnew.ru,yavitrina.ru,zettains.ru##.cookie
+5corners.ru,akstel.ru,bosporshop.ru,cafe-retro.ru,calista-opt.ru,charuel.ru,dschool.ru,ekogrunty.ru,everpharma.ru,g-ygol.ru,gruzim-vse.com,gtlk.ru,hashrating.com,hino.ru,hitmotors.ru,island-green.ru,jv.ru,kanal-o.ru,key-test.ru,komandor-ufa.com,korzinka.uz,kurskdrama.ru,llider.ru,magwai.ru,mkkedr.ru,narbutas.ru,okbssp.ru,olinecontact.ru,onlinesim.ru,oscillo.ru,petrovax.ru,polar.ru,quale-vita.com,rmh.ru,rostec.ru,rozochka.ru,rutoken.ru,sibsoc.ru,sintez.online,siticard.ru,skoroprint.com,sovremennik.ru,sovrhistory.ru,spaceinspace.ru,tk-alpha.ru,tt-72.ru,tw1.ru,universalna.com,wpnew.ru,yavitrina.ru,zettains.ru##.cookie
 shate-m.kz##.cookie-alert-show
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
