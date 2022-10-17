@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: shu8fRcxmc6EVxDFlDhZmw
+! Checksum: HXWQg00ANCoYyf9d9fFejQ
 ! Title: Easylist Cookie List
-! Updated: 2022-10-17 14:00 UTC
+! Updated: 2022-10-17 18:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18728,7 +18728,7 @@ privacy.org.nz###trackingmessage
 skylinewebcams.com###trigCookie
 strikermanager.com###ue
 netflix.com###uma > div > .message
-search.brave.com###usage-metrics
+search.brave.com,search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion###usage-metrics
 censor.net###usage_notice
 americanexpress.co.uk,americanexpress.com,americanexpress.de,americanexpress.it###user-consent-management-binary-banner-overlay
 busybeeblog.com###user_disclaimer
@@ -18916,6 +18916,7 @@ makeprintable.com##.banner-hints
 nuget.org##.banner-notice
 aboutcookies.org,pinsentmasons.com##.banner-overlay
 23andme.com,tunnelbear.com##.banner-wrap
+zando.co.za##.banner._pp
 twunroll.com,worthpoint.com##.bannerContainer
 wetransfer.com##.banner__container
 forums.lenovo.com##.banner_alert
