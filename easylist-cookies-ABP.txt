@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: omUXqEzD88DG5VGEhxX0BA
+! Checksum: 7hmnKKDlbhHiyZnb8O+NDg
 ! Title: Easylist Cookie List
-! Updated: 2022-10-18 22:00 UTC
+! Updated: 2022-10-18 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -5153,6 +5153,7 @@ _vpcookieconsent/
 ###cookies.visible
 ###cookies123
 ###cookiesAccept
+###cookiesAcceptance
 ###cookiesAcceptedDiv
 ###cookiesAceitar
 ###cookiesAcknowledgement
@@ -6401,6 +6402,7 @@ _vpcookieconsent/
 ###footer-cookie-policy
 ###footer-cookie-popup
 ###footer-cookies
+###footer-cookies-div
 ###footer-cookieuse-block
 ###footer-gdpr
 ###footer-gdpr-box
@@ -6424,6 +6426,7 @@ _vpcookieconsent/
 ###footer_cookie_bar_block
 ###footer_cookies
 ###footer_cookies_banner_wrapper
+###footer_cookies_o
 ###footer_tc_privacy
 ###footercookie
 ###footercookie-container
@@ -7552,6 +7555,7 @@ _vpcookieconsent/
 ###modal_cookie
 ###modal_cookie-mask
 ###modal_cookies:not(html):not(body)
+###modal_lgpd
 ###modalbakgdpr
 ###modalcookies
 ###modalrgpd
@@ -9489,6 +9493,7 @@ _vpcookieconsent/
 ##.EuropeanCookieBar
 ##.F6-cookies_w_js-entrypoint
 ##.FE_COOKIELAW
+##.FOOTER_COOKIES
 ##.FooterCookieGL
 ##.G005-global-cookie-notification
 ##.GAcookies
@@ -9852,6 +9857,7 @@ _vpcookieconsent/
 ##.allreadycookie
 ##.alltricks-CnilRibbon
 ##.als-cookie-button
+##.alt_lgpd_cookies
 ##.altamira-gdpr-cookie-consent
 ##.alternative_cookie_layer_background
 ##.alternative_cookie_layer_holder
@@ -13292,6 +13298,7 @@ _vpcookieconsent/
 ##.cookies_wrapper
 ##.cookies_yes
 ##.cookies_yum
+##.cookiesacceptancemsg
 ##.cookiesalert
 ##.cookiesanswer
 ##.cookiesbanner
@@ -15376,6 +15383,7 @@ _vpcookieconsent/
 ##.modal__content--cookies
 ##.modal__cookie--message
 ##.modal__cookies
+##.modal_lgpd
 ##.modal_mask.cookies
 ##.modaleCookies
 ##.mode-cookie-tip
@@ -16566,6 +16574,7 @@ _vpcookieconsent/
 ##.sky-component-cookie-notice
 ##.sl-cookie-banner
 ##.sl-cookie-consent
+##.slice_Cookies
 ##.slideIn.cookie
 ##.slideout-cookies
 ##.sliding-cookies-bottom
@@ -17868,6 +17877,7 @@ _vpcookieconsent/
 ##div.cookies-pop
 ##div.cookies-splash
 ##div.cookies-visible
+##div.cookiesAcceptance
 ##div.cookiesBanner
 ##div.cookies__alert
 ##div.cookies__first
@@ -18912,6 +18922,7 @@ icelandair.com##.assets_container__3EEp3
 scandalbeauties.com##.attention-msg
 activision.com##.atvi-privacy-policy-module
 welcometothejungle.com##.axeptio_mount
+hush-uk.com##.b-header-message
 rimowa.com##.b-modal
 login.coinbase.com##.b1oya23n
 cinch.co.uk##.bQ_kb
@@ -18953,6 +18964,7 @@ sifted.eu##.bg-darkGray
 caymanchem.com##.bg-darker-gray
 unitedglobalsim.com##.bg-green
 capadriano.com##.bg-opacity-75
+amana.app##.bg-pink-brand
 roxi.tv##.bg-white.w-full.fixed
 cleveroad.com##.bg_km
 bagigia.com##.bica-content
