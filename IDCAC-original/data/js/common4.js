@@ -1,12 +1,12 @@
-var t = 0;
+var counter = 0;
 
-var i = setInterval(function(){
-	var e = document.querySelector('.CookiesOK');
-	t++;
+var interval = setInterval(function(){
+	var element = document.querySelector('.CookiesOK');
+	counter++;
 	
-	if (e)
-		e.click();
+	if (element)
+		element.click();
 	
-	if (e || t == 200)
-		clearInterval(i);
+	if (element || counter == 200)
+		clearInterval(interval);
 }, 500);

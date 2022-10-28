@@ -1,6 +1,6 @@
-function getItem(h)
+function getItem(hostname)
 {
-	switch (h)
+	switch (hostname)
 	{
 		case 'ants.gouv.fr': return {strict: true, key: 'cookieConsent', value: 'true'};
 		case 'eqmac.app': return {strict: false, key: 'EQM_PRIVACY_CONSENT_CHOSEN', value: 'true'};
@@ -33,7 +33,7 @@ function getItem(h)
 	}
 	
 	
-	const parts = h.split('.');
+	const parts = hostname.split('.');
 	
 	if (parts.length > 2)
 	{
@@ -45,9 +45,9 @@ function getItem(h)
 }
 
 
-let	h = document.location.hostname.replace(/^w{2,3}\d*\./i, ''),
+let	hostname = document.location.hostname.replace(/^w{2,3}\d*\./i, ''),
 	counter = 0,
-	items = getItem(h);
+	items = getItem(hostname);
 
 if (items) {
 	(items instanceof Array ? items : [items]).forEach(function(item) {

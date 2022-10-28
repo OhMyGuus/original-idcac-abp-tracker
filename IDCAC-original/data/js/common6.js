@@ -1,6 +1,6 @@
-function getE(h)
+function getE(hostname)
 {
-	switch (h)
+	switch (hostname)
 	{
 		case 'letssingit.com':
 		case 'lyricsbox.com':
@@ -9,10 +9,6 @@ function getE(h)
 		case 'kontaktbazar.at':
 		case 'hoernews.de':
 			return ['cookieconsent_status=dismiss'];
-		
-		case 'newegg.com':
-		case 'newegg.ca':
-			return ['NV%5FGDPR=001'];
 		
 		case 'pee.place':
 		case 'nearest.place':
@@ -159,7 +155,6 @@ function getE(h)
 		case 'cimri.com': return ['CimriCookiePolicy=1'];
 		case 'globalplayer.com': return ['consentUUID=382584da-af8a-469e-aedf-11ac420ec96d'];
 		case 'dehn.de': return ['cookie-agreed=1', 'cookie-processed-02=ck_1:true%2Cck_2:true'];
-		case 'minecraft.net': var d = Math.round(Date.now()/1000); return ['MSCC=' + (d - d % 86400)];
 		case 'crtm.es': return ['crtmcookiesCAnaliticas=1', 'crtmcookiesProtDatos=1'];
 		case 'computertotaal.nl': return ['SITE_COOKIE_CONSENT=True'];
 		case 'vodafoneziggo.nl': return ['cookies-accepted=true'];
@@ -199,7 +194,6 @@ function getE(h)
 		case 'gaana.com': return ['gdprv1=1'];
 		case 'cleanairgm.com': return ['cleanair=%7B%22cookiesEssential%22%3Atrue%7D'];
 		case 'e-fundresearch.com': return ['cookieinfo={%22functional%22:true}'];
-		case 'systembolaget.se': return ['cookieConsent=[%22statistical%22%2C%22profiling%22%2C%22useful%22]'];
 		case 'elkem.com': return ['ConsentClosed=1'];
 		case 'tonershop.at': return ['cc_granted=true'];
 		case 'verce.me': return ['verceCookieApproved=true'];
@@ -232,10 +226,11 @@ function getE(h)
 		case 'restegourmet.de': return ['consent_accepted=1'];
 		case 'sachsenenergie.de': return ['cookiesAccepted=true'];
 		case 'cire.pl': return ['APP_A_COOKIES_TERMS_AND_CONDITIONS=true', 'APP_A_COOKIES_FUNCTIONAL=false', 'APP_A_COOKIES_PERFORMANCE=false', 'APP_A_COOKIES_MARKETING=false', 'APP_A_COOKIES_POLICY=true'];
+		case 'pretto.fr': return ['tracking-preferences={%22version%22:1%2C%22destinations%22:{%22Bing%20Ads%22:false%2C%22Facebook%20Pixel%22:false%2C%22Google%20AdWords%20New%22:false%2C%22Google%20Cloud%20PubSub%22:false%2C%22Google%20Tag%20Manager%22:false%2C%22PERSONAS%20-%20Google%20AdWords%22:false}%2C%22custom%22:{%22advertising%22:false%2C%22marketingAndAnalytics%22:false}}'];
 	}
 	
 	
-	var parts = h.split('.');
+	var parts = hostname.split('.');
 	
 	if (parts.length > 2)
 	{
@@ -247,8 +242,8 @@ function getE(h)
 }
 
 
-var h = document.location.hostname.replace(/^w{2,3}\d*\./i, ''),
-	cookies = getE(h);
+var hostname = document.location.hostname.replace(/^w{2,3}\d*\./i, ''),
+	cookies = getE(hostname);
 
 if (cookies)
 {
@@ -263,7 +258,7 @@ if (cookies)
 			// First try to delete the cookie
 			
 			if (parts.length > 1) {
-				var domain_parts = h.split('.');
+				var domain_parts = hostname.split('.');
 				
 				while (domain_parts.length > 1) {
 					document.cookie = cookie[0] + '=; domain=' + domain_parts.join('.') + '; expires=Thu, 01 Jan 1970 00:00:01 GMT;';

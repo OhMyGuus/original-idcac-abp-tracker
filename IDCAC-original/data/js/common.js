@@ -175,7 +175,6 @@
 		'.qc-cmp2-summary-buttons button[mode="secondary"],\
 		.qc-cmp2-buttons-desktop > button:first-child,\
 		#didomi-popup .didomi-button-highlight:not([class*="paywall"]):not([class*="disagree"]),\
-		#CookieModal.in .btn[data-dismiss],\
 		#rgpd_video .rgpd-mask a[data-rgpd-consent],\
 		.js--modal[style*="block"] .cookie-permission--accept-button,\
 		.gdpr-modal-rider .btn-cookieaccept,\
@@ -354,7 +353,6 @@
 		form[action*="cookieservice"] #acceptButton,\
 		#cookiescript_injected #cookiescript_accept,\
 		#js-cookie-wall[style*="block"] #js-cookie-wall-accept,\
-		#termsandconds.in #acceptterms,\
 		.ui-dialog.open #CookiePopup form .btn,\
 		#modalCookie.show .cookie-accept,\
 		#cookieform input.modal__submit,\
@@ -500,17 +498,17 @@
 				});
 			});
 			
-			document.querySelectorAll(searchGroups[counter%searchGroupsLength]).forEach(function(e) {
-				if (e.click && !e.classList.contains('idcac')) {
-					e.classList.add('idcac');
+			document.querySelectorAll(searchGroups[counter%searchGroupsLength]).forEach(function(element) {
+				if (element.click && !element.classList.contains('idcac')) {
+					element.classList.add('idcac');
 					
 					if (typeof chrome == 'object' && chrome.runtime)
 						chrome.runtime.sendMessage({command: "cookie_warning_dismissed", url: document.location.href});
 					
-					e.click();
+					element.click();
 					
 					setTimeout(function() {
-						if (e) e.click();
+						if (element) element.click();
 					}, 500);
 					
 					timeoutDuration += 500;
@@ -528,10 +526,10 @@
 	var start = setInterval(function() {
 		var html = document.querySelector('html');
 		
-		if (!html || /idc0_343/.test(html.className))
+		if (!html || /idc0_344/.test(html.className))
 			return;
 		
-		html.className += ' idc0_343';
+		html.className += ' idc0_344';
 		searchLoop(0);
 		clearInterval(start);
 	}, 500);

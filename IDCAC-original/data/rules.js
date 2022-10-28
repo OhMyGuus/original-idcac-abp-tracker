@@ -82,7 +82,7 @@ var rules = {
     },
     "youtube.com": {
         "j": "5",
-        "s": "ytd-consent-bump-v2-lightbox,tp-yt-iron-overlay-backdrop,.consent-bump-lightbox{display:none !important}"
+        "s": "ytd-consent-bump-v2-lightbox,tp-yt-iron-overlay-backdrop,.consent-bump-v2-lightbox{display:none !important}"
     },
     "consent.youtube.com": {
         "j": "8"
@@ -520,9 +520,6 @@ var rules = {
     "ohra.nl": {
         "s": "#wrapper-overlay{display:none !important}"
     },
-    "jw.org": {
-        "s": ".legal-notices-client--notice{display:none !important}"
-    },
     "dynos.es": {
         "s": "#cuerpo > div:not([id]):not([class]){display:none !important}"
     },
@@ -531,9 +528,6 @@ var rules = {
     },
     "amadeus.com": {
         "s": ".wayfinder-component,.country-lightbox.cookies{display:none !important}"
-    },
-    "siemens.com": {
-        "s": "#c-info,.cm-banner{display:none !important}"
     },
     "fiskarsgroup.com": {
         "s": ".q_cookies{display:none !important}"
@@ -1782,9 +1776,6 @@ var rules = {
     },
     "allianz.hu": {
         "s": "#idAllianzCookiePolicy{display:none !important}"
-    },
-    "kicktipp.de": {
-        "s": ".messagebox{display:none !important}"
     },
     "scanbot.io": {
         "s": ".sb-banners--cookie{display:none !important}"
@@ -3118,9 +3109,6 @@ var rules = {
     "jak-ksiegowac.pl": {
         "s": "#message_wrap{display:none !important}"
     },
-    "kicktipp.at": {
-        "s": ".messagebox{display:none !important}"
-    },
     "cowsep.com": {
         "s": ".cg-notify-message{display:none !important}"
     },
@@ -3489,9 +3477,6 @@ var rules = {
     },
     "podcrto.si": {
         "s": "#cc-note{display:none !important}"
-    },
-    "kicktipp.com": {
-        "s": ".messagebox{display:none !important}"
     },
     "mycircle.tv": {
         "s": "#notif_ck{display:none !important}"
@@ -4393,9 +4378,6 @@ var rules = {
     "bubblebed.bg": {
         "s": ".gs-cookies-review{display:none !important}"
     },
-    "moebelix.at": {
-        "s": ".xxxlutzkarrierecenter-themeBoxCookieInfo{display:none !important}"
-    },
     "hijob.me": {
         "s": ".flash-cookie{display:none !important}"
     },
@@ -4569,9 +4551,6 @@ var rules = {
     },
     "hdr-photographer.com": {
         "s": "#rn_container{display:none !important}"
-    },
-    "piensasolutions.com": {
-        "s": ".head .top{display:none !important}"
     },
     "dnbfeed.no": {
         "c": "7"
@@ -5572,9 +5551,6 @@ var rules = {
     "polskifrontend.pl": {
         "j": "5"
     },
-    "slupsk.eu": {
-        "s": "#pp{display:none !important}"
-    },
     "nbazar.sk": {
         "s": ".eu{display:none !important}"
     },
@@ -5991,9 +5967,6 @@ var rules = {
     },
     "cross.bg": {
         "c": "8"
-    },
-    "fizyka.org": {
-        "s": "#pp{display:none !important}"
     },
     "ordineavvocati.bari.it": {
         "c": "2"
@@ -7430,9 +7403,6 @@ var rules = {
     "e-mediatheque.sqy.fr": {
         "c": "98"
     },
-    "mamabartka.blogspot.com": {
-        "s": "#pierwszy{display:none !important}"
-    },
     "haier.com": {
         "s": ".swiper-slide-img-txt{display:none !important}"
     },
@@ -8143,9 +8113,6 @@ var rules = {
     },
     "drivereasy.com": {
         "s": ".float-bar{display:none !important}"
-    },
-    "unigine.com": {
-        "s": ".bottom-notice{display:none !important}"
     },
     "emma-matras.nl": {
         "s": ".ucn-block{display:none !important}"
@@ -9320,9 +9287,6 @@ var rules = {
     "thevinylfactory.com": {
         "s": "#vf-pop{display:none !important}"
     },
-    "qualenergia.it": {
-        "s": "#cookies-win{display:none !important}"
-    },
     "fusion.tv": {
         "s": ".blockCookies{display:none !important}"
     },
@@ -10115,9 +10079,6 @@ var rules = {
     "metcheck.com": {
         "s": "#EUModal,.reveal-modal-bg{display:none !important}"
     },
-    "agar.io": {
-        "j": "5"
-    },
     "sbsr.fm": {
         "s": ".bl-block[data-bl-name=\"CokiesWrap\"]{display:none !important}"
     },
@@ -10534,9 +10495,6 @@ var rules = {
     },
     "riot.im": {
         "s": ".mx_MatrixToolbar{display:none !important}"
-    },
-    "gruene-bundestag.de": {
-        "c": "98"
     },
     "waff.at": {
         "s": ".en-pn-bar.en-notification{display:none !important}"
@@ -11054,9 +11012,6 @@ var rules = {
     "voidu.com": {
         "j": "5"
     },
-    "razer.com": {
-        "s": ".component-sticky-dialog{display:none !important}"
-    },
     "cv-sanitairkorting.nl": {
         "c": "29"
     },
@@ -11182,9 +11137,6 @@ var rules = {
     },
     "mapsofworld.com": {
         "s": "#dialog{display:none !important}"
-    },
-    "saurclient.fr": {
-        "c": "2"
     },
     "nowness.com": {
         "s": ".ns-info-bar{display:none !important}"
@@ -11317,9 +11269,6 @@ var rules = {
     },
     "sklepkoszykarza.pl": {
         "c": "7"
-    },
-    "toothbrushbattery.com": {
-        "s": ".woocommerce-store-notice{display:none !important}"
     },
     "bitdefender.ru": {
         "s": ".mtsnb-top{display:none !important}"
@@ -11563,12 +11512,6 @@ var rules = {
     },
     "jomy.com": {
         "s": "#jomy-header-dialog-cookie-consent{display:none !important}"
-    },
-    "crossfit.com": {
-        "s": "#app ~ #modal,body.games > div[style*=\"fixed\"]{display:none !important}"
-    },
-    "analog.com": {
-        "j": "5"
     },
     "mz.gov.pl": {
         "s": ".popup-bg{display:none !important}"
@@ -11918,9 +11861,6 @@ var rules = {
     "prudential.co.za": {
         "s": ".investor-type-box .cookie-policy-text{display:none !important}"
     },
-    "lhotellerie-restauration.fr": {
-        "s": "#lhr-cookie{display:none !important}"
-    },
     "bravotv.com": {
         "c": "53"
     },
@@ -12055,9 +11995,6 @@ var rules = {
     },
     "bogijn.nl": {
         "s": "#cc-wrapper{display:none !important}"
-    },
-    "optoma.com": {
-        "s": "#optomaCookieWrap{display:none !important}"
     },
     "sfr.re": {
         "s": "body > .cc{display:none !important}"
@@ -14093,12 +14030,6 @@ var rules = {
     "krefting.de": {
         "j": "5"
     },
-    "newegg.ca": {
-        "j": "6"
-    },
-    "newegg.com": {
-        "j": "6"
-    },
     "focus-arztsuche.de": {
         "s": ".tracking-box{display:none !important}"
     },
@@ -14626,9 +14557,6 @@ var rules = {
     },
     "caricos.com": {
         "s": "#cookiediv{display:none !important}"
-    },
-    "pimido.com": {
-        "s": ".privacy_policy_sec{display:none !important}"
     },
     "gamercortex.com": {
         "s": ".gc-cookies{display:none !important}"
@@ -16168,9 +16096,6 @@ var rules = {
     },
     "schwab.de": {
         "s": ".cj-privacy-settings{display:none !important}"
-    },
-    "mall.tv": {
-        "s": ".privacy-wrapper.flex-wrap{display:none !important}"
     },
     "hogrefe.de": {
         "j": "5"
@@ -18169,9 +18094,6 @@ var rules = {
     },
     "portal.lanis-system.de": {
         "c": "31"
-    },
-    "zeit.de": {
-        "j": "5"
     },
     "astro.com": {
         "s": ".botbanner,#priv.dsmessage{display:none !important}"
@@ -20180,9 +20102,6 @@ var rules = {
     "kufar.by": {
         "j": "6"
     },
-    "minecraft.net": {
-        "j": "6"
-    },
     "gramatica-alemana.es": {
         "j": "5"
     },
@@ -20669,9 +20588,6 @@ var rules = {
     "converse.com": {
         "j": "5"
     },
-    "bol.com": {
-        "j": "5"
-    },
     "goteborgenergi.se": {
         "s": ".Ge-Msg--cookie{display:none !important}"
     },
@@ -20782,18 +20698,6 @@ var rules = {
     },
     "cookpad.com": {
         "s": ".flex[data-id=\"cookie_dialog\"]{display:none !important}"
-    },
-    "gmx.net": {
-        "j": "5"
-    },
-    "web.de": {
-        "j": "5"
-    },
-    "gmx.ch": {
-        "j": "5"
-    },
-    "gmx.at": {
-        "j": "5"
     },
     "gezond.nl": {
         "j": "5"
@@ -22843,9 +22747,6 @@ var rules = {
     "kitchentime.com": {
         "c": "20"
     },
-    "telesec.de": {
-        "j": "5"
-    },
     "kiloo.com": {
         "s": ".cmp-main{display:none !important}"
     },
@@ -22905,9 +22806,6 @@ var rules = {
     },
     "targeo.pl": {
         "j": "5"
-    },
-    "systembolaget.se": {
-        "j": "6"
     },
     "seekube.com": {
         "s": "#app > div:nth-child(2):not(:last-child){display:none !important}"
@@ -24069,9 +23967,6 @@ var rules = {
     "meteovista.com": {
         "s": "#info-bar{display:none !important}"
     },
-    "foreignaffairs.com": {
-        "s": ".alert--hedwig-banner{display:none !important}"
-    },
     "legs.com.pl": {
         "c": "20"
     },
@@ -24520,9 +24415,6 @@ var rules = {
     "loading.com.br": {
         "c": "25"
     },
-    "easylife.co.uk": {
-        "s": ".cookieControl{display:none !important}"
-    },
     "photoshop-kopona.com": {
         "s": ".message-alert{display:none !important}"
     },
@@ -24740,9 +24632,6 @@ var rules = {
         "s": ".tc-modal{display:none !important}"
     },
     "explore.porto.pt": {
-        "j": "5"
-    },
-    "kurzurlaub.de": {
         "j": "5"
     },
     "xpay.de": {
@@ -25208,12 +25097,6 @@ var rules = {
     },
     "xalingo.com.br": {
         "s": "#wrng-agrmnt{display:none !important}"
-    },
-    "joyn.de": {
-        "j": "5"
-    },
-    "prosieben.de": {
-        "j": "5"
     },
     "burg-lindenfels.de": {
         "c": "3"
@@ -26023,9 +25906,6 @@ var rules = {
     "bnext.es": {
         "c": "2"
     },
-    "c24.de": {
-        "j": "5"
-    },
     "solaris-store.com": {
         "c": "2"
     },
@@ -26212,9 +26092,6 @@ var rules = {
     },
     "pri.org": {
         "s": "#__next [class*=\"CtaMessage\"],#cta_prompt_bottom{display:none !important}"
-    },
-    "healthline.com": {
-        "j": "5"
     },
     "realitysandwich.com": {
         "c": "25"
@@ -26952,9 +26829,6 @@ var rules = {
     "forum.brasil-web.de": {
         "j": "5"
     },
-    "fxhome.com": {
-        "s": ".elementor-location-footer[data-elementor-type=\"section\"]{display:none !important}"
-    },
     "change.org": {
         "j": "5"
     },
@@ -27096,9 +26970,6 @@ var rules = {
     "diefabrik-sundern.de": {
         "j": "5"
     },
-    "nablawave.com": {
-        "j": "5"
-    },
     "uni-tuebingen.de": {
         "s": ".in2-modal__blackbox,#privacy-background,#privacy-container{display:none !important}"
     },
@@ -27237,10 +27108,6 @@ var rules = {
     "focustaiwan.tw": {
         "s": "#jsGDPR{display:none !important}"
     },
-    "onleihe.de": {
-        "j": "5",
-        "c": "20"
-    },
     "paravol.org": {
         "j": "5"
     },
@@ -27302,9 +27169,6 @@ var rules = {
         "j": "5"
     },
     "gamersgate.com": {
-        "j": "5"
-    },
-    "esports.com": {
         "j": "5"
     },
     "withings.com": {
@@ -27473,9 +27337,6 @@ var rules = {
     },
     "censor.net": {
         "s": "#usage_notice,#usage-notice-message{display:none !important;visibility:hidden}"
-    },
-    "designmynight.com": {
-        "j": "5"
     },
     "oead.at": {
         "j": "5"
@@ -28003,9 +27864,6 @@ var rules = {
     "festo.com": {
         "j": "5"
     },
-    "animeschedule.net": {
-        "s": "#consent-popup-wrapper{display:none !important}"
-    },
     "sberbankdirect.de": {
         "s": ".cm{display:none !important}"
     },
@@ -28461,9 +28319,6 @@ var rules = {
         "s": ".web_cookie{display:none !important}"
     },
     "animaute.fr": {
-        "j": "5"
-    },
-    "onleihe.com": {
         "j": "5"
     },
     "fertighaus.de": {
@@ -29253,9 +29108,6 @@ var rules = {
     "traderepublic.com": {
         "s": ".consentCard{display:none !important}"
     },
-    "europa.eu": {
-        "s": "#edp-cookies-banner,.customCookie{display:none !important}"
-    },
     "grile-rezidentiat.ro": {
         "j": "5"
     },
@@ -29327,9 +29179,6 @@ var rules = {
     },
     "galaxus.at": {
         "s": "#__next > div[aria-hidden]:not([data-layout-container]){display:none !important}"
-    },
-    "video.corriere.it": {
-        "j": "5"
     },
     "brewdog.com": {
         "s": "#segment-consent-banner{display:none !important}"
@@ -30166,9 +30015,6 @@ var rules = {
     },
     "nordicnest.se": {
         "s": "#container > footer ~ div{display:none !important}"
-    },
-    "studocu.com": {
-        "s": "#main-wrapper ~ div:not([id]):not([class]){display:none !important}"
     },
     "augen-lasern-vergleich.de": {
         "j": "5"
@@ -31081,9 +30927,6 @@ var rules = {
     "nunido.de": {
         "s": "#klaro{display:none !important}"
     },
-    "infopedia.pt": {
-        "s": "#klaro-pe-window,#klaro-pe-overlay{display:none !important}"
-    },
     "buecher-sale.de": {
         "s": "#klaro{display:none !important}"
     },
@@ -31181,48 +31024,6 @@ var rules = {
     },
     "tvo.fi": {
         "s": "#tietosuojainfo{display:none !important}"
-    },
-    "backmarket.com": {
-        "j": "5"
-    },
-    "backmarket.fr": {
-        "j": "5"
-    },
-    "backmarket.de": {
-        "j": "5"
-    },
-    "backmarket.it": {
-        "j": "5"
-    },
-    "backmarket.es": {
-        "j": "5"
-    },
-    "backmarket.be": {
-        "j": "5"
-    },
-    "backmarket.at": {
-        "j": "5"
-    },
-    "backmarket.fi": {
-        "j": "5"
-    },
-    "backmarket.pt": {
-        "j": "5"
-    },
-    "backmarket.se": {
-        "j": "5"
-    },
-    "backmarket.gr": {
-        "j": "5"
-    },
-    "backmarket.nl": {
-        "j": "5"
-    },
-    "backmarket.co.uk": {
-        "j": "5"
-    },
-    "thebackmarket.nl": {
-        "j": "5"
     },
     "rednet.ag": {
         "s": "#es_cookie_solution{display:none !important}"
@@ -31536,9 +31337,6 @@ var rules = {
     "workwise.io": {
         "j": "5"
     },
-    "samsung.com": {
-        "s": "#root [data-testid=\"notice-footer\"],#cookie_component{display:none !important}"
-    },
     "isc2.org": {
         "s": ".notice--warning{display:none !important}"
     },
@@ -31796,9 +31594,6 @@ var rules = {
     "prostata-hilfe-deutschland.de": {
         "s": "#ccModal,.modal-backdrop{display:none !important}"
     },
-    "hayloft.co.uk": {
-        "s": ".cookieControl{display:none !important}"
-    },
     "energiauutiset.fi": {
         "s": ".ltcn{display:none !important}"
     },
@@ -31942,12 +31737,6 @@ var rules = {
         "j": "5"
     },
     "cdu-fraktion.berlin.de": {
-        "j": "5"
-    },
-    "ionos.de": {
-        "j": "5"
-    },
-    "ionos.fr": {
         "j": "5"
     },
     "payberry.ru": {
@@ -32390,9 +32179,6 @@ var rules = {
     "basic-tutorials.de": {
         "c": "7"
     },
-    "mediaset.it": {
-        "j": "5"
-    },
     "goodie.pl": {
         "s": "#main-container > div > footer ~ div[class]{display:none !important}"
     },
@@ -32464,9 +32250,6 @@ var rules = {
     },
     "buyon.it": {
         "s": ".cc_placeholder{display:none !important}"
-    },
-    "medizinfuchs.de": {
-        "s": ".ConsentHint{display:none !important}"
     },
     "timesnownews.com": {
         "s": "div[class*=\"GdprCSS-container\"]{display:none !important}"
@@ -33663,24 +33446,6 @@ var rules = {
     "rewardlink.io": {
         "s": ".snackbar{display:none !important}"
     },
-    "xhamster.com": {
-        "j": "5"
-    },
-    "xhamster2.com": {
-        "j": "5"
-    },
-    "xhamster3.com": {
-        "j": "5"
-    },
-    "xhamster.desi": {
-        "j": "5"
-    },
-    "xhamster18.desi": {
-        "j": "5"
-    },
-    "xhamster.xuxporner.com": {
-        "j": "5"
-    },
     "bild.de": {
         "j": "5"
     },
@@ -33947,9 +33712,6 @@ var rules = {
     "namesilo.com": {
         "s": "#app > header ~ section{display:none !important}"
     },
-    "hansanders.nl": {
-        "s": ".module--cookie{display:none !important}"
-    },
     "airgradient.com": {
         "s": ".cookie-container{display:none !important}"
     },
@@ -34118,9 +33880,6 @@ var rules = {
     "iobroker.net": {
         "j": "5"
     },
-    "sbb-deutschland.de": {
-        "j": "5"
-    },
     "thecountersignal.com": {
         "j": "5"
     },
@@ -34132,9 +33891,6 @@ var rules = {
     },
     "thenextcloset.com": {
         "s": "div[data-react-class*=\"CookieConsentBanner\"]{display:none !important}"
-    },
-    "hardware.info": {
-        "j": "5"
     },
     "tudogostoso.com.br": {
         "c": "4"
@@ -34210,9 +33966,6 @@ var rules = {
         "s": "#cookie-modal-backdrop{display:none !important}"
     },
     "dodo.fr": {
-        "j": "5"
-    },
-    "falter.at": {
         "j": "5"
     },
     "z4u.zurich.com.pt": {
@@ -34307,9 +34060,6 @@ var rules = {
     },
     "0815.at": {
         "j": "5"
-    },
-    "sofort.com": {
-        "s": "#Cookietext{display:none !important}"
     },
     "badewanneneinstieg.com": {
         "j": "5"
@@ -34517,9 +34267,6 @@ var rules = {
     },
     "peakd.com": {
         "s": "#app > .navbar-fixed-bottom{display:none !important}"
-    },
-    "luxuryalleydessous.com": {
-        "j": "5"
     },
     "crossingeurope.at": {
         "j": "5"
@@ -34787,9 +34534,6 @@ var rules = {
     "g2a.co": {
         "s": ".modal--agreements__curtain,.agreements-container{display:none !important}"
     },
-    "nederlandseloterij.nl": {
-        "s": "#nlportal-cookie-consent,.overlay{display:none !important}"
-    },
     "abc-mallorca.com": {
         "s": ".abc-cookies-wrapper{display:none !important}"
     },
@@ -34798,9 +34542,6 @@ var rules = {
     },
     "porsche.com": {
         "s": ".pocs-legal-disclaimer{display:none !important}"
-    },
-    "twowheeledwanderer.com": {
-        "s": ".kadence-conversion-banner{display:none !important}"
     },
     "ruzomberok.sk": {
         "s": "#cookie-global-envelope{display:none !important}"
@@ -36055,15 +35796,6 @@ var rules = {
     "theknowledgeacademy.com": {
         "c": "34"
     },
-    "swedbank.se": {
-        "j": "5"
-    },
-    "swedbank.lv": {
-        "j": "5"
-    },
-    "swedbank.com": {
-        "j": "5"
-    },
     "finance-heros.fr": {
         "j": "5"
     },
@@ -36367,9 +36099,6 @@ var rules = {
     "toyotabank.pl": {
         "j": "5"
     },
-    "play.hbomax.com": {
-        "j": "5"
-    },
     "privateproperty.co.za": {
         "s": "#consentManager{display:none !important}"
     },
@@ -36543,9 +36272,6 @@ var rules = {
         "j": "5",
         "s": ".fig-consent-banner{display:none !important}"
     },
-    "meta.com": {
-        "j": "5"
-    },
     "everywhere.game": {
         "s": "main > div > div + div ~ div:last-child{display:none !important}"
     },
@@ -36616,9 +36342,6 @@ var rules = {
     "fundacionvital.eus": {
         "s": "veiss-cookies{display:none !important}"
     },
-    "mein-lehrbetrieb.at": {
-        "j": "5"
-    },
     "podchaser.com": {
         "s": "#app > div > div:last-child:not(:only-of-type){display:none !important}"
     },
@@ -36654,9 +36377,6 @@ var rules = {
     },
     "mince.nl": {
         "s": "#sbeu-cookie{display:none !important}"
-    },
-    "mimovrste.com": {
-        "s": ".legal-consent{display:none !important}"
     },
     "filescan.io": {
         "c": "20"
@@ -36711,9 +36431,6 @@ var rules = {
     },
     "newdaycards.com": {
         "s": "#cookie-consents,div[data-testid=\"page-content\"] + div{display:none !important}"
-    },
-    "gx.games": {
-        "j": "5"
     },
     "anyxvideos.com": {
         "j": "5"
@@ -36856,9 +36573,6 @@ var rules = {
         "j": "5",
         "s": "#consent-group{display:none !important}"
     },
-    "bilibili.tv": {
-        "s": ".bstar-cookie-info{display:none !important}"
-    },
     "1pmobile.com": {
         "j": "5"
     },
@@ -36867,13 +36581,598 @@ var rules = {
     },
     "truthsocial.com": {
         "s": "#soapbox > [data-testid=\"banner\"]{display:none !important}"
+    },
+    "go-e.com": {
+        "j": "5"
+    },
+    "monsitemedia.fr": {
+        "j": "5"
+    },
+    "arlettie.com": {
+        "s": "#___smooth > div > .sui-grid{display:none !important}"
+    },
+    "fandor.com": {
+        "s": ".alert-warning{display:none !important}"
+    },
+    "nordvpn.com": {
+        "s": ".CookieConsentV2{display:none !important}"
+    },
+    "xxxlutz.at": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "xxxlutz.de": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "xxxlutz.ch": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "xxxlutz.hu": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "xxxlutz.cz": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "moemax.at": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "moemax.hu": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "moemax.de": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "moebelix.cz": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "moebelix.at": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "moebelix.sk": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "poco.de": {
+        "s": "#root > footer ~ div{display:none !important}"
+    },
+    "waidhofen.at": {
+        "j": "5"
+    },
+    "mein-lehrbetrieb.at": {
+        "j": "5"
+    },
+    "infranken.de": {
+        "j": "5"
+    },
+    "partenamut.be": {
+        "j": "5"
+    },
+    "moreysa.com": {
+        "s": "#sdgdpr_modal_wrapper{display:none !important}"
+    },
+    "youngcourtesans.com": {
+        "s": ".cookie-request{display:none !important}"
+    },
+    "dirtyflix.com": {
+        "s": ".cookie-request{display:none !important}"
+    },
+    "riscocloud.com": {
+        "s": "rc-cookies-alert{display:none !important}"
+    },
+    "kontorsmaterial.se": {
+        "s": "body > div[id^=\"cbck\"]{display:none !important}"
+    },
+    "braze.com": {
+        "s": ".opt-in--background{display:none !important}"
+    },
+    "augsburger-allgemeine.de": {
+        "j": "5"
+    },
+    "2gis.cz": {
+        "s": "#confirm + div{display:none !important}"
+    },
+    "joinhoney.com": {
+        "s": "div[class*=\"cookieConsentBanner\"]{display:none !important}"
+    },
+    "backmarket.com": {
+        "j": "5"
+    },
+    "backmarket.fr": {
+        "j": "5"
+    },
+    "backmarket.de": {
+        "j": "5"
+    },
+    "backmarket.it": {
+        "j": "5"
+    },
+    "backmarket.es": {
+        "j": "5"
+    },
+    "backmarket.be": {
+        "j": "5"
+    },
+    "backmarket.at": {
+        "j": "5"
+    },
+    "backmarket.fi": {
+        "j": "5"
+    },
+    "backmarket.pt": {
+        "j": "5"
+    },
+    "backmarket.se": {
+        "j": "5"
+    },
+    "backmarket.gr": {
+        "j": "5"
+    },
+    "backmarket.nl": {
+        "j": "5"
+    },
+    "backmarket.co.uk": {
+        "j": "5"
+    },
+    "hejfish.com": {
+        "s": "div[class*=\"CookieConsent\"]{display:none !important}"
+    },
+    "gamefound.com": {
+        "s": "div[data-qa*=\"cookie-policy-box\"]{display:none !important}"
+    },
+    "ionos.de": {
+        "j": "5"
+    },
+    "ionos.fr": {
+        "j": "5"
+    },
+    "ionos.at": {
+        "j": "5"
+    },
+    "swedbank.se": {
+        "j": "5"
+    },
+    "swedbank.lv": {
+        "j": "5"
+    },
+    "swedbank.lt": {
+        "j": "5"
+    },
+    "swedbank.com": {
+        "j": "5"
+    },
+    "soignez-moi.ch": {
+        "s": ".gdpr-container{display:none !important}"
+    },
+    "mercusys.com": {
+        "s": "#mercusys-cookie{display:none !important}"
+    },
+    "kb-home.nl": {
+        "j": "5"
+    },
+    "membean.com": {
+        "c": "2"
+    },
+    "designmynight.com": {
+        "j": "5"
+    },
+    "gmx.net": {
+        "j": "5"
+    },
+    "web.de": {
+        "j": "5"
+    },
+    "hardware.info": {
+        "s": "#oreo{display:none !important}"
+    },
+    "onleihe.de": {
+        "c": "20",
+        "j": "5"
+    },
+    "onleihe.com": {
+        "j": "5"
+    },
+    "jw.org": {
+        "s": ".lnc-firstRunPopup{display:none !important}"
+    },
+    "fufunovel.com": {
+        "s": "#gnews-pro-cookie-ify{display:none !important}"
+    },
+    "akari46.blogspot.com": {
+        "s": "#xix0op-cookies{display:none !important}"
+    },
+    "mamabartka.blogspot.com": {
+        "s": "#pierwszy{display:none !important}"
+    },
+    "posta.sk": {
+        "s": "iframe[src*=\"cookies-consents/dialog/sk\"]{display:none !important}"
+    },
+    "xhamster.com": {
+        "j": "5"
+    },
+    "xhamster2.com": {
+        "j": "5"
+    },
+    "xhamster3.com": {
+        "j": "5"
+    },
+    "xhamster.desi": {
+        "j": "5"
+    },
+    "xhamster18.desi": {
+        "j": "5"
+    },
+    "xhamster.xuxporner.com": {
+        "j": "5"
+    },
+    "trickyoldteacher.com": {
+        "c": "20"
+    },
+    "fuckpassvr.com": {
+        "s": ".blog-cookie{display:none !important}"
+    },
+    "hobby.porn": {
+        "s": ".sgdpr-box{display:none !important}"
+    },
+    "zurueckzumursprung.at": {
+        "j": "5"
+    },
+    "gx.games": {
+        "j": "5"
+    },
+    "analog.com": {
+        "j": "5"
+    },
+    "happysocks.com": {
+        "j": "5"
+    },
+    "mediaset.it": {
+        "j": "5"
+    },
+    "nepszamlalas2022.hu": {
+        "s": ".offcanvas-bottom{display:none !important}"
+    },
+    "commentcoder.com": {
+        "s": "div[class*=\"gdpr__Modal\"]{display:none !important}"
+    },
+    "nablawave.com": {
+        "j": "5"
+    },
+    "esm-computer.de": {
+        "j": "5"
+    },
+    "carsized.com": {
+        "s": "body > center ~ center{display:none !important}"
+    },
+    "mycards.hdfcbank.com": {
+        "s": ".hdfc-page > div[style*=\"center\"]{display:none !important}"
+    },
+    "stromnetz-hamburg.de": {
+        "j": "5"
+    },
+    "bol.com": {
+        "j": "5"
+    },
+    "benchmark.pl": {
+        "j": "5"
+    },
+    "unigine.com": {
+        "s": ".bottom-notice{display:none !important}"
+    },
+    "healthline.com": {
+        "j": "5"
+    },
+    "holmasto.fi": {
+        "s": "gds-consent-manager{display:none !important}"
+    },
+    "dafy-moto.com": {
+        "s": ".js-cookie-headband{display:none !important}"
+    },
+    "gruene-bundestag.de": {
+        "s": ".cn-wrapper{display:none !important}"
+    },
+    "gabler.de": {
+        "j": "5"
+    },
+    "erp-up.de": {
+        "j": "5"
+    },
+    "sbb-deutschland.de": {
+        "j": "5"
+    },
+    "hansanders.nl": {
+        "s": "#cookie-dialog-wrapper{display:none !important}"
+    },
+    "hansanders.be": {
+        "s": "#cookie-module-js{display:none !important}"
+    },
+    "netz-noe.at": {
+        "j": "5"
+    },
+    "qualenergia.it": {
+        "s": "#cookies-win{display:none !important}"
+    },
+    "picwish.com": {
+        "s": "#cookies-win{display:none !important}"
+    },
+    "reolink.com": {
+        "s": "div[class*=\"cookie-popup\"]{display:none !important}"
+    },
+    "chaincheck.de": {
+        "s": "#float-bar{display:none !important}"
+    },
+    "innerengineering.com": {
+        "s": ".MuiSnackbar-anchorOriginBottomCenter{display:none !important}"
+    },
+    "animeschedule.net": {
+        "s": ".custom-consent-popup{display:none !important}"
+    },
+    "sofort.com": {
+        "s": "#Cookietext{display:none !important}"
+    },
+    "meta.com": {
+        "j": "5"
+    },
+    "medizinfuchs.de": {
+        "s": ".ConsentHint{display:none !important}"
+    },
+    "medizinfuchs.at": {
+        "s": ".ConsentHint{display:none !important}"
+    },
+    "easylife.co.uk": {
+        "s": "#cookie-consent{display:none !important}"
+    },
+    "hayloft.co.uk": {
+        "s": ".cookieControl{display:none !important}"
+    },
+    "goetel.de": {
+        "s": ".cookieControl{display:none !important}"
+    },
+    "kurzurlaub.at": {
+        "j": "5"
+    },
+    "kurzurlaub.de": {
+        "j": "5"
+    },
+    "sicherheitsdienst-harz.de": {
+        "s": "#cookieBs{display:none !important}"
+    },
+    "sdaa-france.com": {
+        "s": "#cc-bar{display:none !important}"
+    },
+    "bilibili.tv": {
+        "s": ".bstar-cookie-info{display:none !important}"
+    },
+    "forbo.com": {
+        "j": "5"
+    },
+    "studocu.com": {
+        "s": "#main-wrapper ~ div > .undefined{display:none !important}"
+    },
+    "lda-portal.siemens.com": {
+        "j": "5"
+    },
+    "sbt.siemens.com": {
+        "s": "#CookieDiscl{display:none !important}"
+    },
+    "mitarbeiteraktionen.de": {
+        "j": "5"
+    },
+    "falter.at": {
+        "j": "5"
+    },
+    "bulk.com": {
+        "j": "5"
+    },
+    "ems.press": {
+        "s": "section[aria-labelledby*=\"analytics-consent\"]{display:none !important}"
+    },
+    "spigen.com": {
+        "s": ".pd-cookie-banner-window{display:none !important}"
+    },
+    "slupsk.eu": {
+        "s": "body > div > div[style*=\"182968\"],body > #cookies{display:none !important}"
+    },
+    "fizyka.org": {
+        "s": "#pp{display:none !important}"
+    },
+    "tusclasesparticulares.com": {
+        "s": "#pp{display:none !important}"
+    },
+    "whatismymovie.com": {
+        "j": "5"
+    },
+    "amara.org": {
+        "j": "5"
+    },
+    "edywerder.ch": {
+        "s": ".kadence-conversion-banner{display:none !important}"
+    },
+    "corriere.it": {
+        "s": ".tp-modal.manine-modal{display:none !important}"
+    },
+    "video.corriere.it": {
+        "j": "5"
+    },
+    "fxhome.com": {
+        "s": ".elementor-location-footer[data-elementor-type=\"section\"],section[class*=\"cookiesContainer\"]{display:none !important}"
+    },
+    "wearmedicine.com": {
+        "j": "5"
+    },
+    "esports.com": {
+        "j": "5"
+    },
+    "joyn.de": {
+        "j": "5"
+    },
+    "prosieben.de": {
+        "j": "5"
+    },
+    "optoma.co.uk": {
+        "s": "#msgbg{display:none !important}"
+    },
+    "optoma.com": {
+        "s": "#optomaCookieWrap,.cookieBackgaround{display:none !important}"
+    },
+    "dreamersforum.nl": {
+        "s": "#cookiewarning_header{display:none !important}"
+    },
+    "piensasolutions.com": {
+        "s": ".drop[name=\"cookies\"]{display:none !important}"
+    },
+    "journal.hr": {
+        "j": "5"
+    },
+    "open-broker.ru": {
+        "s": "div[class*=\"CookieDisclaimer\"]{display:none !important}"
+    },
+    "crossfit.com": {
+        "s": "#app ~ #modal,#globalMenu ~ div[style*=\"fixed\"]{display:none !important}"
+    },
+    "pretto.fr": {
+        "j": "6"
+    },
+    "biscuiteers.com": {
+        "j": "5"
+    },
+    "oliverbonas.com": {
+        "j": "5"
+    },
+    "gen-i.si": {
+        "s": ".cookie,.cookies_new{display:none !important}"
+    },
+    "hrw.org": {
+        "s": "#hrw-cookie-dialog{display:none !important}"
+    },
+    "agar.io": {
+        "s": ".mc-cookiebar{display:none !important}"
+    },
+    "telesec.de": {
+        "j": "5"
+    },
+    "easyphp.org": {
+        "j": "5"
+    },
+    "systembolaget.se": {
+        "j": "5"
+    },
+    "filmmusic.io": {
+        "j": "5"
+    },
+    "blix.gg": {
+        "j": "5"
+    },
+    "startmail.com": {
+        "s": "#__main ~ .banner{display:none !important}"
+    },
+    "tropter.com": {
+        "s": ".tropter-cookiesbar{display:none !important}"
+    },
+    "play.hbomax.com": {
+        "j": "5"
+    },
+    "jackjones.com": {
+        "j": "5"
+    },
+    "razer.com": {
+        "s": "#tos-razer,.component-sticky-dialog{display:none !important}"
+    },
+    "luxuryalleydessous.com": {
+        "j": "5"
+    },
+    "la-brodeuse.com": {
+        "j": "5"
+    },
+    "toothbrushbattery.com": {
+        "s": ".woocommerce-store-notice{display:none !important}"
+    },
+    "retevis.eu": {
+        "s": ".woocommerce-store-notice{display:none !important}"
+    },
+    "retevis.info": {
+        "s": ".woocommerce-store-notice{display:none !important}"
+    },
+    "nederlandseloterij.nl": {
+        "j": "5"
+    },
+    "kapodistrias-tyres.com.cy": {
+        "s": "#vlcookies_box{display:none !important}"
+    },
+    "stadtmobil.de": {
+        "s": ".CybotEdge{display:none !important}"
+    },
+    "gov.nl": {
+        "s": "div[data-ui-test=\"cookieAlert\"]{display:none !important}"
+    },
+    "evri.com": {
+        "j": "5"
+    },
+    "rejoy.hu": {
+        "j": "5"
+    },
+    "pimido.com": {
+        "j": "5"
+    },
+    "etudes-et-analyses.com": {
+        "j": "5"
+    },
+    "c24.de": {
+        "s": "app-cookie{display:none !important}"
+    },
+    "routedurhum.com": {
+        "s": "div[aria-describedby=\"cookie-box-message\"]{display:none !important}"
+    },
+    "bonn.de": {
+        "s": ".SP-ConsentBanner__spacer{display:none !important}"
+    },
+    "manduka.com": {
+        "j": "5"
+    },
+    "meliuz.com.br": {
+        "s": ".cookies-c{display:none !important}"
+    },
+    "dhbbank.de": {
+        "j": "5"
+    },
+    "lhotellerie-restauration.fr": {
+        "s": "#cookieConsent{display:none !important}"
+    },
+    "rawpixel.com": {
+        "s": "div[data-test-id=\"check-cookie-consent\"]{display:none !important}"
+    },
+    "csob.sk": {
+        "j": "5"
+    },
+    "vigo.de": {
+        "s": ".wx_consentbanner{display:none !important}"
+    },
+    "tallink.com": {
+        "j": "5"
+    },
+    "samsung.com": {
+        "s": ".helptips__container,#cookie_component{display:none !important}",
+        "j": "5"
+    },
+    "dier-en-dokter.nl": {
+        "j": "5"
+    },
+    "saurclient.fr": {
+        "s": "#cookies,.sds-m-cookiebanner{display:none !important}"
+    },
+    "autohaus.de": {
+        "j": "5"
+    },
+    "posylka.de": {
+        "j": "5"
+    },
+    "europa.eu": {
+        "s": "#edp-cookies-banner,.customCookie{display:none !important}",
+        "j": "5"
     }
 };
 var block_urls = {
     "common": [{
         "q": false,
         "r": "/iubenda_cs",
-        "e": ["radiomontecarlo.net", "video.repubblica.it", "video.lastampa.it", "nablawave.com", "buondi.it", "mediaset.it", "telerama.fr", "skuola.net"]
+        "e": ["radiomontecarlo.net", "video.repubblica.it", "video.lastampa.it", "nablawave.com", "buondi.it", "tgcom24.mediaset.it", "mediasetinfinity.mediaset.it", "telerama.fr", "skuola.net"]
     }, {
         "q": false,
         "r": "/amp-user-notification-",
@@ -37049,6 +37348,14 @@ var block_urls = {
     }, {
         "q": false,
         "r": "/Sticky2,ConsentManager",
+        "e": false
+    }, {
+        "q": false,
+        "r": "/ccm19_",
+        "e": ["ccm19.de"]
+    }, {
+        "q": false,
+        "r": "static.clickskeks.at",
         "e": false
     }],
     "common_groups": {
@@ -37726,10 +38033,6 @@ var block_urls = {
             "e": false
         }, {
             "q": false,
-            "r": "/wp-content/plugins/cookie-law-info/",
-            "e": ["eav.at", "wmagazine.com", "czyodebrac.pl", "moneytoplist.com"]
-        }, {
-            "q": false,
             "r": "/CookiePolicy/resources/scripts/cookie.policy.min.js",
             "e": false
         }, {
@@ -38055,7 +38358,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "consent.cookiebot.com",
-            "e": ["storyhouseegmont.dk", "storyhouseegmont.no", "storyhouseegmont.se", "egmont.com", "wwf.fi", "login.nos.pt", "asambeauty.com", "cineplex.de", "berlingske.dk", "digimon.kochfilms.de", "kino.dk", "hoyavision.com", "linak.es", "linak.de", "cajamar.es", "digitaltrends.com", "mein-grundeinkommen.de", "werder.de", "finanzmarktwelt.de", "danbolig.dk", "bt.dk", "scubadiving.com", "biomarkt.de", "harzwasserwerke.de", "stern.de", "dasinvestment.com", "derivate.bnpparibas.com", "werkenbijlidl.nl", "swspremberg.de", "nngroup.com", "bankia.es", "bergbauernmilch.de", "spiele-kostenlos-online.de", "ekstrabladet.dk", "epochtimes.de"]
+            "e": ["storyhouseegmont.dk", "storyhouseegmont.no", "storyhouseegmont.se", "egmont.com", "stadtmobil.de", "wwf.fi", "login.nos.pt", "asambeauty.com", "cineplex.de", "berlingske.dk", "digimon.kochfilms.de", "kino.dk", "hoyavision.com", "linak.es", "linak.de", "cajamar.es", "digitaltrends.com", "mein-grundeinkommen.de", "werder.de", "finanzmarktwelt.de", "danbolig.dk", "bt.dk", "scubadiving.com", "biomarkt.de", "harzwasserwerke.de", "stern.de", "dasinvestment.com", "derivate.bnpparibas.com", "werkenbijlidl.nl", "swspremberg.de", "nngroup.com", "bankia.es", "bergbauernmilch.de", "spiele-kostenlos-online.de", "ekstrabladet.dk", "epochtimes.de"]
         }, {
             "q": false,
             "r": "/ccp-sites/components/structure/cookie-notification/",
@@ -38155,7 +38458,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "/cookie-consent.js",
-            "e": ["talktalk.co.uk", "lacoste.com", "huuray.se", "indiearenabooth.com"]
+            "e": ["talktalk.co.uk", "codexis.cz", "lacoste.com", "huuray.se", "indiearenabooth.com"]
         }, {
             "q": false,
             "r": "/cookienotice-bootstrap.js",
@@ -38723,7 +39026,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "/cookie-banner.js",
-            "e": ["labs.strava.com"]
+            "e": ["labs.strava.com", "crossfit.com"]
         }, {
             "q": false,
             "r": "/w4.cookiebar.js",
@@ -38918,10 +39221,6 @@ var block_urls = {
             "e": false
         }, {
             "q": false,
-            "r": "/cookieModal/clientlib.js",
-            "e": false
-        }, {
-            "q": false,
             "r": "/rails_cookie_consent",
             "e": false
         }, {
@@ -39071,6 +39370,26 @@ var block_urls = {
         }, {
             "q": false,
             "r": "/cookies-consents.js",
+            "e": ["posta.sk"]
+        }, {
+            "q": false,
+            "r": "cookies.ptj.de",
+            "e": false
+        }, {
+            "q": false,
+            "r": "/cookieModal/clientlib",
+            "e": false
+        }, {
+            "q": false,
+            "r": "/cookie-consent-banner/",
+            "e": false
+        }, {
+            "q": false,
+            "r": "/dxcookieconsent/",
+            "e": false
+        }, {
+            "q": false,
+            "r": "/wp-content/plugins/real-cookie-banner",
             "e": false
         }],
         "consent": [{
@@ -39384,7 +39703,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "consentmanager.net/delivery/js/cmp",
-            "e": ["winfuture.de"]
+            "e": ["winfuture.de", "infranken.de"]
         }, {
             "q": false,
             "r": "consent-manager.confirmic.com",
@@ -39436,7 +39755,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "consentmanager.net/delivery/cmp",
-            "e": ["winfuture.de"]
+            "e": ["winfuture.de", "infranken.de"]
         }, {
             "q": false,
             "r": "/taunton-user-consent.js",
@@ -39700,10 +40019,6 @@ var block_urls = {
             "e": false
         }, {
             "q": false,
-            "r": "mediavine.com/tags/gdprModal",
-            "e": false
-        }, {
-            "q": false,
             "r": "/zgdpr.min.js",
             "e": false
         }, {
@@ -39785,6 +40100,14 @@ var block_urls = {
         }, {
             "q": false,
             "r": "/gdprScriptComponent.js",
+            "e": false
+        }, {
+            "q": false,
+            "r": "mediavine.com/tags/gdpr",
+            "e": false
+        }, {
+            "q": false,
+            "r": "pubnation.com/tags/gdpr",
             "e": false
         }],
         "privacy": [{
@@ -40070,6 +40393,10 @@ var block_urls = {
             "e": false
         }, {
             "q": false,
+            "r": "seznam.cz/js/cmp",
+            "e": false
+        }, {
+            "q": false,
             "r": "/pubtech-cmp",
             "e": false
         }, {
@@ -40168,7 +40495,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "/Amasty_GdprCookie",
-            "e": ["planet-cards.co.uk", "wondrium.com", "nova-motors.de", "moleonline.com", "durstexpress.de", "littlelunch.com", "twinpack.nl", "eckeroline.fi", "eilles.de", "xt500parts.com"]
+            "e": ["planet-cards.co.uk", "sunkost.no", "wondrium.com", "nova-motors.de", "moleonline.com", "durstexpress.de", "littlelunch.com", "twinpack.nl", "eckeroline.fi", "eilles.de", "xt500parts.com"]
         }, {
             "q": false,
             "r": "/ts/components/CookieConsent.",
@@ -40432,6 +40759,10 @@ var block_urls = {
             "q": false,
             "r": "/ishop-plugins/ishop-cp",
             "e": false
+        }, {
+            "q": false,
+            "r": "/wp-content/plugins/rrze-legal",
+            "e": false
         }],
         "track": [{
             "q": false,
@@ -40544,7 +40875,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "fundingchoicesmessages.google.com",
-            "e": ["rtl.hr", "fernsehserien.de", "bbc.com", "iol.pt", "stooq.pl", "stooq.com"]
+            "e": ["rtl.hr", "kledgeb.blogspot.com", "fernsehserien.de", "bbc.com", "iol.pt", "stooq.pl", "stooq.com"]
         }, {
             "q": false,
             "r": "spiffymachine.com/v2/",
@@ -40861,7 +41192,7 @@ var block_urls = {
         }, {
             "q": false,
             "r": "/wrapperMessagingWithoutDetection.js",
-            "e": ["standard.co.uk", "ladbible.com", "theguardian.com", "theguardian.com.", "bild.de", "autoweek.nl", "computerbild.de", "bold.dk", "welt.de", "t-online.de", "sport1.de", "focus.de", "chip.de", "faz.net", "n-tv.de", "wunderweib.de", "helpster.de", "tvmovie.de", "praxisvita.de", "cosmopolitan.de", "giga.de", "ostsee-zeitung.de", "sky.com", "lvz.de", "mein-schoener-garten.de", "boerse-online.de", "tvspielfilm.de", "autobild.de", "bike-bild.de", "bz-berlin.de", "travelbook.de", "cyberport.at", "cyberport.de", "golem.de", "express.de", "ksta.de", "utopia.de", "video.sky.it", "bndestem.nl", "volkskrant.nl", "rundschau-online.de", "rtl2.de", "capital.fr", "derstandard.de", "derstandard.at", "unsere-helden.com", "rtl.de", "stern.de", "myaccount.hln.be", "nu.nl", "maennersache.de", "dpgmedia.nl", "destentor.nl", "zeit.de", "ad.nl", "dpgmedia.be", "heise.de", "t3n.de"]
+            "e": ["standard.co.uk", "ladbible.com", "theguardian.com", "theguardian.com.", "bild.de", "autoweek.nl", "computerbild.de", "bold.dk", "welt.de", "t-online.de", "sport1.de", "focus.de", "chip.de", "faz.net", "n-tv.de", "wunderweib.de", "helpster.de", "tvmovie.de", "praxisvita.de", "cosmopolitan.de", "giga.de", "ostsee-zeitung.de", "sky.com", "lvz.de", "mein-schoener-garten.de", "boerse-online.de", "tvspielfilm.de", "autobild.de", "aftonbladet.se", "bike-bild.de", "bz-berlin.de", "travelbook.de", "cyberport.at", "cyberport.de", "golem.de", "express.de", "ksta.de", "utopia.de", "video.sky.it", "bndestem.nl", "volkskrant.nl", "rundschau-online.de", "rtl2.de", "capital.fr", "derstandard.de", "derstandard.at", "unsere-helden.com", "rtl.de", "stern.de", "myaccount.hln.be", "nu.nl", "maennersache.de", "dpgmedia.nl", "destentor.nl", "zeit.de", "ad.nl", "dpgmedia.be", "heise.de", "t3n.de"]
         }, {
             "q": false,
             "r": "/app.dsgvo.min.js",
@@ -40929,6 +41260,10 @@ var block_urls = {
         }, {
             "q": false,
             "r": "cc.mpa-web.de/public/app.js",
+            "e": false
+        }, {
+            "q": false,
+            "r": "/klaro/klaro-pe.js",
             "e": false
         }]
     },
@@ -41362,6 +41697,13 @@ var block_urls = {
         "meilleure-innovation.com": ["privacy-center.org"],
         "huelvainformacion.es": ["privacy-center.org"],
         "lawgazette.co.uk": ["cdn.civiccomputing.com"],
-        "abload.de": ["ccm."]
+        "abload.de": ["ccm."],
+        "gfms.com": ["cdn.civiccomputing.com"],
+        "ccm19.de": ["/cmapp/"],
+        "meinaccount.gmx.net": ["/ppp/js/permission-client"],
+        "hilfe.gmx.net": ["/ppp/js/permission-client"],
+        "mein.web.de": ["/ppp/js/permission-client"],
+        "uca.es": ["/cookies_utils.js"],
+        "investice.cz": ["/boldCookie_custom.js"]
     }
 };

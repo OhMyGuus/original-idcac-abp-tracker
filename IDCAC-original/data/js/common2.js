@@ -1,12 +1,12 @@
-function getItem(h)
+function getItem(hostname)
 {
-	switch (h)
+	switch (hostname)
 	{
 		case 'pepephone.com': return {strict: true, key: 'cookiesChosen', value: 'done'};
 	}
 	
 	
-	const parts = h.split('.');
+	const parts = hostname.split('.');
 	
 	if (parts.length > 2)
 	{
@@ -18,8 +18,8 @@ function getItem(h)
 }
 
 
-let	h = document.location.hostname.replace(/^w{2,3}\d*\./i, ''),
-	item = getItem(h);
+let	hostname = document.location.hostname.replace(/^w{2,3}\d*\./i, ''),
+	item = getItem(hostname);
 
 if (item) {
 	let value = sessionStorage.getItem(item.key);

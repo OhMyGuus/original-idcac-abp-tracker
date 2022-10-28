@@ -3,7 +3,7 @@
   "name": "__MSG_extensionName__",
   "short_name": "__MSG_extensionDescription__",
   "default_locale": "en",
-  "version": "3.4.3",
+  "version": "3.4.4",
   "applications": {
     "gecko": {
       "id": "jid1-KKzOGWgsW3Ao4Q@jetpack",

@@ -1,45 +1,45 @@
-function _sl(s, c) {
-	return (c || document).querySelector(s);
+function _sl(selector, container) {
+	return (container || document).querySelector(selector);
 }
 
-function _id(s) {
-	return document.getElementById(s);
+function _id(id) {
+	return document.getElementById(id);
 }
 
 
-var _i = setInterval(function() {
+var main_interval = setInterval(function() {
 	var html = _sl('html');
 	
-	if (!html || /idc8_343/.test(html.className))
+	if (!html || /idc8_344/.test(html.className))
 		return;
 	
-	clearInterval(_i);
+	clearInterval(main_interval);
 	
-	html.className += ' idc8_343';
+	html.className += ' idc8_344';
 	
-	var c = 0, l = document.location, i = setInterval(function() {
+	var counter = 0, interval = setInterval(function() {
 		
-		var e;
+		var element;
 		
-		if (l.hostname.split('.')[0] == 'consent') {
-			if (l.pathname == '/m') {
-				e = _sl('form[action*="//consent."][action$="/s"] button, form[action*="//consent."][action$="/save"] button');
+		if (document.location.hostname.split('.')[0] == 'consent') {
+			if (document.location.pathname == '/m') {
+				element = _sl('form[action*="//consent."][action$="/s"] button, form[action*="//consent."][action$="/save"] button');
 				
-				if (e) {
-					e.click();
-					c = 299;
+				if (element) {
+					element.click();
+					counter = 299;
 				}
 			}
 			
 			
 			// Mobile only, ie google.co.uk (or in FF Nightly, on google.com search results)
 			
-			else if (l.pathname == '/ml') {
-				e = _sl('.saveButtonContainerNarrowScreen > form:last-child .button');
+			else if (document.location.pathname == '/ml') {
+				element = _sl('.saveButtonContainerNarrowScreen > form:last-child .button');
 				
-				if (e) {
-					e.click();
-					c = 299;
+				if (element) {
+					element.click();
+					counter = 299;
 				}
 			}
 		}
@@ -47,10 +47,10 @@ var _i = setInterval(function() {
 		
 		// https://www.google.com/finance/
 		
-		else if (l.hostname == 'ogs.google.com' && l.pathname == '/widget/callout') {
+		else if (document.location.hostname == 'ogs.google.com' && document.location.pathname == '/widget/callout') {
 			if (document.evaluate('//span[contains(text(), "This site uses cookies")]', document, null, XPathResult.ANY_TYPE, null).iterateNext()) {
 				_sl('button').click();
-				c = 299;
+				counter = 299;
 			}
 		}
 		
@@ -63,25 +63,25 @@ var _i = setInterval(function() {
 				_sl('button + button', container).click();
 				
 				// Autofocus on the search field
-				e = _sl('form[role="search"][action="/search"]:not([id]) input[aria-autocomplete="both"]');
-				if (e) e.focus();
+				element = _sl('form[role="search"][action="/search"]:not([id]) input[aria-autocomplete="both"]');
+				if (element) element.focus();
 				
-				c = 299;
+				counter = 299;
 			}
 			
 			// General privacy reminder
-			e = _sl('form[action^="/signin/privacyreminder"] > div > span > div:not([role]) > div:not([tabindex]) span + div');
-			if (e) e.click();
+			element = _sl('form[action^="/signin/privacyreminder"] > div > span > div:not([role]) > div:not([tabindex]) span + div');
+			if (element) element.click();
 			
 			// #cns=1
-			if (l.hash == '#cns=1')
-				l.hash = '#cns=0';
+			if (document.location.hash == '#cns=1')
+				document.location.hash = '#cns=0';
 		}
 		
-		c++;
+		counter++;
 		
-		if (c == 300)
-			clearInterval(i);
+		if (counter == 300)
+			clearInterval(interval);
 	
-	}, 250 + c*10);
+	}, 250 + counter*10);
 }, 250);
