@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XLjYhB9YQP2xZ2/JuGxEnA
+! Checksum: gkNpn04zv5qMhnIu2p6bTQ
 ! Title: Easylist Cookie List
-! Updated: 2022-10-27 23:20 UTC
+! Updated: 2022-10-28 01:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18931,6 +18931,7 @@ crossfit.com##._wrapper_1u43b_17
 1ipb.com##.a-warning
 nytimes.com##.abe45aa6
 sunweb.co.uk##.absolute-dialog
+nicequest.com##.ac
 presta-module.com##.acbBackdrop
 greenfields.eu##.accept-alert
 mymuesli.com##.active.mask
