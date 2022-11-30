@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: o9aXK0Zi9dzOheLPQkGsJw
+! Checksum: kaIHup8r8FJlRK73QAu5hw
 ! Title: Easylist Cookie List
-! Updated: 2022-11-28 16:00 UTC
+! Updated: 2022-11-28 13:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -246,7 +246,7 @@
 /cookie-choices.
 /cookie-cnil/*
 /cookie-compliance.
-/cookie-consent-$script,domain=~cookielaw.org|~github.com|~gitlab.com
+/cookie-consent-$domain=~cookielaw.org|~github.com|~gitlab.com
 /cookie-consent.
 /cookie-consent/*
 /cookie-consent?
