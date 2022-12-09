@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JepQS4mLhlLfrqEZIzEKSQ
+! Checksum: gjpXsjSLfVa0/2KP1i27Hg
 ! Title: Easylist Cookie List
-! Updated: 2022-12-09 16:42 UTC
+! Updated: 2022-12-09 11:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -14223,7 +14223,6 @@ _vpcookieconsent/
 ##.gdpr-agree
 ##.gdpr-agreement-box
 ##.gdpr-alert
-##.gdpr-alert-bar
 ##.gdpr-alert-bottom
 ##.gdpr-alert-box-wrapper
 ##.gdpr-area
@@ -19424,7 +19423,6 @@ give-crypto.com##.css-42befo
 magic.wizards.com##.css-L6WjG
 argent.xyz##.css-fnrkut
 exeedme.com##.css-jxh131
-taongafarm.com##.css-muxznr-cookie-consent--Panel
 pwsweather.com##.css-nl3u0z
 everywhere.game##.css-reofqc
 airwallex.com##.css-svuxes
@@ -20063,7 +20061,6 @@ euroclear.com##.simple-modal-overlay
 eurekahedge.com##.simplemodal-container
 eurekahedge.com##.simplemodal-overlay
 tricentis.com##.site-banner
-up.ac.za##.site-blur-container
 newstatesman.com,orchardthievescider.ie##.site-footer
 last.fm##.site-message
 preplounge.com##.site-modals-container
