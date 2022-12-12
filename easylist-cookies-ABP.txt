@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0w5DJVLGo/yeGxjywnx7Wg
+! Checksum: 6MxDjqup2KxxtTQlYfhutA
 ! Title: Easylist Cookie List
-! Updated: 2022-12-10 06:40 UTC
+! Updated: 2022-12-10 09:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20159,6 +20159,8 @@ talentplug.com##.tp-popin-cookies
 thomsonreuters.com##.tr-DismissibleBanner
 nyit.edu##.tracking
 fabasoft.com##.tracking-alert
+didriksons.com##.tracking-consent-v2
+didriksons.com##.tracking-consent-v2__modal
 theblues-thatjazz.com##.transbox1
 global.miui.com##.transition-all.rounded-t.fixed
 secure.imvu.com##.transparent-overlay
