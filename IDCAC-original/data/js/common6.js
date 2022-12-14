@@ -43,10 +43,6 @@ function getE(hostname)
 		case 'ciustekno.me':
 			return ['cookieLaw=got_it'];
 		
-		case 'livejasmin.com':
-		case 'livesexasian.com':
-			return ['is_personalized_content_consent_given=1'];
-		
 		case 'milkywire.com':
 		case 'freeletics.com':
 			return ['cookie_consent=true'];
@@ -73,6 +69,7 @@ function getE(hostname)
 		case 'forgeofempires.com':
 			return ['CookieNotification=1'];
 		
+		case 'livesexasian.com': return ['is_personalized_content_consent_given=1'];
 		case 'finantia.com': return ['finantia_cookie=active'];
 		case 'finantia.es': return ['strictly_necessary=active'];
 		case 'domhouse.pl': return ['rodo=1'];
@@ -103,7 +100,6 @@ function getE(hostname)
 		case 'virustotal.com': return ['euConsent=1', 'tosChangedAccepted=1'];
 		case 'cmore.se': return ['cookieBannerDismissed=true'];
 		case 'choosist.com': return ['accept_cookie=1'];
-		case 'kufar.by': return ['ck=1'];
 		case 'ezys.lt': return ['cookie-consent=3'];
 		case 'kalenderwoche.de': return ['cookiepolicy=0'];
 		case 'poolia.se': return ['cookiePolicyAccepted=1']; // jobb

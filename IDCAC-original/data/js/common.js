@@ -60,6 +60,13 @@
 			'.container-cookie-modal-footer-refuse'
 		],
 		
+		'#__tealiumGDPRcpPrefs': [
+			'#privacy_prompt[style*="block"] #preferences_prompt_decline',
+			'.consent-manager[style*="block"] #cm-acceptNone',
+			'.consent-manager[style*="block"] #consent_wall_optout',
+			'.tiq_cm[style*="block"] #deny_full_submit_1'
+		],
+		
 		'.fancybox-lock': [
 			'.fancybox-opened .bcGDPR .bcOpenPrivacySettings',
 			'.fancybox-opened .bcGDPR .bcRadioRefuse',
@@ -72,7 +79,8 @@
 		
 		'.fancybox-is-open': [
 			'#cookie-consent .cc-page-2 #cc-set-cookie',
-			'.consent-modal .btn[data-action="save-preferences"]'
+			'.consent-modal .btn[data-action="save-preferences"]',
+			'#acceptCookiesId[style*="block"] .cookieDecline'
 		],
 		
 		'.pum-open': [
@@ -167,7 +175,12 @@
 			'.save-cookie-settings',
 			'#btnCookieNecessary',
 			'.btn.cookies-decline',
-			'#cookieConsentConfigBtnDecline'
+			'#cookieConsentConfigBtnDecline',
+			'#continueWithoutAccepting',
+			'#cookieSavingButton',
+			
+			'#bccs-buttonDoNotAgree',
+			'#bccs-buttonAgreeRequired:first-child'
 		]
 	};
 	
@@ -488,7 +501,7 @@
 								button.click();
 								
 								// The 2nd click is just to be sure. Avoid when a double click breaks the process.
-								if (selector != '.message-container')
+								if (selector != '.message-container' && button.getAttribute('href') != '#cookieman-settings')
 									setTimeout(function() { if (button) button.click(); }, 500);
 								
 								timeoutDuration += 500;
@@ -526,10 +539,10 @@
 	var start = setInterval(function() {
 		var html = document.querySelector('html');
 		
-		if (!html || /idc0_344/.test(html.className))
+		if (!html || /idc0_345/.test(html.className))
 			return;
 		
-		html.className += ' idc0_344';
+		html.className += ' idc0_345';
 		searchLoop(0);
 		clearInterval(start);
 	}, 500);
