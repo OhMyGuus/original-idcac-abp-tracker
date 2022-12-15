@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SZrCk4+J+fe0c7NFz1klww
+! Checksum: 0+Wq8YakAjjlDNUsRtZtPQ
 ! Title: Easylist Cookie List
-! Updated: 2022-12-15 10:00 UTC
+! Updated: 2022-12-15 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -908,6 +908,7 @@
 /policyaccept.
 /PoliticaCookies.
 /pop_up_cookie.
+/popupConsent.
 /PopupCookie.
 /popupcookieinit.
 /popupcookies.
@@ -13787,6 +13788,7 @@ _vpcookieconsent/
 ##.e-cookies-warning
 ##.e-note__cookies
 ##.e-tron-cookies-notice
+##.e3_cookies
 ##.e3n_cookiebanner
 ##.eCookiesBanner
 ##.eGDSCookiesOverlay
@@ -21633,6 +21635,7 @@ buro247.hr###subscriptionPopupBottom
 crocontrol.hr##.SiteAnnouncement
 infranet.hr##.ccb__edit
 generali.hr##.cd-module
+rba.hr,rbainvest.hr##.cd-module-main
 flair.hr##.css-8g6x3l
 hapih.hr,podravski.hr##.dialog-widget
 buket.hr##.kukip
