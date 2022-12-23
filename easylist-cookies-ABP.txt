@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oYiMS5e3v+3RaIAXW33Wxg
+! Checksum: uAZB/+VnvxOz5+ziPzVe7w
 ! Title: Easylist Cookie List
-! Updated: 2022-12-23 04:40 UTC
+! Updated: 2022-12-23 12:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20242,6 +20242,7 @@ andyguitar.co.uk##.v-dialog__content
 andyguitar.co.uk,rypsv.scot,trustpid.com##.v-overlay
 whitepages.com##.v-snack__content
 rewardlink.io##.v-snack__wrapper
+homebyames.com##.veil
 dailysabah.com##.veriAltBar
 medium.com##.vi.vh.vg.mk.es.eq
 robertozeno.com##.video-mask
