@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7SipMuyEajIW5n5bYM8FeA
+! Checksum: 4LhlYCJdRp2Js/qVmUCAsw
 ! Title: Easylist Cookie List
-! Updated: 2022-12-24 00:00 UTC
+! Updated: 2022-12-24 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -228,6 +228,7 @@
 /consent_banner-
 /consent_non-eu.
 /consentbanner-fragment/*
+/consentbar/consent-bar.min.js
 /consentcookie.js
 /consentcookie.min.js
 /ConsentTracking-
@@ -8116,6 +8117,7 @@ _vpcookieconsent/
 ###policy_wrapper
 ###polish-cookie-note
 ###politica-cookies
+###politica-privacidade-lgpd
 ###politicaCookie
 ###politicaCookies
 ###politicaDeCookies
@@ -11077,6 +11079,7 @@ _vpcookieconsent/
 ##.container-fluid.cookie-modal
 ##.container-fluid.cookies
 ##.container-gdpr-cookie-banner
+##.container-lgpd
 ##.container-notificacao-lgpd
 ##.container.cookieinfo
 ##.containerBox-cookies
@@ -13700,6 +13703,7 @@ _vpcookieconsent/
 ##.divCookiebotTab
 ##.divCookies
 ##.divCookiesWarning
+##.divFooterCookie
 ##.divLeyCookies
 ##.div_CookieLaw
 ##.div_CookieNoticeContainer
@@ -14985,6 +14989,7 @@ _vpcookieconsent/
 ##.js-id--cookieconsent
 ##.js-infoBarCookies
 ##.js-layer-cookies
+##.js-lgpd
 ##.js-lwpcngNotice
 ##.js-main-cookie-banner
 ##.js-message-cookies
@@ -16102,6 +16107,7 @@ _vpcookieconsent/
 ##.politica-cookies-container
 ##.politica-de-cookies
 ##.politica-privacidade
+##.politica-privacidade-lgpd
 ##.politicaCookies
 ##.politicaRewards
 ##.politica_cookies
@@ -17599,6 +17605,7 @@ _vpcookieconsent/
 ##app-cookies-popup
 ##app-cookies-toast
 ##app-foncia-cookie-banner
+##app-footer-modal-cookie
 ##app-pop-up-cookies
 ##app-rodo
 ##app-root app-cookie-acceptance
@@ -20294,7 +20301,6 @@ plente.com##[class*="SnackbarMessages__snackbar_"]
 bankera.com##[class*="cookie-module"]
 payback-ltd.com##[class*="cookiesPopUp"]
 weedmaps.com##[class*="styles__BannerContainer-"]
-hiveon.com##[class^="CookieBar-"]
 carx-online.com##[class^="Cookie__Component-"]
 bitbrain.com##[class^="CookiesManager"]
 btc-alpha.com##[class^="Cookies_container"]
@@ -20337,7 +20343,6 @@ ppi2pass.com,schweser.com##div[class^="AlertD_container"]
 rally.io##div[class^="Banner_banner_"]
 carvertical.com##div[class^="BisquitsBanner_"]
 monzo.com##div[class^="CookieAlert-"]
-freedomtreks.co.uk,hiveon.net,skisafari.com,watch.plex.tv##div[class^="CookieBar"]
 manychat.com##div[class^="CookieBumper"]
 alcatraz.ai##div[class^="CookiesModal-"]
 internxt.com##div[class^="Footer_cookiesBgFallback"]
@@ -20482,10 +20487,12 @@ helifix-cz.cz,helifix.co.nz,helifix.co.uk,helifix.com,helifix.com.au,helifix.de,
 morningstar.at,morningstar.be,morningstar.ca,morningstar.ch,morningstar.co.uk,morningstar.com,morningstar.de,morningstar.dk,morningstar.es,morningstar.fi,morningstar.fr,morningstar.hk,morningstar.it,morningstar.nl,morningstar.no,morningstar.pt,morningstar.se,morningstarbr.com###additionalInfoe
 !! allthingslive
 allthingslive.be,allthingslive.com,allthingslive.dk,allthingslive.fi,allthingslive.no,allthingslive.se##[class*="CookieBannerPro_"]
+!! CookieBar
+freedomtreks.co.uk,hiveon.com,hiveon.net,kritikos-sm.gr,skisafari.com,watch.plex.tv##div[class^="CookieBar"]
 !! .cc-window
 ablebits.com,bund-naturschutz.de,e-infra.com,malaysiaairlines.com,wedolit.eu,zesty.tech##.cc-window
 !! #lgpd-container
-alunopresente.org.br,educacaoeterritorio.org.br,livredetrabalhoinfantil.org.br,portal.aprendiz.uol.com.br,territoriosemrede.org.br###lgpd-container
+alunopresente.org.br,connectparts.com.br,educacaoeterritorio.org.br,livredetrabalhoinfantil.org.br,portal.aprendiz.uol.com.br,territoriosemrede.org.br###lgpd-container
 !! .cookie_modal
 bolsamaisbrasil.com.br,tabuladigital.com.br,team.drund.com##.cookie_modal
 !! CookiePolicy
@@ -20598,7 +20605,7 @@ commentcoder.com,eanews.ru##[class^="gdpr_"]
 !! .overLay
 abundantgracetabernacle.org.uk,destemma.org,pacificandgold.co.uk##.overLay
 !! .CookieConsent
-bluemail.me,cmodx.com,e-ville.com,forbesafrica.com,fotmob.com,geeksforgeeks.org,nebula.tv,nordlayer.com,nordlocker.com,officedepot.hu,opyn.co,pango.education,rcskinclinic.com,salvagemarket.co.uk,shuttle.rs,tayama.pl,u.sb,ubank.co.za,upgrade.chat,wheels.ca##.CookieConsent
+bluemail.me,cmodx.com,e-ville.com,forbesafrica.com,fotmob.com,geeksforgeeks.org,nebula.tv,nordlayer.com,nordlocker.com,officedepot.hu,opyn.co,pango.education,pichau.com.br,rcskinclinic.com,salvagemarket.co.uk,shuttle.rs,tayama.pl,u.sb,ubank.co.za,upgrade.chat,wheels.ca##.CookieConsent
 !! .m-smartbar-container
 hilti.com,hilti.dk,hilti.ru##.m-smartbar-container
 !! #policy-ribbon
@@ -22734,6 +22741,7 @@ fiat.com.br##.CookieHolder_container__23g0s
 magazineluiza.com.br##.FSeli
 quebarato.com.br##.PrivacyPolicy_floating__bj1Ov
 talixo.pt##.TrackingInfoBox
+amaro.com##._container_1siqr_54
 bancobmg.com.br##.acceptance-terms
 maistre.com.br##.aceite
 instituto-camoes.pt##.activebar-container
@@ -22767,7 +22775,7 @@ elegis.com.br##.dialog-lightbox-widget-content
 promobit.com.br##.e85akae0
 tjsc.jus.br##.fixed-bottom
 hotelgolfmarvimeiro.pt##.fixedblock
-quebarato.com.br##.floatingBarPrivacy
+bondfaro.com.br,quebarato.com.br##.floatingBarPrivacy
 posthaus.com.br##.foPcpY
 porcel.pt##.footer
 ericeirasurfskate.pt,istore.pt##.footer-fixed-bar
@@ -22824,7 +22832,8 @@ r7.com##.toolkit-privacy-box__body
 asatransforma.org.br,viacaogatopreto.com.br##.wrapper
 cafelor.com.br##.x-cafeLor__lgpd
 rosenberger.com##.z7cmbnr
-bondfaro.com.br##div[class^="PrivacyPolicy_"]
+bondfaro.com.br,buscape.com.br##div[class^="PrivacyPolicy_"]
+lojasrenner.com.br##div[class^="ReactFooterCivilMark_notification_"]
 paodeacucar.com##div[class^="alert-cookiestyles"]
 americanas.com.br,shoptime.com.br,submarino.com.br##div[class^="lgpd-message-box_"]
 telecine.com.br##div[data-testid="banner"]
@@ -23346,6 +23355,7 @@ scb.co.th##.consent_section
 glo.or.th##.cookie-wapper
 set.or.th##.cookies-pdpa
 techsauce.co##.cwc-cookie-banner-ui-sdk
+kapook.com##.footer-policy
 forfur.com##.footerpolicy
 becteroradio.com,teroradio.com##.policy
 pantip.com##.pt-snackbar__surface
