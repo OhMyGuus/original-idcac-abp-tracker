@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Pssj7Lg7/I2+u6N7Gkgoaw
+! Checksum: wQherevDQTcVOXTzW2875g
 ! Title: Easylist Cookie List
-! Updated: 2022-12-28 03:40 UTC
+! Updated: 2022-12-28 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19552,7 +19552,6 @@ elasticemail.com##.elastic-cookie-notice
 my.bulbapp.com##.elementor-element-10ff3dc7
 fxhome.com##.elementor-location-footer
 firstbanknigeria.com##.elementor-location-popup
-engagebay.com##.engagebay-gdpr-dialog
 voat.co##.eppnotice
 ml-quant.com##.ettof6h4
 airproducts.co.uk##.eu-dp
