@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8y6pG+jE1olZFYVXeZttew
+! Checksum: cHXwZzFz9wL/gUwhSuiHNQ
 ! Title: Easylist Cookie List
-! Updated: 2022-12-29 02:00 UTC
+! Updated: 2022-12-29 04:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18722,6 +18722,7 @@ charleslandaudentistry.co.uk###cc-container
 consoleconnect.com,pccwglobal.com###cc-overlay
 skargards.com###cc_dialog
 ovigo.tv###ccnst__main
+providentcu.org###ccpa
 rohan.co.uk###ccpop
 duffay-publicite.com###ch-cookie-consent-modal
 news.cision.com###cision-cookie-policy-banner
@@ -19275,7 +19276,6 @@ deno.land,ulster.rugby##.bg-black
 wimhofmethod.com##.bg-blue-r1
 sifted.eu##.bg-darkGray
 caymanchem.com##.bg-darker-gray
-livecounts.io##.bg-gray-200.z-50
 unitedglobalsim.com##.bg-green
 icoone.com##.bg-modal
 capadriano.com##.bg-opacity-75
@@ -19411,6 +19411,7 @@ writerduet.com##.container.pb-4.pt-4
 iconscout.com##.container_hP6iH
 sanitarium.co.nz,sanitarium.com.au##.cookie--modal
 connection.com,govconnection.com,macconnection.com##.cookie-check
+dreamingreece.com##.cookie-consent-inner
 cinch.co.uk##.cookie-consent_overlay__QytSD
 cameronhouse.co.uk##.cookie-container
 theatlantic.com##.cookie-disclaimer
@@ -19696,6 +19697,7 @@ reddit.com##.infobar-toaster-container
 ramboll-environ.com##.infoboxHolder
 thagson.com##.init_message
 marshall-leasing.co.uk##.inital
+mymorrisons.com##.inset-0.absolute
 extract.pics,stringfurniture.com##.inset-0.fixed
 picturehouses.com##.interim-banner
 jamesallen.com##.iqysxs
@@ -20265,7 +20267,6 @@ gitconnected.com##.yu.yt.ys.gi.u.od
 yahoo.com##.yucs-eprivacy
 mudpie.com##.z-30
 londonciv.org.uk##.z-30.inset-0.fixed
-bootstrap.academy,doppelherz.com,freelway.com##.z-50
 pizzahut.co.uk##.z-600
 fydeos.com,fydeos.io##.z-90000
 starlingbank.com##.zYsLEJxzmfBA2Jbfgv8V
@@ -20423,7 +20424,7 @@ le-jackpot-des-medailles-safti.fr,netzreform.de,opensocietyfoundations.org,otter
 !! .cc_div
 blocktechnology.eu,brgroup.cz,candylipz.sk,vitkovicecylinders.cz##.cc_div
 !! .cookie-setting
-beleuchtung.de,lampak.hu,spokojenypes.cz,svet-svietidiel.sk,svet-svitidel.cz,valomania.fi##.cookie-setting
+beleuchtung.de,lampak.hu,luminam.ro,spokojenypes.cz,svet-svietidiel.sk,svet-svitidel.cz,valomania.fi##.cookie-setting
 !! .consent
 acast.com,bais.de,birgit-bittermann.de,builds.gg,checkyourmath.com,ciaoflorence.it,codementor.io,culturecalling.com,gezondheidsplein.nl,grandepremio.com.br,grips-automation.com,grotekleren-webwinkel.nl,iyengaryoga.it,mbc.net,mcdonalds.hu,onzetaal.nl,scentre.pl,smarttrip.it,speicherguide.de##.consent
 !! #consent
@@ -20843,7 +20844,8 @@ myfitnesspal.cn,myfitnesspal.co.kr,myfitnesspal.com,myfitnesspal.com.hk,myfitnes
 myfitnesspal.cn,myfitnesspal.co.kr,myfitnesspal.com,myfitnesspal.com.hk,myfitnesspal.com.tw,myfitnesspal.de,myfitnesspal.es,myfitnesspal.it,myfitnesspal.jp,myfitnesspal.nl,myfitnesspal.se##.jss147
 myfitnesspal.cn,myfitnesspal.co.kr,myfitnesspal.com,myfitnesspal.com.hk,myfitnesspal.com.tw,myfitnesspal.de,myfitnesspal.es,myfitnesspal.it,myfitnesspal.jp,myfitnesspal.nl,myfitnesspal.se##.jss91
 myfitnesspal.cn,myfitnesspal.co.kr,myfitnesspal.com,myfitnesspal.com.hk,myfitnesspal.com.tw,myfitnesspal.de,myfitnesspal.es,myfitnesspal.it,myfitnesspal.jp,myfitnesspal.nl,myfitnesspal.se##.jss93
-!
+! .z-50
+bootstrap.academy,doppelherz.com,freelway.com,livecounts.io,mymorrisons.com##.z-50
 ! scotiabank
 roynat.com,scotiabank.com,scotiafunds.com,scotiaitrade.com,scotialifefinancial.com,scotiawealthmanagement.com##.alert-sticky
 ! groupon
