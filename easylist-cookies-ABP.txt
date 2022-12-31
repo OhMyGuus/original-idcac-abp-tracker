@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 50vNVVTHvVkzo1C2bizqMg
+! Checksum: k+41gMhme1Rue8HGFlSdhQ
 ! Title: Easylist Cookie List
-! Updated: 2022-12-31 10:40 UTC
+! Updated: 2022-12-31 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -16855,7 +16855,6 @@ _vpcookieconsent/
 ##.symantec-cp-banner
 ##.symposia-cookie-accept
 ##.syno_cookie_element
-##.syrenis-cookie-widget
 ##.sys_cc-cookies
 ##.sys_header_toolbar_cookie_text
 ##.system-notice.cookie
@@ -24095,7 +24094,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||vps2day.com/wp-content/plugins/complianz-gdpr/core/assets/js/cookieconsent.min.js$~third-party
 @@||washingtonpost.com/gdpr-consent/$subdocument,xmlhttprequest
 @@||wasing.co.uk/global/cookie/$~third-party
-@@||wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js$domain=blogs.bing.com|halowaypoint.com|mcr.microsoft.com|pcmanager-en.microsoft.com|zone.msn.com
+@@||wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js$domain=blogs.bing.com|halowaypoint.com|mcr.microsoft.com|nonprofit.microsoft.com|pcmanager-en.microsoft.com|zone.msn.com
 @@||wesendit.com/lib/cookieconsent.min.js$~third-party
 @@||workingtitlefilms.com/site-content/plugins/nbcu-plugins/bwp-minify/$stylesheet
 @@||www.digikey.*/cookie-notice.css$stylesheet,~third-party
