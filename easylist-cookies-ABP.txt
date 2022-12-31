@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: S3vxyYp1mfbjmeWDEddBnA
+! Checksum: 50vNVVTHvVkzo1C2bizqMg
 ! Title: Easylist Cookie List
-! Updated: 2022-12-31 00:00 UTC
+! Updated: 2022-12-31 10:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21827,7 +21827,6 @@ medlon.nl###globalmessage_holder
 calorielijst.nl,dietenlijst.nl,koolhydratentabel.nl,receptentabel.nl###loading
 sicomputers.nl###mm-cc-wrap
 effeweg.nl###mp-popupoverlay1
-nederlandseloterij.nl###nlportal-cookie-consent
 ardanta.nl###notification-bar
 weespreventief.nl###popup
 bostools.nl###privacy-policy
@@ -21913,7 +21912,6 @@ ziggogo.tv##.notifications-manager
 zeelandhome.nl##.onderbalk
 hardware.info##.oreo
 appmetmij.nl,ing.nl,soldaatvanoranje.nl##.overlay
-nederlandseloterij.nl##.overlay-loader
 deurbeslag-expert.nl##.pin-b.fixed
 koentact.nl##.popmake
 schuttetweewielers.nl##.popup-wrapper
