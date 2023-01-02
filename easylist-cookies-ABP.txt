@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TCfUS2UCqpDrMkOT0r4hVg
+! Checksum: yN8vAK5BjCRXcFhxtMJO/Q
 ! Title: Easylist Cookie List
-! Updated: 2023-01-01 21:40 UTC
+! Updated: 2023-01-01 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20363,6 +20363,7 @@ openpli.org##div[style^="height:20px;background-color:#FAFFDC;"]
 globaltuners.com,psychomedia.qc.ca,speedtestcustom.com,zerochan.net##div[style^="position: fixed; bottom"]
 calendardate.com##div[style^="position: fixed; left: 0px; bottom: 0px;"]
 exporterhub.io,goodingco.com,nllb.metademolab.com,socean.fi##div[style^="position: fixed; left: 0px; top: 0px;"]
+nytimes.stats.com##div[style^="position: fixed; overflow: auto; bottom: 0px; padding: 16px 32px;"]
 inverto.tv##div[style^="position: fixed; z-index: 10000;"]
 playok.com##div[style^="position: fixed;"]
 carsized.com##div[style^="position:fixed;display:block;"]
