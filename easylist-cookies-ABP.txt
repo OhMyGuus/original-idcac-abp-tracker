@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yN8vAK5BjCRXcFhxtMJO/Q
+! Checksum: uqm+E9q3Dl8YE9W6ODtL9Q
 ! Title: Easylist Cookie List
-! Updated: 2023-01-01 23:00 UTC
+! Updated: 2023-01-02 10:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -17142,6 +17142,7 @@ _vpcookieconsent/
 ##.use-cookie-container
 ##.use-cookies-block-fixed
 ##.use-cookies_main
+##.useCookieBox
 ##.useCookiesInfo
 ##.use_cookie
 ##.use_cookies
@@ -20344,6 +20345,7 @@ podimo.com##div[class^="SmallCookie"]
 eightyupgrades.com,luxexpress.eu##div[class^="cookie-banner"]
 7news.com.au,atlasvpn.com,sortter.com##div[class^="cookie-consent"]
 bbtv.com##div[class^="index-module--cookiebanner-"]
+weatherbug.net##div[class^="notificationFooter_"]
 i.mi.com##div[class^="order-"][class*="policy-"]
 berlitz.com##div[class^="style__StickyAlertWrapper-sc-"]
 youtube.com##div[class^="ytd-consent"]
