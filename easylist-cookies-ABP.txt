@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SIElU0/oO8ZDttl7KoHYIg
+! Checksum: Vge7GXJ4Wp1/s8jb4WyHRg
 ! Title: Easylist Cookie List
-! Updated: 2023-01-03 09:20 UTC
+! Updated: 2023-01-03 20:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -5268,6 +5268,7 @@ _vpcookieconsent/
 ###cookiesLegal
 ###cookiesLegalMessage
 ###cookiesLequipe
+###cookiesLightbox
 ###cookiesMain
 ###cookiesMainWarningDiv
 ###cookiesManagerFrameBox
@@ -20422,6 +20423,8 @@ bettyblocks.com,clinicalges.es,koncon.nl,mmcgbl.com,pressenter.group,steadfast.c
 onepercentclub.com,samenvoordebuurt.nl##.notification-bar-container
 !! .notification-banner
 foolproof.com.sg,foxbusiness.com,foxnews.com,vgchartz.com##.notification-banner
+!! .cookie-wrapper
+pickmypostcode.com##.cookie-wrapper
 !! .cc
 bdsi.de,hyle.appspot.com,johanneswerk.de,niederoesterreich-card.at##.cc
 !! #cc_div
@@ -21435,6 +21438,7 @@ illicopharma.com###fancybox-wrap
 supermarchesmatch.fr###fevad
 dossin.be###gdprcontent
 maidenfrance.fr###headband
+assure.ameli.fr###idPopupWARecueilConsentement
 paninimania.com###id_acco
 vosfactures.fr###jGrowl
 fromagesuisse.ch###legalnotice
@@ -24006,7 +24010,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||fundingchoicesmessages.google.com/i/$script,domain=kledgeb.blogspot.com
 @@||gamersgate.com/js/cookieconsent.js$script,~third-party
 @@||gazetabilgoraj.pl/wp-content/plugins/uk-cookie-consent/
-@@||gdpr-wrapper.privacymanager.io/gdpr/$script,xmlhttprequest,domain=dailybuzz.nl|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl|weerplaza.nl
+@@||gdpr-wrapper.privacymanager.io/gdpr/$script,xmlhttprequest,domain=dailybuzz.nl|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|pickmypostcode.com|plusonline.nl|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl|weerplaza.nl
 @@||gdpr.privacymanager.io^$script,domain=dailybuzz.nl|diepresse.com|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl|weerplaza.nl
 @@||geo.privacymanager.io^$xmlhttprequest,domain=omroepbrabant.nl|plusonline.nl|weerplaza.nl
 @@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=~cbsnews.com|~cnbc.com|~gamespot.com|~metacritic.com
