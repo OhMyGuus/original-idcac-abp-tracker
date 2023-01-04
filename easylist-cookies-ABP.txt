@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FA0wQDWZGHbnuuf+Dt1aAg
+! Checksum: FRyfOQCTOAkpxQ9svj0FqA
 ! Title: Easylist Cookie List
-! Updated: 2023-01-04 03:20 UTC
+! Updated: 2023-01-04 03:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20328,6 +20328,7 @@ visartech.com##[class^="cookie-banner-"]
 rsdelivers.com##[class^="cookie-policy-component_"]
 clearscore.com##[class^="cookieNotice"]
 ganjing.com##[class^="cookie_notice"]
+bybit.com##[class^="style_gdpr"]
 underarmour.com##[class^="trustarc_consent"]
 fischer-technology.com##[data-ajax-loading="false"]
 myworkdayjobs.com##[data-automation-id="legalNotice"]
