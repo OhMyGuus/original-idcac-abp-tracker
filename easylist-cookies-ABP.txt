@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Vge7GXJ4Wp1/s8jb4WyHRg
+! Checksum: Tid+yLZajQMtqVqSawYg6g
 ! Title: Easylist Cookie List
-! Updated: 2023-01-03 20:40 UTC
+! Updated: 2023-01-03 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19805,6 +19805,7 @@ mx.com##.lbtZez
 limerickleader.ie##.leaderboard_container
 glencore.com##.left-3
 formationsgroup.com##.legacy
+dherbs.com##.legal-agreement
 olymp.com##.legal-banner
 yahoo.com##.legal-footer
 foxsports.com##.legal-message-container
