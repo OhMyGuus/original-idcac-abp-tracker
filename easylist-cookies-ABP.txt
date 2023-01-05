@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: R0QPN7kO1PlLVd9hlI8G7Q
+! Checksum: /vYGMeP342erkLYA1ZrsVg
 ! Title: Easylist Cookie List
-! Updated: 2023-01-05 00:00 UTC
+! Updated: 2023-01-05 02:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19326,9 +19326,8 @@ xhamster.com##.bottom_message
 onemoretrip.net##.bottom_text
 tutorialsinhand.com##.bottomcontent
 coinmerce.io##.bottommodal
-collapse.news,health.news,naturalnews.com##.bottompopup
+collapse.news,health.news,naturalnews.com,newstarget.com##.bottompopup
 sendgb.com##.bounceInLeft
-cartdesigns.net##.boxContent
 wattsindustries.com##.box_background
 wattsindustries.com##.box_contents
 elitedaily.com##.bp
