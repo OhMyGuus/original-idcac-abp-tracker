@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1YlUHff9TVhVIt5NFKV60g
+! Checksum: ptnnJvZ9Y/mb3zDK18TAqg
 ! Title: Easylist Cookie List
-! Updated: 2023-01-06 02:20 UTC
+! Updated: 2023-01-06 10:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20281,6 +20281,7 @@ foundico.com##.warn-wrap
 netio-products.com##.warning-modal
 ada.com##.wbl72e-0-footer
 capterra.com##.welcome-banner
+inflight.pacwisp.net##.wisp-modal
 wizards.com##.wiz-block-sticky-inline
 theweathernetwork.com##.woahbar
 wonderplugin.com##.wonderplugin-box
