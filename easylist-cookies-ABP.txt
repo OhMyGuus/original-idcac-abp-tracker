@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: g6seftVLUlwPIvrcdm4ZFA
+! Checksum: caXLcxcdnTFnkPBLL4Q8VQ
 ! Title: Easylist Cookie List
-! Updated: 2023-01-08 00:40 UTC
+! Updated: 2023-01-08 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21112,6 +21112,7 @@ auktionssuche.de,baumpflege.ac,garten.ac,heim-und-haustiere.de,schwedisch-transl
 can-apparatebau.de,ib-walz.de,intecprint.de,lions-club-kreuztal.de,rohrbach-elektrotechnik.com,schnabl-engineering.de,ssb-siegen.de,zentrifugen-service.de###hmc
 aqualip.de###idHrSysGipsDivBlackTransparentOverlay
 d-secour.de###importantMessages
+herole.de###incredible-cookie-furnace-generator
 bongu.de###infoBar
 alfafit.eu###info_cookies
 inovartis.eu,lankes-zirndorf.de###infobar
