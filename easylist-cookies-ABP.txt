@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: azxNxeWPuEJ3Bp4ZJ4jnZQ
+! Checksum: T0VH0H9dTEULCpf5ZSDHlw
 ! Title: Easylist Cookie List
-! Updated: 2023-01-07 22:40 UTC
+! Updated: 2023-01-08 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20487,7 +20487,7 @@ ahprofi.cz,akros.cz,aspshop.cz,fiskars-shop.cz,fiskars-shop.sk,kancelarska-kresl
 !! .gdpr
 aviationweek.com,metallica.com,phonemore.com,srilankan.com,sydsvenskan.se##.gdpr
 !! .gdpr-wrapper
-hikvision.com##.gdpr-wrapper
+ezviz.com,hikvision.com##.gdpr-wrapper
 !! .z-100
 cote.co.uk,ennismore.com,gemini.pl,sallys-shop.de##.z-100
 !! .cookie-bar
@@ -20553,7 +20553,7 @@ certik.com,etonshirts.com,get-in-engineering.de,heavenhr.com,hejfishvenhr.com,le
 !! .consent-banner
 twitch.tv##.consent-banner
 !! .dialog-lightbox-message
-ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cronycle.com,direct-carpets.com,experiorfinancial.com,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,lsisoftware.pl,lucerna-chem.ch,luukku.com,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,medyascope.tv,mitreprinting.co.uk,realvnc.com,ritchy.com,rwi.se,shotam.info,takeoff.org.mt,terveyskauneus.fi,tvpop.com.br,vrxdb.com,webdesignspecialistamsterdam.nl,webdesignspecialistdenhaag.nl,whatcounts.com##.dialog-lightbox-message
+ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cronycle.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,lsisoftware.pl,lucerna-chem.ch,luukku.com,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,medyascope.tv,mitreprinting.co.uk,realvnc.com,ritchy.com,rwi.se,shotam.info,takeoff.org.mt,terveyskauneus.fi,tvpop.com.br,vrxdb.com,webdesignspecialistamsterdam.nl,webdesignspecialistdenhaag.nl,whatcounts.com##.dialog-lightbox-message
 !! .t657
 2035.university,alfabusinessweek.ru,bohoo.ru,dcciv.ru,domino-sveta.ru,evisa-russia.ru,examus.com,floristtina.ru,geniusreferrals.com,millionviews.ru,nadessert.com,niagara-pu.ru,ollinprofessional.ru,qapp.tech,sales-battle.ru,tilda.cc,usedesk.ru,waterlamp.de,xianti.fr,zaslon-ul.ru##.t657
 !! .t886
@@ -21432,6 +21432,7 @@ allisonpr.fr###alert-slide-down
 brokerdefense.net###alertcookie
 laurentwillen.be###background-section
 pradel-france.com###bagdpr
+unions-pompiers.fr###bandeau_consent
 zdnet.fr###catfish
 sarralbe.fr###cc-bar
 markem-imaje.fr###cd_wrapper
