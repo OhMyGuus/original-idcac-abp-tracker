@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8tE0VM6aqAO/wBpBYxekmw
+! Checksum: LKZg4ZSwn+Bs5gTEfxY5lQ
 ! Title: Easylist Cookie List
-! Updated: 2023-01-08 11:00 UTC
+! Updated: 2023-01-08 22:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22339,6 +22339,7 @@ closeup-archivio.it##.stickyFooter
 ecommerce.it##.twcc__notice
 anisearch.it##.urgent-msg
 koucla.it##.xcb
+yap-app.it##.yap-cookie-bar
 aicanet.it,eurojackpot.it##.yui3-widget-modal
 livorno-effettovenezia.it##.zaki_pch_banner
 legea.it##[style^="position:fixed;"]
