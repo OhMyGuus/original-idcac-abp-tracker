@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YVWjOh0TNli8gAGopz7/5A
+! Checksum: cEsyRaf24gBunQOwBTlqHw
 ! Title: Easylist Cookie List
-! Updated: 2023-01-11 08:20 UTC
+! Updated: 2023-01-11 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19198,6 +19198,7 @@ osf.io##._CookieBanner_1k6aw9
 tango.me##._De3j
 wolframalpha.com##._Sjp9
 edclub.com##.__CC_popup
+getorca.com##.__css-cFqwsP
 medicinechest.co.uk##._aju
 instagram.com##._he402
 luisaviaroma.com##._vgSl0cx4ao
@@ -19425,6 +19426,8 @@ bocchibagno.com##.cokies
 scnat.ch##.command-bar
 vivo.com##.common_prompt-privacy-bg
 sonicdrivein.com##.comp-cookie-banner_cookie__SnsnZ
+casioindiashop.com##.compare-bg
+casioindiashop.com##.compareProMiniView
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 riversidecompany.com##.compliance-banner
 unitedtalent.com##.compliance.banner
@@ -22523,6 +22526,7 @@ polskatimes.pl,strefabiznesu.pl###cross-dialog
 federacja-konsumentow.org.pl###cu_bar
 przepisy100.pl###cxcx
 kinonh.pl###div_ac
+idream.pl###garua_cookie_consent_popup
 zmiksowani.pl###holdon-overlay
 bauer.pl###iframePopupContainer
 skleprycerski.com###important-notice
@@ -23176,6 +23180,7 @@ puntaldecoracion.com##.cm-wp-container
 bimi.es##.consentBoxes
 autosolar.es##.cookie-configuration
 goboo.com##.cookieBox_30V8b
+miravia.es##.cookies-authorize
 crezes.es,pdatos.com##.cookies-consent-modal
 eltiempo.es##.curtain_lightbox
 casatarradellas.es##.dark-filter
