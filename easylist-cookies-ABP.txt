@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: q1eB8LtRD7X9gqKnpSfWvg
+! Checksum: Kp6G2gANn47YXoUNAuG0LA
 ! Title: Easylist Cookie List
-! Updated: 2023-01-14 03:00 UTC
+! Updated: 2023-01-14 05:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -10374,6 +10374,7 @@ _vpcookieconsent/
 ##.blockcookies
 ##.blocknav-gestion-cookies
 ##.blogCookieCover
+##.blog__cookie
 ##.bloque-cookies
 ##.bloqueLegalCookies
 ##.bloque_ventanaCookies
@@ -10399,6 +10400,7 @@ _vpcookieconsent/
 ##.boldcookieBarOverlay
 ##.bonialCmpBanner
 ##.bootom-cookie-wrap
+##.border-cookieBorder
 ##.borlabsCookieShow
 ##.born-cookie-wrapper
 ##.born-cookies
@@ -13465,6 +13467,7 @@ _vpcookieconsent/
 ##.cookieterms
 ##.cookietest_bno
 ##.cookietext
+##.cookietoaster
 ##.cookietool-message
 ##.cookietop
 ##.cookietopbanner
@@ -15286,6 +15289,7 @@ _vpcookieconsent/
 ##.m-basic-cookie-refresh
 ##.m-cookie
 ##.m-cookie-alert
+##.m-cookie-alert-1
 ##.m-cookie-banner
 ##.m-cookie-bar
 ##.m-cookie-confirm
@@ -19467,6 +19471,7 @@ cameronhouse.co.uk##.cookie-container
 theatlantic.com##.cookie-disclaimer
 parliament.uk##.cookie-manager
 gsm55.com##.cookie-module__cookieContainer___3EHjh
+privacy.samsung.com##.cookie-noneu
 pnas.org,silmid.com,socialclickweb.com##.cookie-policy
 lavueltaholanda.com##.cookie-prefs-wrapper
 outfit7.com##.cookie-settings
@@ -19953,6 +19958,7 @@ aquasana.com##.notice__banner
 global.bittrex.com##.notification--content
 harvester.co.uk##.notification--notification
 brouwland.com,collaw.ac.nz,collaw.edu.au,collegalpractice.com##.notification-alert
+callisto.sds.com##.notification-banner
 gumtree.com##.notification-box
 autotrader.co.za,speedtest.net##.notification-container
 meineke.com##.notification-popup-overlay
@@ -22586,6 +22592,7 @@ erhem.pl###popupContact
 lca.pl,legnica.pl###popupDiv
 fizyka.org###pp
 cieplodlakrakowa.pl,kancelariamzm.pl,kpr.pl,mieszko.pl###privacy
+browar-tenczynek.pl###privacy-policy-info
 ile-kalorii.pl###privacyMessage
 solankowaaleja.com###privacybox
 gazeo.pl###reg_all
@@ -23044,6 +23051,7 @@ ticketstour.ru##.using-cookies
 bimedis.ru##.v-dialog__content
 bimedis.ru##.v-overlay
 warthunder.ru##.wt-cb
+yasno.live##.y-gdpr
 uralkarcher.ru##.zalupa
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
 timeweb.cloud##[data-v-54613cd5]
