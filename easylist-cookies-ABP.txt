@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EPuHWOhVH/12IP/84z6JpQ
+! Checksum: 12Ixmkg6cPG8tEmjFKyTzQ
 ! Title: Easylist Cookie List
-! Updated: 2023-01-16 07:40 UTC
+! Updated: 2023-01-16 22:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -14748,6 +14748,7 @@ _vpcookieconsent/
 ##.inner_cnil
 ##.innoPrivacy
 ##.ins-el-cookie-alert
+##.ins-v-cookie-alert
 ##.inscookies-banner-container
 ##.inside-cookie
 ##.intercept-cookies
@@ -19203,6 +19204,7 @@ timesnownews.com,zoomtventertainment.com##._1poBZ
 hiberworld.com##._1u7AkTjy
 studocu.com##._21b991318444
 tunnelmb.net##._23LkM
+zs-watch.com##._26eMiWNkBSNiMdzOurfRUm
 knfilters.com##._29gQfUz-bz_NyWhPRpjOSe
 911tabs.com##._29v-t
 dreamhack.com##._2IIiex-CsxtuW7QGZ_oO5z
@@ -19382,6 +19384,7 @@ icanschool.eu##.btncn2
 handy-games.com##.bugme
 desiindian-brighton.co.uk,royalspiceworthing.com##.bxUGXS
 perlego.com##.bzGIHv
+audiotag.info##.c-agree
 jobs.ch,jobup.ch##.c-alert
 sunweb.co.uk##.c-backdrop
 skygroup.sky##.c-banner-shadow
@@ -19914,6 +19917,7 @@ myanimelist.net##.modal-container
 myanimelist.net##.modal-content
 myanimelist.net##.modal-content-overlay
 esto.eu##.modal-coockies
+cybershoke.net##.modal-enter-done
 oranum.com##.modal-inner
 digimobil.es,youinvest.co.uk##.modal-overlay
 barclays.net##.modal-pecr
@@ -21227,7 +21231,7 @@ klinikum-neumarkt.de###tracking-message
 energie-und-management.de###trackingConsent
 tuigroup.com###tui-cc
 ru-geld.de###uca-info
-stadtwerke-herne.de###vinegar-bottle
+stadtwerke-herne.de,stadtwerke-witten.de###vinegar-bottle
 printer-care.de###wwwschutz_div
 yatego.com###ycwBg
 yatego.com###ycwMo
@@ -21445,6 +21449,7 @@ mietz.app##.set-all-components-to-display-none-and-use-this-div-to-create-a-symb
 fit4projects.at##.setcookie
 pneuhage.de##.site-blocker
 autopark.de,mentzl.de##.site-header-overlay
+plus-gp-joule.de##.spinner
 adsomenoise.de##.svelte-sac9e3
 thomann.de##.thomann-cookie-consent-overlay
 trixxo-arena.be##.ts-header-message
