@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: e42kCDjVH0FGFDilivx37g
+! Checksum: 4IqrvPJ6IDmOBUlJdXX5tA
 ! Title: Easylist Cookie List
-! Updated: 2023-01-15 21:40 UTC
+! Updated: 2023-01-15 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20217,6 +20217,7 @@ monese.com##.styles_altCookieBannerContainer__1JCTI
 yellow.systems##.styles_cookiesNotification__hd6RB
 meteoblue.com##.successMessage
 spiceworks.com##.sui-site-message-container
+savills.co.uk##.sv-cookie-management
 gitpod.io##.svelte-17l8iln
 phemex.com##.svelte-1xhi46c.wrap
 chatreplay.stream##.svelte-dx0l3i
@@ -20476,6 +20477,8 @@ bettyblocks.com,clinicalges.es,koncon.nl,mmcgbl.com,pressenter.group,steadfast.c
 onepercentclub.com,samenvoordebuurt.nl##.notification-bar-container
 !! .notification-banner
 foolproof.com.sg,foxbusiness.com,foxnews.com,vgchartz.com##.notification-banner
+!! sandberg
+sandberg.es,sandberg.fr,sandberg.world###privalert-container
 !! .message-footer-panel
 mojehobby.pl,super-hobby.at,super-hobby.be,super-hobby.co.uk,super-hobby.com,super-hobby.de,super-hobby.es,super-hobby.it,super-hobby.lv,super-hobby.pt,uper-hobby.fr##.message-footer-panel
 !! .cookie-wrapper
