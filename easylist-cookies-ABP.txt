@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: y4ZQYuVufDFXGwUV66sMjg
+! Checksum: 2G1ft/BTqhbFW7h5T0PvwA
 ! Title: Easylist Cookie List
-! Updated: 2023-01-17 09:00 UTC
+! Updated: 2023-01-17 11:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20536,7 +20536,7 @@ proprospan.ru,worksmile.com##.cookies-component
 !! #cc--main
 alde.se,boardgamegeek.com,flowforge.com,spielregeln-spielanleitungen.de,stocksy.com,suncalc.org,trakt.tv,ungeziefer-ratgeber.info###cc--main
 !! .c--anim
-accademia-agricoltura.it,actualidadempleo.es,alpha-heidelberg.de,auraton.cz,brnooffice.cz,cgmfinance.it,diderot.sk,emmellearredamenti.com,fazzini.sk,ferbafran.com,fiumewine.com,floorpark.cz,gaminternational.it,handylex.org,hippogroup.it,import-sport.com,klasikcz.eu,locandadelledune.it,mtbcult.it,nabytek-alesvit.cz,nasejimky.cz,natureticabielli.it,netzwerk-kinderschutz-msh.de,perugiassisi.org,plateuptools.com,plus-gp-joule.de,ppeshop.cz,rptuning.cz,ruinimarco.it,santarcangelobasket.com,sbcomp.cz,senkyrik.cz,shop.dicompass.cloud,sponkovacky-kovani-vruty.cz,svet-topeni.eu,tagvenue.com,tokarex.cz,vinoplacek.cz,vkcyklosport.cz,www.query.cz,zeno.fm##.c--anim
+accademia-agricoltura.it,actualidadempleo.es,alpha-heidelberg.de,amperecomputing.com,auraton.cz,brnooffice.cz,cgmfinance.it,diderot.sk,emmellearredamenti.com,fazzini.sk,ferbafran.com,fiumewine.com,floorpark.cz,gaminternational.it,handylex.org,hippogroup.it,import-sport.com,klasikcz.eu,locandadelledune.it,mtbcult.it,nabytek-alesvit.cz,nasejimky.cz,natureticabielli.it,netzwerk-kinderschutz-msh.de,perugiassisi.org,plateuptools.com,plus-gp-joule.de,ppeshop.cz,rptuning.cz,ruinimarco.it,santarcangelobasket.com,sbcomp.cz,senkyrik.cz,shop.dicompass.cloud,sponkovacky-kovani-vruty.cz,svet-topeni.eu,tagvenue.com,tokarex.cz,vinoplacek.cz,vkcyklosport.cz,www.query.cz,zeno.fm##.c--anim
 !! #wr-c
 ahprofi.cz,akros.cz,aspshop.cz,fiskars-shop.cz,fiskars-shop.sk,kancelarska-kresla.cz,leifheit-shop.cz,leifheit-shop.sk,mpmshop.eu,rafoshop.cz,relaxin.cz,superdiskont.sk,yatun.cz###wr-c
 !! .gdpr
@@ -20657,7 +20657,7 @@ agendeam.com.br,antikvarium.hu,appmetmij.be,appmetmij.nl,atraveo.de,bancontact.c
 !! optoma
 optoma.ae,optoma.be,optoma.co.uk,optoma.com,optoma.com.br,optoma.com.mx,optoma.de,optoma.es,optoma.fr,optoma.it,optoma.nl,optoma.pl,optoma.ru,optomaeurope.com,optomausa.com###msgbg
 !! nordicnest
-nordicnest.com,nordicnest.de,nordicnest.dk,nordicnest.es,nordicnest.fi,nordicnest.fr,nordicnest.jp,nordicnest.kr,nordicnest.nl,nordicnest.no,nordicnest.pl,nordicnest.se##.b3.az
+nordicnest.com,nordicnest.de,nordicnest.dk,nordicnest.es,nordicnest.fi,nordicnest.fr,nordicnest.jp,nordicnest.kr,nordicnest.nl,nordicnest.no,nordicnest.pl,nordicnest.se##div[style="opacity: 1; display: flex;"]
 !! .lightbox-backdrop
 breparat.de,camping-freizeitbedarf.de,countryphone.de,e-material.de,gamemonkey.fi,goldshop-ulm.de,hannibelle.de,hollandstyle.de,holzfee.com,italianfoodlovers.de,landkarten-und-grafiken.de,liebesache.de,livolo-deutschland.de,modehasen.de,motecs-shop.com,natura-samen.de,prestigeshopgbr.com,scandmarkt.com,schamanentraum.eu,seamless-fashion.de,sm-pc.de,superstreusel.de##.lightbox-backdrop
 !! #sliding-popup-cookies
