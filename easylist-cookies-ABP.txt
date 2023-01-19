@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TusRBIZExDDZ3bmfo4rDPg
+! Checksum: XKLng5DW1tvBkAiDk5pVeA
 ! Title: Easylist Cookie List
-! Updated: 2023-01-19 08:20 UTC
+! Updated: 2023-01-19 10:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19440,6 +19440,7 @@ talkspace.com##.cf-background-overlay
 aircharter.sg##.cf.header-bar
 burgerking.co.nz,burgerking.co.uk##.cgtFSo
 fromsmash.com##.cgu-container
+streamparty.com##.chakra-collapse
 hypeclothinga.com##.chakra-fade
 litebit.eu##.chakra-modal__content-container
 litebit.eu##.chakra-modal__overlay
@@ -20436,6 +20437,7 @@ alcatraz.ai##div[class^="CookiesModal-"]
 internxt.com##div[class^="Footer_cookiesBgFallback"]
 tinely.com##div[class^="GdprAcceptance_container"]
 porsche.com##div[class^="LegalDisclaimer_"]
+wired.com##div[class^="MessageBannerWrapper-"]
 kurgo.com##div[class^="PrivacyNotice"]
 similarsites.com##div[class^="PrivacyNotification_"]
 podimo.com##div[class^="SmallCookie"]
@@ -20874,7 +20876,7 @@ royalpanda.com##.MuiContainer-maxWidthMd
 !! .MuiSnackbar-anchorOriginBottomLeft
 news.uavsa.org,paper.li,swapcoin.cc,tuco.co##.MuiSnackbar-anchorOriginBottomLeft
 !! .MuiSnackbar-anchorOriginBottomCenter
-allinone.im,bigsummergolf.com,fashionunited.ca,fashionunited.com,fashionunited.de,skrapp.io,thelowdown.com,tvtv.ca##.MuiSnackbar-anchorOriginBottomCenter
+allinone.im,bigsummergolf.com,fashionunited.ca,fashionunited.com,fashionunited.de,services.gerep.fr,skrapp.io,thelowdown.com,tvtv.ca##.MuiSnackbar-anchorOriginBottomCenter
 !! .disclaimer
 apllogistics.com,atraveo.de,countwordsfree.com,dielinke.berlin,e-domizil.de,earthcp.com,foxsports.com.au,froneri.pl,goyabu.vip,gregorys.gr,hafnarfjordur.is,hsleiden.nl,lexus.com.cy,lexus.gr,lexus.ie,lexus.no,lexus.ro,lexus.sk,migliori-siti-di-incontri.it,myanimelist.vip,naturgenussfestival.de,news.com.au,rosatomflot.ru,sgtech.co.il,sinfonia.is,swapspace.co,totalplay.com.mx,tudogostoso.com.br,webhint.io##.disclaimer
 !! #disclaimer
@@ -21644,6 +21646,7 @@ oceole.fr##.usn-notification
 order.fiveguys.fr##.v-overlay
 tang-freres.fr##.welcome
 zennio.fr##.z-50
+catalogue.bm-grenoble.fr##[style="position: fixed; z-index: 10;"]
 nouvelair.com##[style^="position: fixed; left: 0px; top: 0px;"]
 wizbii.com##div[class^="gdpr_consent_"]
 domitys.fr##div[style*="background-color: rgba(0, 0, 0, 0.5);"]
