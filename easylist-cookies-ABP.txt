@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JFxSyrhorPZZm56bv2Bm/g
+! Checksum: UDK47CapSzGmHvuS5W+UWA
 ! Title: Easylist Cookie List
-! Updated: 2023-01-19 20:20 UTC
+! Updated: 2023-01-19 22:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -9423,6 +9423,7 @@ _vpcookieconsent/
 ##.Cookie-Consent--show
 ##.Cookie-bar
 ##.Cookie-consent-block
+##.Cookie-notice__container
 ##.CookieAcceptImageDivClass
 ##.CookieAcceptLayer
 ##.CookieAcceptPanel
@@ -11759,6 +11760,7 @@ _vpcookieconsent/
 ##.cookie-notice.alert-secondary
 ##.cookie-notice.bottom
 ##.cookie-notice.top
+##.cookie-notice__background
 ##.cookie-notice__content
 ##.cookie-notice__inner
 ##.cookie-notice__overlay
@@ -20439,6 +20441,7 @@ carvertical.com##div[class^="BisquitsBanner_"]
 monzo.com##div[class^="CookieAlert-"]
 cars.co.za##div[class^="CookieBanner_"]
 manychat.com##div[class^="CookieBumper"]
+secrid.com##div[class^="CookiesLabel_"]
 alcatraz.ai##div[class^="CookiesModal-"]
 internxt.com##div[class^="Footer_cookiesBgFallback"]
 tinely.com##div[class^="GdprAcceptance_container"]
@@ -23357,6 +23360,7 @@ semper.se##.dyxlIn
 rwi.se##.elementor-location-popup
 sellpy.se##.fAalHQ
 sfanytime.com##.gWCQmE
+gleerupsportal.se##.gbcNnE
 jobbsafari.se##.hBzXzJ
 bus4you.se##.header__banner
 sportson.se##.info-message
