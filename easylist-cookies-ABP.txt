@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: auq2/jVO7Xlv4pbnotoiSg
+! Checksum: YHYAU8dP2oqBcYMSg3uwlg
 ! Title: Easylist Cookie List
-! Updated: 2023-01-20 00:40 UTC
+! Updated: 2023-01-20 03:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18540,9 +18540,12 @@ _vpcookieconsent/
 ||conclude.com/assets/build/combined.$script
 ||consent.23g.io^
 ||consent.amateurphotographer.co.uk^
+||consent.canalboat.co.uk^
 ||consent.cmp.oath.com^
 ||consent.ladbible.com/wrapper/tcfv2/
 ||consent.nationalworld.com^
+||consent.pilotweb.aero^
+||consent.thecountrysmallholder.com^
 ||consent.thegreatoutdoorsmag.com^
 ||consent.truste.com^$script,domain=docs.oracle.com
 ||cookiebot.eu/uc.js$domain=casio.com
@@ -19716,6 +19719,7 @@ replika.ai,replika.com##.gEQwvO
 pro.coinbase.com##.gNNMVp
 kdanmobile.com##.gQIDcO
 whatsnewonthenet.com##.gaoop
+graviti.com##.gas-cookie-bar
 themeflood.com##.gatewayContainer
 greatbigcanvas.com##.gbc-notifications
 gallup.com,strengthsquest.com##.gcb_35556
