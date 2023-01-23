@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ghD1tPmGAetZNGxU5/4n2Q
+! Checksum: 6LUfYw8hl30I4N3aLJUbXg
 ! Title: Easylist Cookie List
-! Updated: 2023-01-23 02:00 UTC
+! Updated: 2023-01-23 02:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -15671,6 +15671,7 @@ _vpcookieconsent/
 ##.nanobar-cookie-cog
 ##.narizeni-eu-cookies
 ##.nasa-cookie-notice-container
+##.natCookieInfo
 ##.nav-cookie-disclaimer
 ##.nav-new-cookie-disclaimer
 ##.nav__cookies
