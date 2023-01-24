@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /neVdUWUQ2RjQJDreykDWg
+! Checksum: q2wtXH+BHfJ73l1EQWBiRw
 ! Title: Easylist Cookie List
-! Updated: 2023-01-24 08:00 UTC
+! Updated: 2023-01-24 09:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -591,6 +591,7 @@
 /cookiewet.
 /cookieWidget.
 /cookpop.min.js
+/Cream_Cookiewall/*
 /css/gdpr.$~stylesheet
 /cui-cookie-
 /cuk_core.js
