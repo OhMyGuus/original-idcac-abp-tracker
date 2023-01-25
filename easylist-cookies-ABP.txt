@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NIjIOtlv5nAetxG+zwKO1g
+! Checksum: 4JEETcN1VS8099I2udCIgQ
 ! Title: Easylist Cookie List
-! Updated: 2023-01-25 13:20 UTC
+! Updated: 2023-01-25 21:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -11349,6 +11349,7 @@ _vpcookieconsent/
 ##.cookie-bar-inner
 ##.cookie-bar-mask
 ##.cookie-bar-message
+##.cookie-bar-new
 ##.cookie-bar-notification
 ##.cookie-bar-notifications
 ##.cookie-bar-outer
@@ -17009,6 +17010,7 @@ _vpcookieconsent/
 ##.toast-cookie
 ##.toast-cookie-active
 ##.toast-cookie-container
+##.toast-cookies
 ##.toast-primary.toast
 ##.toast-type-newCookie
 ##.toastCookiePolicy
@@ -19717,7 +19719,7 @@ deutscheam.com,dws.com##.flash-message__wrapper
 kicker.com##.flex-container
 drivereasy.com,gatestoneinstitute.org,iobit.com##.float-bar
 reddit.watch##.float-bottom
-cloudmounter.net,electronic.us,elmedia-video-player.com,eltima.com##.float-message__wrap
+cloudmounter.net,electronic.us,elmedia-video-player.com,eltima.com,ftp-mac.com##.float-message__wrap
 mql5.com##.float-vertical-panel
 azimutyachts.com,azimutyachts.com.mt##.floatFooter
 3dslash.net##.floatPopup
