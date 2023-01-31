@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BC64vr4HTAq7lO2P0hbvjA
+! Checksum: Nuk+EM00Sc+5RiQLnhni0Q
 ! Title: Easylist Cookie List
-! Updated: 2023-01-31 01:20 UTC
+! Updated: 2023-01-31 10:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20507,7 +20507,7 @@ alcatraz.ai##div[class^="CookiesModal-"]
 internxt.com##div[class^="Footer_cookiesBgFallback"]
 tinely.com##div[class^="GdprAcceptance_container"]
 porsche.com##div[class^="LegalDisclaimer_"]
-gq.com,self.com,teenvogue.com,wired.com##div[class^="MessageBannerWrapper-"]
+gq.com,newyorker.com,self.com,teenvogue.com,wired.com##div[class^="MessageBannerWrapper-"]
 kurgo.com##div[class^="PrivacyNotice"]
 similarsites.com##div[class^="PrivacyNotification_"]
 podimo.com##div[class^="SmallCookie"]
@@ -23933,6 +23933,7 @@ sans.org#@##gdpr-agreement
 kalenderwoche.de#@##gdpr-consent
 deleteme.com#@##gdpr-cookie-message
 warframe.com#@##gdprSettings
+ing.jobs#@##gdprconsent
 html5.gamedistribution.com#@##gdsdk__splash
 tameteo.nl#@##gpdr:not(body):not(html)
 ieatfoodtours.co.uk,londraculturale.it,onceinrome.com,weliketuscany.it#@##js-cookie-notice
