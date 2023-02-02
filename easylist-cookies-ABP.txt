@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: deIdFa6piWxrVXa8fybVPQ
+! Checksum: SzVfjbFiBgMvl2kl1DsS3Q
 ! Title: Easylist Cookie List
-! Updated: 2023-02-02 04:40 UTC
+! Updated: 2023-02-02 07:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23416,6 +23416,7 @@ risskov.se###cookiemodal
 greencounsel.se###getCookieConsentDialog
 apricon.se###glass
 askimsrostfria.se###js-cm-claw
+scb.se###kakrutan
 hotellhudik.se,strandhotel.se###mb_modules_popups_Container
 svd.se###schibsted-data-controller-sticky
 fragasyv.se###siteflash
