@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EXOml6xpTu1sk983/mhThg
+! Checksum: AC2/AbUkMiuYLYlolWHFow
 ! Title: Easylist Cookie List
-! Updated: 2023-02-03 11:40 UTC
+! Updated: 2023-02-03 13:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19169,7 +19169,6 @@ artuk.org###top-notice
 supremenewyork.com###top_notice
 gamepedia.com,mmo-champion.com###tos-banner
 cartoonnetwork.com###tos-bar
-razer.com###tos-razer
 toughnickel.com###tos_update_band
 tp-link.com###tp-cookie
 ergonbike.com###tracking-modal
@@ -20360,6 +20359,7 @@ e-lawresources.co.uk##.topbarBox
 untappd.com##.tos-banner
 whitepages.com##.tos-modal-wrapper
 syfy.com##.tos-popup
+razer.com##.tos-razer-js
 tovatt.com##.tovatt-gdprpopup
 talentplug.com##.tp-popin-cookies
 thomsonreuters.com##.tr-DismissibleBanner
