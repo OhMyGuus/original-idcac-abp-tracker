@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BxDbzxNA/5CMEchz1IqRwg
+! Checksum: OWK5gvmqARi2EOVQjnFMXw
 ! Title: Easylist Cookie List
-! Updated: 2023-02-04 00:40 UTC
+! Updated: 2023-02-04 02:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -17625,6 +17625,7 @@ _vpcookieconsent/
 ##[data-testid="consent-banner"]
 ##[data-testid="cookie-bar"]
 ##[data-testid="cookie-policy"]
+##[data-testid="cookie-popover"]
 ##[data-testid="cookieBanner-widget"]
 ##[data-testid="cookieConsentBanner"]
 ##[data-testid="cookie_banner_v2_container"]
@@ -18775,6 +18776,7 @@ coloradocollege.edu###_pc
 presta-module.com###acbModal
 brulocalis.brussels###acc-bottom
 sharedinvestigator.com###accept-sip-popup-container
+dallasinnovates.com###acceptance
 hoverwatch.com###acceptbar
 mod.io###achtung-overlay
 calpacifichomes.com###acknowledgeCookiesAndPrivacyModal
@@ -19556,7 +19558,7 @@ writerduet.com##.container.pb-4.pt-4
 iconscout.com##.container_hP6iH
 dreamingreece.com##.cookie-consent-inner
 cameronhouse.co.uk##.cookie-container
-theatlantic.com##.cookie-disclaimer
+ford.co.uk,theatlantic.com##.cookie-disclaimer
 parliament.uk##.cookie-manager
 gsm55.com##.cookie-module__cookieContainer___3EHjh
 privacy.samsung.com##.cookie-noneu
@@ -23177,6 +23179,7 @@ iblitzmods.ru,kinoby.ru,tvguru.ru##.message-alert
 merers.ru,strana.one,strana.today##.modal
 asna.ru##.modalCookies_root__356Q-
 shophair.ru##.modal_popup_sessid_box
+c-o-k.ru##.msg-text
 bubble.ru##.notifications
 culture.ru##.notify-bar
 lamoda.ru,lamoda.ua##.page > [class*="widget"]
