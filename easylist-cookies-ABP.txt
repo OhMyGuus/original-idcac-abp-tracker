@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ISwVwa24mOAaUrticbNU7g
+! Checksum: sx+2zUfPyuV46FT/BTWSsw
 ! Title: Easylist Cookie List
-! Updated: 2023-02-05 22:40 UTC
+! Updated: 2023-02-06 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22248,6 +22248,7 @@ cmore.fi##.onetrust-pc-dark-filter[style]
 cmore.fi##.onetrust-pc-dark-filter[style] + #onetrust-banner-sdk
 osta.museokortti.fi##.overlayclass
 vierumaki.fi##.overlays > .background
+suojakalvotukku.fi##.ribbon-280
 viherkuutio.fi##.rstbox
 tvo.fi##.s-dialog-position-bottom
 evl.fi##.site-overlay
@@ -22257,6 +22258,7 @@ clipper-teas.fi##.v--modal-overlay
 apollonian.eu##.v-snack--bottom
 varma.fi##.varma-footer-sticky
 vts.fi##.vt-disclaimer
+phonelife.fi##.w1xroek9
 sttinfo.fi##[class^="styledBarNotification__BarNotificationWrapper"]
 paivyri.fi##[style="width:100%;background-color:#F0F0F0;padding:10px;text-align:center"]
 bonusway.fi##bw-info-bar
