@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xaCjzgx2inLCdvE41wXLlQ
+! Checksum: kZ//9USOC4RGs4hK1sfpkQ
 ! Title: Easylist Cookie List
-! Updated: 2023-02-06 22:40 UTC
+! Updated: 2023-02-07 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20022,7 +20022,7 @@ newdayspharmacy.com##.modal_terms
 sekwens.com##.module-abovebox
 motherless.com##.motherless-cookie-wrapper
 unityj.com##.mpp-container-position-bottom-bar
-motorsport.com##.ms-footer-messages
+motorsport.com,motorsport.uol.com.br##.ms-footer-messages
 motorsport.com##.ms-header-messages
 faapy.com##.msg
 firstsave.co.uk##.msgBox
