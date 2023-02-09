@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hqUxbYFsBKZneB1+0sfKLg
+! Checksum: sXRl0A1PjUOxEb90SWpghg
 ! Title: Easylist Cookie List
-! Updated: 2023-02-09 11:40 UTC
+! Updated: 2023-02-09 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -6099,6 +6099,7 @@ _vpcookieconsent/
 ###drop-cookie
 ###ds-st-cookiesbar
 ###ds_cookiebar
+###dsgvo--popup
 ###dsgvo-banner
 ###dsgvo-bottom
 ###dsgvo-consent-layer
@@ -20623,7 +20624,7 @@ netzreform.de,opensocietyfoundations.org,otter.finance,stanceldavid.sk###cc_div
 !! .cc_div
 blocktechnology.eu,brgroup.cz,candylipz.sk,vitkovicecylinders.cz##.cc_div
 !! .cookie-setting
-beleuchtung.de,lampak.hu,luminam.ro,spokojenypes.cz,svet-svietidiel.sk,svet-svitidel.cz,valomania.fi##.cookie-setting
+beleuchtung.at,beleuchtung.de,fotistikosmos.gr,lambimaailm.ee,lampak.hu,lampamania.es,lampemania.dk,lampite.bg,lampmani.se,lempumanija.lt,luciamo.it,lumimania.be,lumimania.fr,luminam.ro,programia.cz,spokojenypes.cz,svet-svetil.si,svet-svietidiel.sk,svet-svitidel.cz,svijet-svjetiljki.hr,valomania.fi##.cookie-setting
 !! .cn-layer
 lindner-group.com,lindner-norit.com##.cn-layer
 !! .consent
