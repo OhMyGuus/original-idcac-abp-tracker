@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: y45TQuDNXTrCXpWVcZt7eQ
+! Checksum: bqMmM1GBtiF+lLlCnvHRJQ
 ! Title: Easylist Cookie List
-! Updated: 2023-02-10 02:40 UTC
+! Updated: 2023-02-10 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19002,6 +19002,7 @@ web.peatus.ee###messageBar
 scrabble-solver.com###messages
 cyclemiles.co.uk###messages-cont
 jjb-collection.com###mi-container
+misskey.io###misskey-ga-cookie-accept-bar
 discoversanangelo.com###mm_cc_modal_overlay
 global.jcb,jcbeurope.eu,picnic.app###modal
 aqara.com###modal-agreement
