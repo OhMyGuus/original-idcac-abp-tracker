@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bqMmM1GBtiF+lLlCnvHRJQ
+! Checksum: 1mBkPF+P5gSAYixgNh0EhA
 ! Title: Easylist Cookie List
-! Updated: 2023-02-10 03:00 UTC
+! Updated: 2023-02-10 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20077,6 +20077,7 @@ brouwland.com,collaw.ac.nz,collaw.edu.au,collegalpractice.com##.notification-ale
 callisto.sds.com,samueladams.com##.notification-banner
 gumtree.com##.notification-box
 autotrader.co.za,speedtest.net##.notification-container
+conquestador.com##.notification-list
 meineke.com##.notification-popup-overlay
 tennistv.com##.notification-wrapper
 parallels.com##.notification.orange
