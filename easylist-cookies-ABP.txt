@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Am+OFbhLQ9jB3BFWU3BD3w
+! Checksum: ga14lS1B/uciLH2IaaitXg
 ! Title: Easylist Cookie List
-! Updated: 2023-02-11 22:00 UTC
+! Updated: 2023-02-11 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -1777,7 +1777,6 @@ _vpcookieconsent/
 ###__shopwired_cookie_consent_container
 ###__tealiumDNS_banner
 ###__tealiumGDPRcpPrefs
-###__tealiumGDPRecModal
 ###__tealiumImplicitmodal
 ###__traceurs_widget
 ###__usrplcy
@@ -13430,6 +13429,7 @@ _vpcookieconsent/
 ##.cookies_cuerpo
 ##.cookies_declaration
 ##.cookies_disclaimer
+##.cookies_disclaimer_container
 ##.cookies_div
 ##.cookies_eu
 ##.cookies_eu_sa
@@ -17935,6 +17935,7 @@ _vpcookieconsent/
 ##aside.cookie-banner
 ##aside.cookie-bar
 ##aside.cookie-popup
+##div#__tealiumGDPRecModal
 ##div#accept-cookie
 ##div#accept-cookie-container
 ##div#aceptar_container
@@ -23916,7 +23917,6 @@ power.no,skousen.dk,skousen.no,whiteaway.com,whiteaway.no,whiteaway.se#@##Cookie
 smooth-on.com#@##CookieNotice
 finanzmarktwelt.de#@##CybotCookiebotDialogBodyUnderlay
 online.no,telenor.no#@##__tealiumGDPRcpPrefs
-mediamarkt.de,online.no,telenor.no#@##__tealiumGDPRecModal
 downdetector.com#@##_evh-button
 la7.it#@##_evh-ric
 downdetector.com#@##_evidon-barrier-wrapper
@@ -24182,6 +24182,7 @@ wetransfer.com#@#.welcome--cookies
 ceramtec-group.com,openfiber.it,rete.toscana.it#@#[aria-label="cookieconsent"]
 devowl.io#@#[href="https://devowl.io/wordpress-real-cookie-banner/"]
 frag.jetzt#@#app-cookies
+mediamarkt.de,online.no,telenor.no#@#div#__tealiumGDPRecModal
 dcinside.com#@#div#privacy_policy
 baden-wuerttemberg.de,calameo.com#@#div.cookie-alert
 autohaus24.de,intersport.de#@#div.cookie-banner
