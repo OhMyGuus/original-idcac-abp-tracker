@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UgBlLQ8Y7cAk1w+1RMOYxQ
+! Checksum: b0LTdvfaF5DxfeQIQW17Xw
 ! Title: Easylist Cookie List
-! Updated: 2023-02-13 12:00 UTC
+! Updated: 2023-02-13 13:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18907,6 +18907,7 @@ worksheetcrafter.com###cookiesFormContainer
 mdachieve.com,pharmachieve.com###copyright-2
 atos.net,dsm.com,tesco.ie,unify.com###cp
 wayofleaf.com###cpop
+paramountplus.com###cps-shaman-notifier
 zortrax.com###cs-popup
 thebagster.com###ctl00_privacybanner_pnlPrivacyPolicy
 dllsearch.net,droidchart.com,exescan.net,go4mosaic.com,lcdchart.com,routerchart.com,slatechart.com###cw
