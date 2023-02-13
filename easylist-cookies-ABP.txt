@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Scic3E/tdFK2SFKgfL0BNA
+! Checksum: lr1T5dB/1vhYC2XlwvUdzA
 ! Title: Easylist Cookie List
-! Updated: 2023-02-13 21:00 UTC
+! Updated: 2023-02-13 21:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -16156,6 +16156,7 @@ _vpcookieconsent/
 ##.pl-cookies
 ##.pl-cookies-cta
 ##.pl-cookies-cta-contain
+##.plate-cookies
 ##.platform--cookies--container
 ##.plazma-cookie-bar
 ##.plazma-cookie-bar--active
@@ -19695,6 +19696,7 @@ virustotal.com##.disclaimers-container
 zacks.com##.disclosure-fixed-slab
 codes.co.uk##.discreet-alert
 refinitiv.com##.dismissible-banner
+flowrite.com##.div-block-217
 fxmembers.com##.div_sticky
 transamerica.com##.dmb-notifications-ajax-wrapper
 wamba.com##.dnQAZn
@@ -20643,6 +20645,8 @@ netzreform.de,opensocietyfoundations.org,otter.finance,stanceldavid.sk###cc_div
 blocktechnology.eu,brgroup.cz,candylipz.sk,vitkovicecylinders.cz##.cc_div
 !! CookieBox
 codewise.com,nawozy.eu##[class^="CookieBox"]
+!! .modal-consents
+chaussures.fr,eapavi.lv,ecipele.hr,eobutev.si,eobuv.com.ua,epapoutsia.gr,eschuhe.at,zapatos.es##.modal-consents
 !! .cookie-setting
 beleuchtung.at,beleuchtung.de,fotistikosmos.gr,lambimaailm.ee,lampak.hu,lampamania.es,lampamania.pt,lampemania.dk,lampite.bg,lampmani.se,lampupasaule.lv,lempumanija.lt,liderlamp.pl,luciamo.it,lumimania.be,lumimania.fr,luminam.ro,programia.cz,spokojenypes.cz,svet-svetil.si,svet-svietidiel.sk,svet-svitidel.cz,svijet-svjetiljki.hr,valomania.fi##.cookie-setting
 !! .cn-layer
