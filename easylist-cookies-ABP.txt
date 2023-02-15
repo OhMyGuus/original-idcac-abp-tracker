@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HfWM0m8947rsv9VASEJ/8A
+! Checksum: U4cPQdy8vB0P24uBC2AcJQ
 ! Title: Easylist Cookie List
-! Updated: 2023-02-15 00:40 UTC
+! Updated: 2023-02-15 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19737,6 +19737,7 @@ carvago.com##.ees0v8i1
 tech.eu##.efilli-layout-legacy
 egym.com##.egym-prompt
 bbc.com##.eh3hs0a5
+mubi.com##.el38f2b0
 elasticemail.com##.elastic-cookie-notice
 my.bulbapp.com##.elementor-element-10ff3dc7
 fxhome.com##.elementor-location-footer
@@ -20992,7 +20993,7 @@ arbys.com,neoplants.com,oresundstag.se##[class^="cookieBanner"]
 !! petermeyerverlag.de / ischiawandern.com/ pb-schredl.de
 ##.wrap > .consent-widget
 !! Cookies_
-consumer-legal.com,matchbook.com##div[class^="Cookies_"]
+consumer-legal.com,matchbook.com,profim.eu,profim.fr,profim.pl##div[class^="Cookies_"]
 !! CookieBanner
 abc.net.au,amie.so,app.daily.dev,billhop.com,channel5.com,coinbase.com,desiindian-brighton.co.uk,drbuho.com,foodcorner.dk,hackney.gov.uk,harrys.com,itzipitzipizza.dk,klientboost.com,lendo.se,letsenhance.io,lindahall.org,luminpdf.com,make.com,monzo.com,mrpizzahastings.co.uk,onceupon.photo,qured.us,skyvegas.com,sweatco.in,theculturetrip.com,trelson.com,tri.global,unum.co.uk##div[class*="CookieBanner"]
 !! .active.legacy
