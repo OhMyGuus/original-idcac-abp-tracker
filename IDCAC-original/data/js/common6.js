@@ -223,6 +223,7 @@ function getE(hostname)
 		case 'sachsenenergie.de': return ['cookiesAccepted=true'];
 		case 'cire.pl': return ['APP_A_COOKIES_TERMS_AND_CONDITIONS=true', 'APP_A_COOKIES_FUNCTIONAL=false', 'APP_A_COOKIES_PERFORMANCE=false', 'APP_A_COOKIES_MARKETING=false', 'APP_A_COOKIES_POLICY=true'];
 		case 'pretto.fr': return ['tracking-preferences={%22version%22:1%2C%22destinations%22:{%22Bing%20Ads%22:false%2C%22Facebook%20Pixel%22:false%2C%22Google%20AdWords%20New%22:false%2C%22Google%20Cloud%20PubSub%22:false%2C%22Google%20Tag%20Manager%22:false%2C%22PERSONAS%20-%20Google%20AdWords%22:false}%2C%22custom%22:{%22advertising%22:false%2C%22marketingAndAnalytics%22:false}}'];
+		case 'webstore.zvw.de': return ['trackingAccepted=false'];
 	}
 	
 	

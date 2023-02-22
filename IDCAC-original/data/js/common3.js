@@ -20,16 +20,18 @@ function getItem(hostname)
 				{strict: true, key: 'safe-storage/v1/tracking-consent/trackingConsentMarketingKey', value: 'KEEP_ALWAYS;;false'}
 			];
 		
-		case 'krant.volkskrant.nl':
-		case 'krant.dg.nl':
-		case 'krant.demorgen.be':
-		case 'krant.trouw.nl':
-		case 'krant.ad.nl':
-		case 'krant.parool.nl':
-		case 'krant.ed.nl':
+		case 'volkskrant.nl':
+		case 'dg.nl':
+		case 'demorgen.be':
+		case 'trouw.nl':
+		case 'ad.nl':
+		case 'parool.nl':
+		case 'ed.nl':
+		case 'bndestem.nl':
+		case 'weser-kurier.de':
 			return [
 				{strict: false, key: 'vl_disable_tracking', value: 'true'},
-				{strict: false, key: 'vl_disable_usecookie', value: 'selected'}
+				{strict: false, key: 'vl_disable_usecookie', value: 'necessary'}
 			];
 	}
 	

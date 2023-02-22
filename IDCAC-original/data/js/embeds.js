@@ -13,6 +13,7 @@
 			is_audioboom = true;
 			break;
 		
+		case 'dailymotion.com':
 		case 'www.dailymotion.com':
 			is_dailymotion = l.pathname.indexOf('/embed') === 0;
 			break;
@@ -44,7 +45,7 @@
 			
 			// dailymotion.com iframe embeds
 			else if (is_dailymotion) {
-				document.querySelectorAll('.np_DialogConsent-accept:not(.' + classname + ')').forEach(function(button) {
+				document.querySelectorAll('.np_DialogConsent-accept:not(.' + classname + '), .consent_screen-accept:not(.' + classname + ')').forEach(function(button) {
 					button.className += ' ' + classname;
 					button.click();
 				});

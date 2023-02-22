@@ -110,7 +110,8 @@
 			'.modal.show button[id*="cookie-consent-accept-selected"]',
 			'#cookie-manager-window[style*="block"] #accept-selected',
 			'.ck-user-cookie-consent-modal #js-save-cookie-settings',
-			'#cookie-consent-modal[style*="block"] ~ .modal #cc-save-preferences'
+			'#cookie-consent-modal[style*="block"] ~ .modal #cc-save-preferences',
+ 			'#privacy-consent[style*="block"] #current-settings-save'
 		],
 		
 		'.modal[style*="block"]': [
@@ -178,6 +179,8 @@
 			'#cookieConsentConfigBtnDecline',
 			'#continueWithoutAccepting',
 			'#cookieSavingButton',
+			'#gdpr-save-settings.btn',
+			'.js-consent-btn-manage + .js-consent-btn-decline',
 			
 			'#bccs-buttonDoNotAgree',
 			'#bccs-buttonAgreeRequired:first-child'
@@ -325,7 +328,6 @@
 		.ReactModal__Overlay--after-open .UPM__PrivacyModal span + div > span:first-child button,\
 		.privacyInformationDiv .cookie-agree,\
 		.modal.fade.in #acceptCookie,\
-		.button[value="accept-all"][data-gtm="basic-consent/accept-all/button"],\
 		#js-modal-consent .js-consent-accept,\
 		#cookie-warning.show #cookie-accept,\
 		.html-consent .cc-overlay-submit,\
@@ -457,7 +459,6 @@
 		
 		'.fancybox-overlay[style*="block"] #cookie-consent-simple .cookie__btn--primary,\
 		ab-cookie-wall modal-footer .btn,\
-		.cookie-policy-popup[style*="block"] .button[data-cookie-policy-accept],\
 		.cookie-consent-modal.ui-modal_open .cookie-consent-modal__accept-button,\
 		#cookiewizard[style*="block"] #accept-all-cookies,\
 		.AST-banner > div[style*="block"] .AST-accept,\
@@ -539,10 +540,10 @@
 	var start = setInterval(function() {
 		var html = document.querySelector('html');
 		
-		if (!html || /idc0_345/.test(html.className))
+		if (!html || /idc0_346/.test(html.className))
 			return;
 		
-		html.className += ' idc0_345';
+		html.className += ' idc0_346';
 		searchLoop(0);
 		clearInterval(start);
 	}, 500);

@@ -10,20 +10,24 @@ function _id(id) {
 var main_interval = setInterval(function() {
 	var html = _sl('html');
 	
-	if (!html || /idc8_345/.test(html.className))
+	if (!html || /idc8_346/.test(html.className))
 		return;
 	
 	clearInterval(main_interval);
 	
-	html.className += ' idc8_345';
+	html.className += ' idc8_346';
 	
-	var counter = 0, interval = setInterval(function() {
+	var counter = 0, host_parts = document.location.hostname.split('.'), interval = setInterval(function() {
 		
 		var element;
 		
-		if (document.location.hostname.split('.')[0] == 'consent') {
+		if (host_parts[0] == 'consent') {
 			if (document.location.pathname == '/m') {
-				element = _sl('form[action*="//consent."][action$="/s"] button, form[action*="//consent."][action$="/save"] button');
+				
+				if (host_parts[1] == 'youtube')
+					element = _sl('div + form[action*="//consent."][action$="/save"] button, .basebutton + form[action*="//consent."][action*="/save"] .button');
+				else
+					element = _sl('form[action*="//consent."][action$="/save"]:first-of-type:not(:only-of-type) button');
 				
 				if (element) {
 					element.click();
@@ -32,10 +36,10 @@ var main_interval = setInterval(function() {
 			}
 			
 			
-			// Mobile only, ie google.co.uk (or in FF Nightly, on google.com search results)
+			// Mobile only: 1. google.co.uk (or in FF Nightly, on google.com search results) 2. YT only, a copy or the desktop selector
 			
 			else if (document.location.pathname == '/ml') {
-				element = _sl('.saveButtonContainerNarrowScreen > form:last-child .button');
+				element = _sl('.saveButtonContainerNarrowScreen > form:last-child .button, .basebutton + form[action*="//consent."][action*="/save"] .button');
 				
 				if (element) {
 					element.click();
