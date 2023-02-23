@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: K8lkVcWbSbu0YiF3oRvYRQ
+! Checksum: e/lKr7vR19qxK3JGWctMAQ
 ! Title: Easylist Cookie List
-! Updated: 2023-02-23 07:20 UTC
+! Updated: 2023-02-23 21:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19964,6 +19964,7 @@ trontv.com##.jw-popups
 trontv.com##.jw-popups-backdrop
 trontv.com##.jw-popups-container
 whitebit.com##.k4w6
+uizard.io##.kCsINM
 dotwatcher.cc##.kFFkJV
 hootsuite.com##.kUxIsB
 depop.com##.kXlWIL
