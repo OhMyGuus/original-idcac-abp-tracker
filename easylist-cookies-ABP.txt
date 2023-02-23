@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wJuavgtmV6EnW/buiRrGoQ
+! Checksum: nDqnmkLj1fRSfInoG50/MA
 ! Title: Easylist Cookie List
-! Updated: 2023-02-22 13:00 UTC
+! Updated: 2023-02-23 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -2188,6 +2188,7 @@ _vpcookieconsent/
 ###bJS_cookieBanner
 ###ba_eu_cookie_law
 ###babaorum-bar
+###backBlackCookies
 ###backPopupCookie
 ###backcolorcookies
 ###backdrop-cookie-banner
@@ -22715,7 +22716,7 @@ nordiskporselen.com###kjeks
 sparebank1.no###opt-in
 steinhandel.no###topbar
 haugesundbk.net##.GDPRcontainer
-aperitif.no,byggmesteren.as,estatenyheter.no,forskning.no,journalisten.no##.adn-message
+aperitif.no,byggmesteren.as,estatenyheter.no,forskning.no,journalisten.no,khrono.no##.adn-message
 ngi.no##.bcc-container
 seher.no##.cbxMtF
 smakmagasinet.no##.coco-wrapper
