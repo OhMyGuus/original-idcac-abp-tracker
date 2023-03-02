@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TI2a8vGZoTPPrweBznVNpA
+! Checksum: dFfQGz2SKBz5p6CTDZtxzA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-02 02:20 UTC
+! Updated: 2023-03-02 10:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -9386,6 +9386,7 @@ _vpcookieconsent/
 ###zc_cookie_notice
 ###zc_homepage_bara_cookies
 ###zc_notice
+###zcob-cookies
 ###zcookie
 ###zdprivacy-content
 ###zeraxo-cookie-bar
@@ -19617,7 +19618,7 @@ writerduet.com##.container.pb-4.pt-4
 onthehub.com##.containerDefaultClass
 iconscout.com##.container_hP6iH
 dreamingreece.com##.cookie-consent-inner
-cameronhouse.co.uk##.cookie-container
+cameronhouse.co.uk,postimees.ee##.cookie-container
 ford.co.uk,theatlantic.com##.cookie-disclaimer
 parliament.uk##.cookie-manager
 gsm55.com##.cookie-module__cookieContainer___3EHjh
