@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: unR57vBgCE2LAwvY+phuVA
+! Checksum: uDtvTJ96l9n/YEpl/opgNg
 ! Title: Easylist Cookie List
-! Updated: 2023-03-01 00:40 UTC
+! Updated: 2023-03-02 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18812,6 +18812,7 @@ postojnska-jama.eu###\5f iCD
 govirtuo.com###__next > div[class^="virtuo_"]
 downdetector.com###_evidon-barrier-wrapper
 coloradocollege.edu###_pc
+abramsbooks.com###abr_cookie_modal
 jemako.com###acb-wrapper
 presta-module.com###acbModal
 brulocalis.brussels###acc-bottom
@@ -19637,6 +19638,7 @@ cdp.net##.cookie_dismiss_container
 atlanticahotels.com##.cookieagreement
 bitfeed.co##.cookiebanner
 paymentcloudinc.com##.cookiebtn
+autotoll.com.hk##.cookies-agreement-container
 livejournal.com##.cookies-banner
 px.dev##.cookies-banner-module--banner--UON8z
 takealot.com##.cookies-banner-module_cookie-banner_hsodu
