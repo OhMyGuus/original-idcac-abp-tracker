@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Mx/N4POCrpo7nab6zjrT2w
+! Checksum: Cba1oHS42zLobR4p2n1ZrA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-06 03:40 UTC
+! Updated: 2023-03-06 09:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24334,6 +24334,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 !
 @@||192.168.*/privacy_policy.js$~third-party
 @@||3332222.ru/cookie-popup.$~third-party
+@@||366.bg/cookieconsent/cookieconsent.min.js$~third-party
 @@||adblockplus.org/img/cookie-notice.svg$~third-party
 @@||adtipp.de/js/cookiebanner.js
 @@||aicasanitaire.fr/extras/min/$script,~third-party
