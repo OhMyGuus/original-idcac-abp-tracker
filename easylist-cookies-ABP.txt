@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GT8ggGYFxiiQj1uwr61pSQ
+! Checksum: c9e/+eVxoVnV02r0362NxA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-06 23:20 UTC
+! Updated: 2023-03-07 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18627,6 +18627,7 @@ _vpcookieconsent/
 ||cdn259.talksport.com^
 ||cmp.cdn.thesun.co.uk^
 ||cmp.cdn.thesun.ie^
+||cmp.graziadaily.co.uk^
 ||cmp.infopro-digital.com^
 ||cmp.osano.com^
 ||cmp.parkers.co.uk^
@@ -20322,6 +20323,7 @@ docs.abaddon.me,docs.betteruptime.com,electronforge.io,guides.cryptowat.ch,suppo
 docs.passbase.com##.r-l13dpy
 niceareas.co.uk##.rayAlertBox
 sportsnet.ca##.rdm-daac-notice-template
+atlas.nomic.ai##.react-cookienotice-root
 blacklimba.com##.recommendation-modal__backdrop
 hazlitt.net##.region-masthead-inner
 layar.com##.remarketing-banner
