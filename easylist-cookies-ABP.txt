@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lp9SZfKBLMAJZhWU0OmkFw
+! Checksum: sSXBH3vR9nj+jyUOwswx0A
 ! Title: Easylist Cookie List
-! Updated: 2023-03-07 22:20 UTC
+! Updated: 2023-03-07 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22004,6 +22004,7 @@ timberland.com.tw##.cSAxXz
 infiniti.com.tw##.c_128
 cvimall.net##.chpFL
 converge.cn##.compliance
+crocs.com.hk##.cookie-accept-desktop
 hozonauto.com##.cookie-tips
 unity.cn##.cookies-permission_2kEyTVGb
 hkdecoman.com##.copyright-bottom-nav
