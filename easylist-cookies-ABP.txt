@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4aEglEDGKF8m3V8xJfXb2Q
+! Checksum: 3wEohEtIsOu0ocY08e/ssA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-08 20:00 UTC
+! Updated: 2023-03-08 22:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21131,7 +21131,7 @@ royalpanda.com##.MuiContainer-maxWidthMd
 !! .MuiSnackbar-anchorOriginBottomLeft
 imecedestek.com,news.uavsa.org,paper.li,swapcoin.cc,tuco.co##.MuiSnackbar-anchorOriginBottomLeft
 !! .MuiSnackbar-anchorOriginBottomCenter
-allinone.im,bigsummergolf.com,fashionunited.ca,fashionunited.com,fashionunited.de,pricellent.pl,services.gerep.fr,skrapp.io,thelowdown.com,tvtv.ca##.MuiSnackbar-anchorOriginBottomCenter
+allinone.im,bigsummergolf.com,fashionunited.ca,fashionunited.com,fashionunited.de,pokecardmaker.net,pricellent.pl,services.gerep.fr,skrapp.io,thelowdown.com,tvtv.ca##.MuiSnackbar-anchorOriginBottomCenter
 !! .ui-dialog
 abnova.com.tw,benelli-motor.cz,bio-rad.com,dofus-le-film.com,dofus.com,drago-restaurant.de,dragorestaurant.de,gloucestershire.gov.uk,hillwig.de,infowine.com,krosmaster.com,lekarna.us,lookandlearn.com,miastograf.pl,mympchain.com,nacex.es,portwell.com.tw,siampark.net##.ui-dialog
 !! .ui-widget-overlay
