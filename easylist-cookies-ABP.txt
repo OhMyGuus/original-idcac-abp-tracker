@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Wyu/87ymlZ3zcoNpsVKctA
+! Checksum: 037FBJGMiNCtjsUCb4cYpw
 ! Title: Easylist Cookie List
-! Updated: 2023-03-09 02:40 UTC
+! Updated: 2023-03-09 03:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18614,7 +18614,7 @@ _vpcookieconsent/
 ||widgets.openli.com^
 ||wpcc.io^$third-party
 ! privacy-mgmt.com
-||cdn.privacy-mgmt.com^$domain=anisearch.com|anisearch.de|anisearch.es|anisearch.fr|anisearch.it|anisearch.jp|idealo.co.uk|marketwatch.com|wsj.com
+||cdn.privacy-mgmt.com^$domain=anisearch.com|anisearch.de|anisearch.es|anisearch.fr|anisearch.it|anisearch.jp|idealo.co.uk|marketwatch.com|taz.de|wsj.com
 ! Consent Trackers
 ||opencmp.net^$script,third-party
 !--------------------------Specific blocking filters--------------------------!
@@ -18941,6 +18941,7 @@ europa-plc.com###cookieplate
 accolade.eu###cookies-component
 tangomode-aga.eu###cookies-law
 worksheetcrafter.com###cookiesFormContainer
+freemius.com###cookies_opt_in
 mdachieve.com,pharmachieve.com###copyright-2
 atos.net,dsm.com,tesco.ie,unify.com###cp
 wayofleaf.com###cpop
@@ -19384,6 +19385,7 @@ mymuesli.com##.active.mask
 akeebabackup.com,batteryequivalents.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 svitla.com##.agree-popup
 ticketmaster.ca##.agree-terms
+hedonism.com##.agreedPP
 marcocm.com##.agreement-popup
 factory.pixiv.net##.agreement-to-last-term
 festival-fabula.org##.agreetop
@@ -19544,6 +19546,7 @@ resmed.com##.c-notifications-wrapper
 loveholidays.com,loveholidays.ie##.c-o--
 rimowa.com##.c-rimpopin-wrapper--privacy
 corporate.comcast.com##.c-top-banner
+ustgear.com##.c-tracking-consent
 ii.co.uk##.c01194
 queengarnet.com##.c0211
 aplus.com##.c206
