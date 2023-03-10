@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xLf+h5rlS3DiXifRC6XQvA
+! Checksum: 1Ob0vjHJ7QVb0cKfrMxj2A
 ! Title: Easylist Cookie List
-! Updated: 2023-03-09 12:00 UTC
+! Updated: 2023-03-10 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21206,7 +21206,7 @@ myfitnesspal.cn,myfitnesspal.co.kr,myfitnesspal.com,myfitnesspal.com.hk,myfitnes
 myfitnesspal.cn,myfitnesspal.co.kr,myfitnesspal.com,myfitnesspal.com.hk,myfitnesspal.com.tw,myfitnesspal.de,myfitnesspal.es,myfitnesspal.it,myfitnesspal.jp,myfitnesspal.nl,myfitnesspal.se##.jss91
 myfitnesspal.cn,myfitnesspal.co.kr,myfitnesspal.com,myfitnesspal.com.hk,myfitnesspal.com.tw,myfitnesspal.de,myfitnesspal.es,myfitnesspal.it,myfitnesspal.jp,myfitnesspal.nl,myfitnesspal.se##.jss93
 ! .z-50
-bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,livecounts.io,mymorrisons.com,posthog.com##.z-50
+bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,mymorrisons.com,posthog.com##.z-50
 ! scotiabank
 roynat.com,scotiabank.com,scotiafunds.com,scotiaitrade.com,scotialifefinancial.com,scotiawealthmanagement.com##.alert-sticky
 ! groupon
@@ -21551,6 +21551,7 @@ bundesheer.at##._sm_container
 sojka-solutions.com##.active
 ajs-bw.de,kbaur-gmbh.com,tus-almena.de##.alertbanner
 muehlbacher.de##.alm--is-muehlbacher-cookie
+ctt.de##.amgdprjs-bar-template
 aktieninvestor.net,klaus-grillt.de,promobricks.de,shop.ls-klima.de##.animate__none
 1avisum.de##.announcement
 peoples.ch##.app-message-modal-background
