@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QiVgt7hipF8tTkYUaPtdig
+! Checksum: PIn9xpj2PLZMOvzGIaCWxQ
 ! Title: Easylist Cookie List
-! Updated: 2023-03-10 22:40 UTC
+! Updated: 2023-03-10 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19607,6 +19607,7 @@ coe.int##.coe-cookies-consent-popup
 baskbank.com##.coh-ce-cpt_cookie_consent-d004124e
 bocchibagno.com##.cokies
 scnat.ch##.command-bar
+disqus.com##.comment-policy-refresh
 vivo.com##.common_prompt-privacy-bg
 sonicdrivein.com##.comp-cookie-banner_cookie__SnsnZ
 casioindiashop.com##.compare-bg
