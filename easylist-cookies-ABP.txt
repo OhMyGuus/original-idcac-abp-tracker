@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LWPiUesNda3zo+i/iiUT9A
+! Checksum: 4v4MpmHClmPaYWDM4IhdSQ
 ! Title: Easylist Cookie List
-! Updated: 2023-03-13 13:40 UTC
+! Updated: 2023-03-13 22:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18946,6 +18946,7 @@ accolade.eu###cookies-component
 tangomode-aga.eu###cookies-law
 worksheetcrafter.com###cookiesFormContainer
 freemius.com###cookies_opt_in
+kramp.com###cookiewall-modal
 mdachieve.com,pharmachieve.com###copyright-2
 atos.net,dsm.com,tesco.ie,unify.com###cp
 wayofleaf.com###cpop
