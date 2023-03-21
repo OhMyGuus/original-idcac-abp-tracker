@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cvf35Pv7Sytjcj37vE5OSQ
+! Checksum: 3A+lnl2ACaJOoIY2A+awEA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-21 01:40 UTC
+! Updated: 2023-03-21 03:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20472,6 +20472,7 @@ kambly.com##.terms-cond
 cnn.com##.terms-of-service
 fijiairways.com##.terms-of-use
 jangmidiamonds.com##.termsfeed-pc1-notice-banner
+1news.co.nz##.test-notificationPopup
 trilogyfs.com##.tf-full-screen-search-wrap
 adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
 thomannmusic.ch##.thomann-cookie-consent-overlay
@@ -22248,6 +22249,7 @@ autentiek.nl###ciWrapper
 blog.andwork.com###ckm
 pensioenleeftijdberekenen.nl###ckpol
 cdh.be###comp-jkmod7cm
+gld.nl###consent-plugin
 targetsupport.nl###consentModal
 ekoplaza.nl###cookie-prompt-modal___BV_modal_outer_
 doof.nl###cookiechoices
@@ -23639,6 +23641,11 @@ draeger.com##dw-global-notification
 ! ---------- Israeli ----------
 !
 lastminute.co.il##app-notifications-container
+!
+!----------- Macedonian -----------
+!
+loging.mk##.showBackdrop
+loging.mk##.showConsent
 !
 ! ---------- Catalan ----------
 !
