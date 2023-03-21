@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OmZDmFIWpBBSjC2NZD0AcQ
+! Checksum: wtPQRU28Kk2jqSFe6C/ZHA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-20 22:40 UTC
+! Updated: 2023-03-20 22:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19884,7 +19884,6 @@ dorkingrfc.com##.fsi-layout-notices
 evermotion.org##.full-overlay
 fedex.com##.fxg-alert__fdx_cookie_notice
 fxstreet.com##.fxs_footer
-ratemyprofessors.com##.fyxlwo
 cgtn.com##.g-dialog
 replika.ai,replika.com##.gEQwvO
 pro.coinbase.com##.gNNMVp
@@ -20601,6 +20600,7 @@ myeventeo.com##[class^="AlertCookies_"]
 carx-online.com##[class^="Cookie__Component-"]
 bitbrain.com##[class^="CookiesManager"]
 btc-alpha.com##[class^="Cookies_container"]
+ratemyprofessors.com##[class^="FullPageModal_"]
 nio.com##[class^="GlobalSiteGAGTMGDPR_"]
 hellohelium.com##[class^="Home_cookiewrapper"]
 app.revolut.com##[class^="Overlay__OverlayBase-sc-"]
