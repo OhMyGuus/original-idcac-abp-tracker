@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XLTOFUHszAfDMXKFj6v3lQ
+! Checksum: AFITR+KD/tEeqkggvcYNTg
 ! Title: Easylist Cookie List
-! Updated: 2023-03-22 12:40 UTC
+! Updated: 2023-03-22 22:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22308,7 +22308,7 @@ nextenergy.nl##.cookie-components
 museum.nl##.cookie-overlay
 ingsprinters.nl##.cookie-settings
 abmulderbv.nl,igorski.nl##.cookie-wall
-123-3d.nl,123led.nl,kabelshop.nl##.cookie123-popup
+123-3d.nl,123accu.nl,123inkt.nl,123led.nl,123schoon.nl,kabelshop.nl##.cookie123-popup
 grandprixradio.nl##.cookies-popup-background
 grandprixradio.nl##.cookies-popup-dialog
 menzis.nl##.cookiewall
@@ -23118,6 +23118,7 @@ vas.com.pl##div[style^="top:0;left:0;right:0;"]
 !
 ! ---------- Portuguese ----------
 !
+mercatoemcasa.com.br###COOKIEBAR
 portugalglobal.pt###barramensagem
 assertivasolucoes.com.br###ck-container
 cliper.pt###cook
