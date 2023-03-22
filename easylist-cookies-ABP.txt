@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JYX1ivUoaQWXPkvm+qt+Yw
+! Checksum: wTDm35MhgAGPXvz6Xf+6kA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-22 01:20 UTC
+! Updated: 2023-03-22 02:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22437,7 +22437,7 @@ tiendeo.fi##.kcLQzP
 kiitoskauppa.fi##.kiitos-cookies
 epressi.com##.lpcn
 mikkelinyt.fi##.ng-scope[ng-if$="customConsentManagement"]
-ilvesfoorumi.com##.notice--cookie
+ilvesfoorumi.com,varasija.com##.notice--cookie
 kotipizza.fi##.notification-warning
 molnlycke.fi##.notifications
 cmore.fi##.onetrust-pc-dark-filter[style]
