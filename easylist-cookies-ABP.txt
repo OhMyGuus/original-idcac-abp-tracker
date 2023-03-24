@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CXSRy5ZFaPPVgxYTV3G66g
+! Checksum: Io7NwwRiInn3bnWKZYBw0A
 ! Title: Easylist Cookie List
-! Updated: 2023-03-23 21:20 UTC
+! Updated: 2023-03-24 09:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20617,6 +20617,7 @@ myeventeo.com##[class^="AlertCookies_"]
 carx-online.com##[class^="Cookie__Component-"]
 bitbrain.com##[class^="CookiesManager"]
 btc-alpha.com##[class^="Cookies_container"]
+graphql.braintreepayments.com##[class^="GDPR-module_"]
 nio.com##[class^="GlobalSiteGAGTMGDPR_"]
 hellohelium.com##[class^="Home_cookiewrapper"]
 app.revolut.com##[class^="Overlay__OverlayBase-sc-"]
