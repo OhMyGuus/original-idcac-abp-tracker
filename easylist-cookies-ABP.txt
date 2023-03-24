@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bylcfdSx+dfWVJInj5a+fA
+! Checksum: 1bBMTbvNisddyq94adVuBQ
 ! Title: Easylist Cookie List
-! Updated: 2023-03-24 09:00 UTC
+! Updated: 2023-03-24 10:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19396,6 +19396,7 @@ norm.store##.above-pages-container > .animation-container
 nicequest.com##.ac
 presta-module.com##.acbBackdrop
 greenfields.eu##.accept-alert
+plugins.jetbrains.com##.acceptance-popup
 ibuypower.com##.acceptcookie_contain__JVvcU
 biglink.to##.acquisition-footer-row-wrap
 mymuesli.com##.active.mask
@@ -20584,6 +20585,7 @@ warthunder.com##.wt-cb
 spoonflower.com##.x-global-dialog
 xvideos.com##.x-message
 eneba.com##.xIPhuO
+thenounproject.com##.yCpfT
 hazardexonthenet.net##.yellow
 cuddlebug.co##.yeps-bar
 codesandbox.io##.yhmpN
@@ -20617,6 +20619,7 @@ myeventeo.com##[class^="AlertCookies_"]
 carx-online.com##[class^="Cookie__Component-"]
 bitbrain.com##[class^="CookiesManager"]
 btc-alpha.com##[class^="Cookies_container"]
+graphql.braintreepayments.com##[class^="GDPR-module_"]
 nio.com##[class^="GlobalSiteGAGTMGDPR_"]
 hellohelium.com##[class^="Home_cookiewrapper"]
 app.revolut.com##[class^="Overlay__OverlayBase-sc-"]
@@ -20632,6 +20635,7 @@ uber.com##[data-baseweb="toaster"]
 abc.net.au##[data-component="CookieBanner"]
 indeed.com##[data-gnav-region="GlobalPrivacyControlBanner"]
 jooble.org##[data-test-name="_termsOfServices"]
+youtrack.jetbrains.com##[data-test="alert-container"]
 backmarket.com##[data-test="banner"]
 coinbase.com##[data-testid="banner-container"]
 oneclickcover.com##[data-v-5f675fc8]
@@ -21734,6 +21738,7 @@ fairmondo.de##.l-news-header
 receiver.de,steckdosenleiste.org##.legalAdvice
 psd-rhein-ruhr.de##.lightbox
 bbbank.de,berliner-volksbank.de,sparda-b.de##.lightbox--cookie-consent
+airitsystems.de##.limz_cookieConsent
 bonify.de##.lleMAd
 etz.at##.loader
 wirklichweiterkommen.de##.lsa-dialog
@@ -21773,6 +21778,7 @@ otto-office.com##.ooB-black-overlay-machmichweg
 online-services.rundfunkbeitrag.de##.optInContainer
 belgium.be##.orejime-Notice
 albatrueffel.de##.overlay-container
+staige.tv##.overlay-content
 koenig.de##.overlay__wrapper
 mibaby.de##.overlay_buddy
 avl-ludwigsburg.de,packster.de##.page-overlay
@@ -21840,7 +21846,9 @@ prospekt.aldi-sued.de##div[id^="ppms_cm_consent_popup_"]
 smart-mail.de##div[style*="position: fixed; padding-top:"]
 bodenaturkost.de##div[style*="top: 0px; left: 0px; height: 100%; width:100%; position: fixed; background-color: rgba(0, 0, 0, 0.6); z-index: 1000; text-align: center;"]
 pcwarehouse.be##div[style*="width: 100%; background-color: #474747; padding-top: 0px; margin-top: 0px;"]
+staige.tv##fanpage-cookie-notice
 oebv.net##form > div
+staige.tv##player-overlay
 mainz.de##sp-consent-banner
 cuxlandparks.de##sw-cookiemessage
 !
@@ -22367,6 +22375,7 @@ koentact.nl##.popmake
 myshipper.nl##.popup_main
 pro-alarm.nl##.popupbuilder-widget-content
 wehkamp.nl##.position-fixed
+prorail.nl##.prorail-cookie-popup
 pthu.nl##.pthu-dialog__modalbg
 gezondheidsplein.nl##.reveal-overlay
 asr.nl##.review-banner
@@ -23310,6 +23319,7 @@ alter-science.info,alterexit.info,viziya.info###pop
 calltouch.ru###poppup-food
 sibur.ru###privacyPolicy
 rgs.ru###rgs-main-context-bar
+eldorado.ru##.-X
 ctc.ru##.AcceptCookie_placeholder__2RgUK
 bcs.ru##.Cbh_c
 sberdisk.ru##.CookieContainer_CookieContainer__1xqA-
@@ -23443,6 +23453,7 @@ eecmedical.ru##.welcome-popup
 warthunder.ru##.wt-cb
 yasno.live##.y-gdpr
 uralkarcher.ru##.zalupa
+connectgas.ru##[class^="cookieAgreement"]
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
 timeweb.cloud##[data-v-54613cd5]
 sdamgia.ru##[style^="text-align: left; position: fixed;"]
