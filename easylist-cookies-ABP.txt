@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IXfNvCqLdZENe/u9JL0uew
+! Checksum: w5j/YhJQYu2FM6RjJb5YaA
 ! Title: Easylist Cookie List
-! Updated: 2023-03-26 22:00 UTC
+! Updated: 2023-03-27 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20792,7 +20792,7 @@ netzreform.de,opensocietyfoundations.org,otter.finance,stanceldavid.sk###cc_div
 !! .cc_div
 blocktechnology.eu,brgroup.cz,candylipz.sk,vitkovicecylinders.cz##.cc_div
 !! .u-bottomFixer
-broadbandforum.co,builtbybit.com,forum.proxmox.com,head-fi.org,hypixel.net,yttalk.com##.u-bottomFixer
+broadbandforum.co,builtbybit.com,forum.proxmox.com,head-fi.org,hobby-machinist.com,hypixel.net,yttalk.com##.u-bottomFixer
 !! CookieBox
 codewise.com,nawozy.eu##[class^="CookieBox"]
 !! .modal-consents
