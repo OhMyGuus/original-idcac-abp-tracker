@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: huFCGJG2J3R1t6kSmSeQ8w
+! Checksum: wMHn5QmYM0iAnngxf9jFhg
 ! Title: Easylist Cookie List
-! Updated: 2023-03-28 03:40 UTC
+! Updated: 2023-03-28 04:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19612,6 +19612,7 @@ wallpapershome.com##.cc-dialog
 download.pixelexperience.org##.cc-dismiss.cc-btn
 pronouns.page##.cc-modal
 smartbear.com##.cc-pop
+yoursoccerdose.com##.cc-simple
 dryrobe.com##.cc-window-wrapper
 mysoapbox.com##.cc_modal
 drakecircus.com##.ccc-widget
@@ -20458,6 +20459,7 @@ sterkinekor.com##.snack
 httpstatus.io##.snackbar
 grover.com##.snackbar-enter-done
 hotukdeals.com##.softMessages-item
+sonos.com##.sonoscontent-banner
 thermofisher.com##.specialMsg
 spinbackup.com##.spin-ai-gtm-banner
 spreadshirt.com##.sprd-consent
