@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OInQi32fcjzymj8ZLKuK0g
+! Checksum: yZ3hDZGqODfRIlEZV82wnw
 ! Title: Easylist Cookie List
-! Updated: 2023-03-27 23:40 UTC
+! Updated: 2023-03-28 01:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -2360,6 +2360,7 @@ _vpcookieconsent/
 ###bkCookieBanner
 ###bk_cookies_alert
 ###bkcookie
+###blackout_cookie
 ###blake_cookies_notice
 ###blastnessCookieBanner
 ###bloc-cookie
@@ -20278,6 +20279,7 @@ touchstonerenard.com##.pcb__banner
 checkraka.com##.pdpa-popup
 spainhouses.net##.persistentMessage
 nordwindairlines.ru##.personal-data
+perfectcorp.com##.pf-header-cookiestatement
 planetfitness.com##.pf-privacy-policy-notice
 free-power-point-templates.com##.pg-modal-blackout
 pspdfkit.com##.pgp
@@ -20932,7 +20934,7 @@ twitch.tv##.consent-banner
 !! .dialog-lightbox-message
 aceprensa.com,ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cronycle.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,lsisoftware.pl,lucerna-chem.ch,luukku.com,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,medyascope.tv,mitreprinting.co.uk,realvnc.com,ritchy.com,rwi.se,shotam.info,takeoff.org.mt,terveyskauneus.fi,tvpop.com.br,vrxdb.com,webdesignspecialistamsterdam.nl,webdesignspecialistdenhaag.nl,whatcounts.com##.dialog-lightbox-message
 !! .dialog-lightbox-widget
-ardutronix.de,blackmusicscholar.com,coachdaveacademy.com,courses.heatgeek.com,cover-4-less.com,elegis.com.br,itepexam.com,martonmedia.pl,saferpass.com##.dialog-lightbox-widget
+ardutronix.de,blackmusicscholar.com,coachdaveacademy.com,courses.heatgeek.com,cover-4-less.com,dogfoodreviews.com,elegis.com.br,itepexam.com,martonmedia.pl,saferpass.com##.dialog-lightbox-widget
 !! .t657
 2035.university,alfabusinessweek.ru,bohoo.ru,dcciv.ru,domino-sveta.ru,evisa-russia.ru,examus.com,floristtina.ru,geniusreferrals.com,millionviews.ru,nadessert.com,niagara-pu.ru,ollinprofessional.ru,qapp.tech,sales-battle.ru,tilda.cc,usedesk.ru,waterlamp.de,xianti.fr,zaslon-ul.ru##.t657
 !! .t886
@@ -22177,6 +22179,7 @@ czc.cz###ccp-popup
 ssls.cz###ckb
 drmcd.cz###cookies-bar-dialog
 estetika-novotna.cz###cookiesModal
+jolly-sacky.cz###cookies_confirm_wrapper
 solarenvi.cz,zahradnikrby.cz###cs_bx
 zahradnikrby.cz###cs_bx_envl
 radioteka.cz###cs_stripe
@@ -23537,6 +23540,7 @@ magiogo.sk##div[style^="width: 100%; display: flex;"]
 podcrto.si###cc-note
 generali.si###cd-module-modal-main
 energijaplus.si###ck-overlay
+zps.si###cookieContainerWrap
 easistent.com###cookie_popup
 emporium.si###grayOut
 zps.si###preload_over
