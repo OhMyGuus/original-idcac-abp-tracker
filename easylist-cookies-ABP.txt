@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GV5KtofKFrdWqqsrErkBtg
+! Checksum: MiNDUtOe+KfoHevGXTL4Tg
 ! Title: Easylist Cookie List
-! Updated: 2023-03-29 02:00 UTC
+! Updated: 2023-03-29 10:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19948,6 +19948,7 @@ istockphoto.com##.global-notification-container
 telenor.com##.global-overlay-background
 matrixgames.com,slitherine.com##.globalAnnouncement
 telstra.com.sg##.globalOptIn
+stealthex.io##.gmEwWa
 realmroyale.com##.go3004242404
 goout.net##.goout-cookie-overlay
 cookiebot.com##.granify-widget-container
