@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nWv6/9/96CF00JXz7bju5g
+! Checksum: maYNQo8hSaZkqKhzhejHuw
 ! Title: Easylist Cookie List
-! Updated: 2023-04-02 04:20 UTC
+! Updated: 2023-04-02 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23993,7 +23993,6 @@ ants.vn##.sg-popup-content
 ||consent.autopflege24.net/app.js
 ||consent.berliner-kurier.de^
 ||consent.daa.net/app.js
-||consent.faz.net^
 ||consent.gutefrage.net^
 ||consent.maerkischekiste.de/public/app.js
 ||consent.perry-rhodan.net^
