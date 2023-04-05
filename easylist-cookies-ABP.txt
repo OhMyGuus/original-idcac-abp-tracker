@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: o53zQqceU72HHd99CHIQnQ
+! Checksum: H7mtoX/fFuwYI8Rx1jD1zw
 ! Title: Easylist Cookie List
-! Updated: 2023-04-04 13:20 UTC
+! Updated: 2023-04-05 05:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19681,6 +19681,7 @@ antoineonline.com##.container-overlay
 writerduet.com##.container.pb-4.pt-4
 onthehub.com##.containerDefaultClass
 iconscout.com##.container_hP6iH
+uxcel.com##.cookie-banner-wrap
 navigare-yachting.com##.cookie-box-popup
 dreamingreece.com##.cookie-consent-inner
 cameronhouse.co.uk,postimees.ee##.cookie-container
@@ -20548,6 +20549,7 @@ syfy.com##.tos-popup
 razer.com##.tos-razer-js
 tovatt.com##.tovatt-gdprpopup
 talentplug.com##.tp-popin-cookies
+thepodcasthost.com##.tph-cookie-notice
 thomsonreuters.com##.tr-DismissibleBanner
 nyit.edu##.tracking
 fabasoft.com##.tracking-alert
@@ -21846,6 +21848,7 @@ pneuhage.de##.site-blocker
 autopark.de,mentzl.de##.site-header-overlay
 plus-gp-joule.de##.spinner
 adsomenoise.de##.svelte-sac9e3
+parlament.gv.at##.svelte-uo7olx
 thomann.de##.thomann-cookie-consent-overlay
 trixxo-arena.be##.ts-header-message
 sparwelt.de##.ui-notification
