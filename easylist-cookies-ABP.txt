@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9hzzZy66OLUjcJ6C28syAg
+! Checksum: Sc8xszveCpcVougasr0Etg
 ! Title: Easylist Cookie List
-! Updated: 2023-04-06 01:20 UTC
+! Updated: 2023-04-06 19:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20684,7 +20684,7 @@ coinbase.com##[data-testid="banner-container"]
 oneclickcover.com##[data-v-5f675fc8]
 reddit.com##[reddit-cookie-banner]
 academy.com##[role="complementary"]
-forbesafrica.com##[style*="position: fixed; left: 0px; top: 0px; width: 100%;"]
+forbesafrica.com,segment-anything.com##[style*="position: fixed; left: 0px; top: 0px;"]
 calendardate.com##[style="background-image: none;"]
 jabref.org##[style^="background-color: rgb(24, 28, 31);"]
 visnos.com##[style^="font-size: 20px; text-align: center;"]
