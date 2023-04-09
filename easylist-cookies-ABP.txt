@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: K7b6tleQsrnA4YsyAYcdqg
+! Checksum: 4a9MD97xLiVBidicMzCakQ
 ! Title: Easylist Cookie List
-! Updated: 2023-04-09 00:00 UTC
+! Updated: 2023-04-08 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18589,6 +18589,7 @@ _vpcookieconsent/
 ||lgpdy.com^$third-party
 ||live.mrf.io/statics/1w/$script,xmlhttprequest
 ||marfeel.mgr.consensu.org^$third-party
+||message.maven.io^
 ||mgr.consensu.org/iframe.html
 ||microsoft.com/mscc/
 ||mycookies.it^$third-party
