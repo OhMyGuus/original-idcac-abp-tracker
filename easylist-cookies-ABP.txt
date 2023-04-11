@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: reTlUBfLu5pl6RgRY/PBvw
+! Checksum: RgpWS6JzHOiKtXSLuQbwtA
 ! Title: Easylist Cookie List
-! Updated: 2023-04-11 04:20 UTC
+! Updated: 2023-04-11 10:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -11059,6 +11059,7 @@ _vpcookieconsent/
 ##.componente-aviso-cookies-botoes
 ##.components-cookie-law-basic
 ##.comx-cookies-banner
+##.con-kit-component-cookie-banner
 ##.con-kit-gdpr-cookie-pop-up
 ##.cond_utilis_cookie
 ##.confidentialite_header
@@ -18880,6 +18881,7 @@ shadycharacters.co.uk###banner
 interreg-maritime.eu###banner-overlay-top-page
 shannons.com.au###banner-policies
 bitly.com###banner-spacer
+ancestry.co.uk###bannerOverlay
 harrys.com###banners
 singularshirts.com###bcmp_footer
 shop.naturtrend.com###blackout
@@ -24672,6 +24674,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||notice.sp-prod.net^$subdocument,domain=telegraph.co.uk
 @@||ochotnicy.waw.pl/plugins/system/gdpr/$~third-party
 @@||oddschecker.com/cookie-policy-banner/$~third-party
+@@||onepage.io/api/v1/cookie-service/lib/$script
 @@||onetrust.com/consent/$domain=konami.com|panasonic.com|technics.com
 @@||onetrust.com/request/$xmlhttprequest
 @@||onetrust.com/scripttemplates/$domain=konami.com|panasonic.com|technics.com
