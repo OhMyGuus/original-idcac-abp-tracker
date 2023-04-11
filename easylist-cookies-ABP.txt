@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: RgpWS6JzHOiKtXSLuQbwtA
+! Checksum: nAey8PyJt1Y4lVogN/i0JQ
 ! Title: Easylist Cookie List
-! Updated: 2023-04-11 10:40 UTC
+! Updated: 2023-04-11 12:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist.subscription@gmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19334,6 +19334,7 @@ andersenlab.com##.CookiesPolicy-module--wrapper--8pHca
 accounts.ucas.com##.CybotEdge
 tietalent.com##.EQRlj
 picoxr.com##.EjUUOLYo3tCrc6j7Mapv
+store.pw.live##.FeatureBar_root___INU8
 talixo.com##.FloatingBoxesContainerBottom
 blonded.co##.FooterNotice
 kyivindependent.com##.Footer_cookies__3_gEh
@@ -19953,6 +19954,7 @@ leapyear.io##.gdpr--modal
 principledtechnologies.com##.gdpr-check
 ecwid.com,liberties.eu##.gdpr-window
 gamefound.com##.gfu-floating-message
+gosugamers.net##.gg-css-77iu9o
 downloadcrew.com##.ginger_banner
 santacruzbicycles.com##.gkZcgz
 brake-eng.com##.gl-cm
@@ -20611,6 +20613,7 @@ trustpid.com##.v-bottom-sheet
 rypsv.scot##.v-dialog
 andyguitar.co.uk##.v-dialog__content
 andyguitar.co.uk,rypsv.scot,trustpid.com##.v-overlay
+auctelia.com##.v-snack--bottom
 whitepages.com##.v-snack__content
 rewardlink.io##.v-snack__wrapper
 coupons.cnet.com##.vc
