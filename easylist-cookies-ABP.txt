@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: GaCbeLrDgMYJJfBF1I71PA
+! Checksum: QLVyTPAFkYsIKCZ8ys+T/A
 ! Title: Easylist Cookie List
-! Updated: 2023-04-14 03:00 UTC
+! Updated: 2023-04-14 04:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -24711,6 +24711,8 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||playoverwatch.com/static/externals/cookie-consent-filter-compat.js
 @@||policy.app.cookieinformation.com^$domain=altibox.no|elkjop.no|jysk.nl|power.no|skousen.dk|skousen.no|whiteaway.com|whiteaway.no|whiteaway.se
 @@||portal.aae.at^*/cookieconsent.js$script,~third-party
+@@||portal.energie-graz.at/kundenportal/css/cookieconsent/$~third-party
+@@||portal.energie-graz.at/kundenportal/js/lib/cookieconsent.js$~third-party
 @@||privacypolicies.com/public/uploads/$image,~third-party
 @@||privacyportal-cdn.onetrust.com^$xmlhttprequest,domain=materialplus.io|minehut.com
 @@||purpleair.com/js/gdpr-cookie-consent-popup-plugin/$~third-party
