@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: QbqylgJ/Mi56kg7P4JrbOA
+! Checksum: yhIhTPF3JuKlzE7fxBVDUw
 ! Title: Easylist Cookie List
-! Updated: 2023-04-14 09:00 UTC
+! Updated: 2023-04-14 13:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -21911,6 +21911,7 @@ oase-teichbau.de##.z-100
 grills.de,koempf24.de##.z-100.justify-center
 mein-gartenshop24.de##.z-100.py-6
 gartengeraete-onlineshop.de##.z-100.py-6.max-h-screen
+swu.de##[class*="-banner"]
 gutscheine.de##[data-ssr-consent]
 meinungsstark.de##[role="dialog"]
 cecil.de##consent-layer
