@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: AqzwSYK7ff/R+yXT8iWKuQ
+! Checksum: Sd1svGcI/qpxfprG6Z5E+Q
 ! Title: Easylist Cookie List
-! Updated: 2023-04-16 06:40 UTC
+! Updated: 2023-04-16 14:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -23052,6 +23052,7 @@ polskatimes.pl,strefabiznesu.pl###cross-dialog
 federacja-konsumentow.org.pl,pewnykantor.pl###cu_bar
 przepisy100.pl###cxcx
 kinonh.pl###div_ac
+elektrykasklep.pl###ftccbcmd
 idream.pl###garua_cookie_consent_popup
 zmiksowani.pl###holdon-overlay
 bauer.pl###iframePopupContainer
