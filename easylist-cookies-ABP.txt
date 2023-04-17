@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: flFB1vl8E20geKhoWir1FQ
+! Checksum: S/yqA3wQZXrBjqoKeXgNLQ
 ! Title: Easylist Cookie List
-! Updated: 2023-04-17 12:20 UTC
+! Updated: 2023-04-17 13:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -305,6 +305,7 @@
 /cookie-though/*
 /cookie-warning.
 /cookie-widget/*
+/cookie-wrapper.js
 /cookie.*/cm/*
 /cookie.banner.
 /cookie.euck.
