@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XlCLpHQUR/+Bs2LHZmk61Q
+! Checksum: oiZjuXodaTYadm7nkPCrJw
 ! Title: Easylist Cookie List
-! Updated: 2023-04-19 04:00 UTC
+! Updated: 2023-04-19 08:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23140,6 +23140,7 @@ greatone.pl###zamknij_cookies
 empikbilety.pl,goingapp.pl##.CookieBar_cookieBar__3zsIk
 mednavi.pl##.CookiesNotice
 policja.pl,przystanekhistoria.pl##.JSWrapper
+motopedia.otomoto.pl##.SRaBM
 reportaz.polskieradio.pl##.TermsOfUseModal_modalWrapper__3bWPX
 talixo.pl##.TrackingInfoBox
 przemyslprzyszlosci.gov.pl##._consent
