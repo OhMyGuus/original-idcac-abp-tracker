@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: /B2txxNieBRQ/AL8U9Bwuw
+! Checksum: 0xFY7xNlz4ODGTwKyzf31g
 ! Title: Easylist Cookie List
-! Updated: 2023-04-20 13:20 UTC
+! Updated: 2023-04-20 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19117,6 +19117,8 @@ spandidos-publications.com###navbar
 nba.com###nba_tos
 aptoide.com###news
 metal-shop.eu###nextcreBotDialog
+plotz.co.uk###nfaModal
+plotz.co.uk###nfaPopup
 lycoschat.com###nomnom
 carbonite.com,housemethod.com,optimus.co.im###notice
 co-opinsurance.co.uk###noticePanel
@@ -21752,6 +21754,7 @@ prettynailshop24.de##.consent-manager
 fotofilter.de##.consent-overlay
 lichtwelle-erkrath.de,neander-energie.de,stadtwerke-erkrath.de##.consent-wrap
 hoeffner.de,moebel-kraft.de,sconto.de##.consentForm__container
+medistore.at##.consent_box_wrapper
 dbna.com##.consentbar
 weinzeche.de##.container-cookieconsent
 nomadays.de##.container-fixed-cookie
@@ -21894,6 +21897,7 @@ getdigital.de##.privacy-wrapper
 klimaanlage.at##.privacyControlBadge
 eve-audio.de##.privacycookieA
 cronn.de##.privacyoverlay
+pendix.de##.px-consent-dialog
 pro-retina.de,regenwald-schuetzen.org##.q4u_cc
 flyer.be##.region-announcements
 karriere-suedwestfalen.de,regioactive.de##.reveal-modal
