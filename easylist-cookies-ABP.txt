@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 0xFY7xNlz4ODGTwKyzf31g
+! Checksum: 8ba1hCjD5nTCtk0Rs/PVQA
 ! Title: Easylist Cookie List
-! Updated: 2023-04-20 22:40 UTC
+! Updated: 2023-04-21 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -20822,7 +20822,7 @@ jimdosite.com##._2mmyb
 ! wayfair
 wayfair.co.uk,wayfair.de,wayfair.ie##.FooterPopups
 !! .adn-message
-aperitif.no,byggmesteren.as,cosmosmagazine.com,estatenyheter.no,forskning.no,journalisten.no,khrono.no,sciencenorway.no##.adn-message
+aperitif.no,byggmesteren.as,cosmosmagazine.com,estatenyheter.no,forskning.no,journalisten.no,khrono.no,sciencenordic.com,sciencenorway.no##.adn-message
 !! .notification-bar
 bettyblocks.com,clinicalges.es,koncon.nl,mmcgbl.com,pressenter.group,steadfast.com.sg,up-team.cz##.notification-bar
 !! .notification-bar-container
@@ -21238,7 +21238,7 @@ artma-zaproszenia.pl,avif.io,lahella.fi##.bottom-2
 !! .bottom-6
 boostroyal.nl,wimotic.fr##.bottom-6
 !! .bottom-5
-cinobo.com,jdslabs.com,simtex.io##.bottom-5
+cinobo.com,jdslabs.com,simtex.io,vloot.io##.bottom-5
 !! .bottom-8
 dr-anns.com,lightyear.one,vecer.com##.bottom-8
 !! .bottom-4
