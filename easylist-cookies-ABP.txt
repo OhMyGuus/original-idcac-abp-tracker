@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: A0jxsCk9ay+GGsuhAZOdAw
+! Checksum: HiELydFqHGi3+Ks8GeSNoQ
 ! Title: Easylist Cookie List
-! Updated: 2023-04-22 03:00 UTC
+! Updated: 2023-04-22 04:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18731,6 +18731,8 @@ _vpcookieconsent/
 ||vinted.*/api/*/banners
 ||windguru.cz/forms/consent.php
 ||yimg.com^*/guce.js
+! hotelscombined.* momondo.*
+/privacy/providers/CookiesDataProvider
 ! Amasty_GdprCookie
 /Amasty_GdprCookie/*$domain=schleich-s.com
 ! Threatmetrix
@@ -24029,6 +24031,7 @@ ria.com##.c-notifier
 alfa-tv.ua##.cook
 tefal.ua##.cookieMessage-root-o1g
 gigatrans.ua##.coook
+my.ua##.dEyatA
 squad.ua##.footerPolicy_style_2j8xK
 my.ua##.gLfiyr
 stolarfund.com##.gNBxMM
