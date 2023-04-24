@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 52XYys44TBbNuxskQ+pJPg
+! Checksum: u4w6V6nXxtec7FG6/oaD4w
 ! Title: Easylist Cookie List
-! Updated: 2023-04-24 22:00 UTC
+! Updated: 2023-04-24 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19064,6 +19064,7 @@ zylom.com###headerbar_privacy
 fitzpatrickreferrals.co.uk###hellobar
 heroesprofile.com###heroesprofile-alert
 goodsstall.co.uk###hideme
+odyssey.starbucks.com###hw-cookie-alert
 exchange.uk.com###ibox
 flatme.it###ic
 ericdepaoli.com###icegram_messages_container
@@ -19699,6 +19700,7 @@ polleverywhere.com##.component-notification
 gold.razer.com##.component-sticky-dialog
 conductor.com##.conductor-cs-content
 agenda.brussels,visit.brussels##.confirm
+sees.com##.consent-ctnr
 fancentro.com##.consent-message
 justwatch.com##.consent-notification
 2pdfconverter.com,changefaces.com,chartle.com,diagrameditor.com,elektro-plus.com,fakechatapp.com,files2zip.com,glitterphoto.net,htmlgames.com,mapimage.com,mindmapeditor.com,phideo.com,photocollage.com,photoeditor.com,photoenlarger.com,photofilters.com,photoresizer.com,postermaker.com,printscreenshot.com,qrapp.com,stripbackground.com,toonytool.com,wordclouds.com,youtubetrimmer.com##.consent-overlay
@@ -22277,6 +22279,7 @@ peugeot-plzen.cz###RessCookieBox
 mtbiker.cz###biscuitModal
 cd.cz###c22overlay
 mevatec.cz,vastap.cz###c_law
+slepicar.cz###cbar
 nabrigadu.info###cc--main2
 lezec-shop.cz###ccmng
 czc.cz###ccp-popup
@@ -23722,6 +23725,7 @@ elpicazo.org###configuracion_cookies
 hotelhonucai.com###container-screen
 ilebara.es,maslife.es,piensoluegoactuo.com###container_opacity
 compra.fredolsen.es###cookie-policy-page
+web.centro-zaragoza.com###cookie-wrapper-objeto
 griffon.es###cookiebar
 betania-patmos.org###cookies_configuration
 leyprodatos.es###cs_informationBar
