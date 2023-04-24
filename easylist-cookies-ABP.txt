@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: qf7Pn5wuCL/B3Z1KpuLA3w
+! Checksum: ifaGgeLacy3l9koPEL9KMA
 ! Title: Easylist Cookie List
-! Updated: 2023-04-23 13:00 UTC
+! Updated: 2023-04-23 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19534,6 +19534,7 @@ aboutcookies.org,pinsentmasons.com##.banner-overlay
 treasure.chess.com##.banner-wrapper
 twunroll.com,worthpoint.com##.bannerContainer
 wetransfer.com##.banner__container
+allquiet.app##.banner__root
 forums.lenovo.com##.banner_alert
 petalmail.com##.banner_box
 journiapp.com##.base-modal
