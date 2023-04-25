@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: x/qxarmDSxn9ZDHF35bdkA
+! Checksum: ge1j+IkoGyih9GnvSJEK+w
 ! Title: Easylist Cookie List
-! Updated: 2023-04-25 02:00 UTC
+! Updated: 2023-04-25 21:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -6083,6 +6083,7 @@ _vpcookieconsent/
 ###dlgCookies
 ###dlg_cookie_frame
 ###dlicookieusagewarning
+###dm-cookie-popup-container
 ###dm_cookiela_bar
 ###dm_show_cookies
 ###dmpcookienotice
@@ -23394,6 +23395,7 @@ bauerexpress.com.br##.jss57
 magazineluiza.com.br##.kUgSEx
 agroolhar.com.br,classicline.com.br,cobasi.com.br,freitasbastos.com.br,institutophi.org.br,licitanet.com.br,miess.com.br,mprs.mp.br,olharconceito.com.br,olhardireto.com.br,olharjuridico.com.br,saber.com.br,unesc.br##.lgpd
 girolando.com.br##.lgpd-aceite
+sexlog.com##.lgpd-tooltip
 revigres.pt##.llSNvP
 paposertanejo.com##.modal-overlay
 vetnil.com.br##.modalCookies
@@ -23421,6 +23423,7 @@ cafelor.com.br##.x-cafeLor__lgpd
 rosenberger.com##.z7cmbnr
 shopee.com.br##.zsav9a
 toyota.com.br##[class^="styles_molecule__cookies-"]
+privacy.com.br##alert
 ampli.com.br##cookie-police-bar
 lojasrenner.com.br##div[class^="ReactFooterCivilMark_notification_"]
 paodeacucar.com##div[class^="alert-cookiestyles"]
@@ -24685,7 +24688,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||choices.consentframework.com^$domain=frandroid.com|numerama.com
 @@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|kit.co|msi.com|pilates.com|romania-insider.com|videogameschronicle.com
 @@||client.axept.io^$domain=welcometothejungle.com
-@@||cloudflare.com^*/cookieconsent.min.js$domain=ehftv.com|pixelexperience.org|pixieset.com|rijbewijskeuringennederland.nl|sammobile.com|xnview.com
+@@||cloudflare.com^*/cookieconsent.min.js$domain=cards.thm.de|ehftv.com|pixelexperience.org|pixieset.com|rijbewijskeuringennederland.nl|sammobile.com|xnview.com
 @@||cloudfront.net^*/lib.f-cookie-banner.$script,domain=just-eat.co.uk|just-eat.es|just-eat.ie|justeat.it
 @@||cmp-consent-tool.privacymanager.io^$subdocument,domain=dailybuzz.nl|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kleinezeitung.at|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl|weerplaza.nl
 @@||computerbase.de^*/consent/$script,xmlhttprequest
