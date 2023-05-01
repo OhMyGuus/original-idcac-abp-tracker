@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: WTLi0y/raoF85Ir43R6aNw
+! Checksum: zVqJoiIb1tZ/AEzyUGfSPA
 ! Title: Easylist Cookie List
-! Updated: 2023-05-01 15:20 UTC
+! Updated: 2023-05-01 17:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -20840,6 +20840,7 @@ gcore.com##gcore-cookies-settings
 my.games##header > .gdpr
 ingwb.com##ingwb-cookiebar
 international.pagseguro.com##le-cookies-consent
+duckduckgo.com##li[data-layout="ad"]
 material.io##mio-cookie-notice
 beatstars.com##mp-snackbar-info-messages
 moovitapp.com##mv-cookie-banner
