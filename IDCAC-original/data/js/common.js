@@ -25,7 +25,8 @@
 		'.message-container': [
 			'button.sp_choice_type_12:not(.cmp-no-pur-privacy-btn)',
 			'.sp_choice_type_SAVE_AND_EXIT',
-			'div:not(.header) > .sp_choice_type_11:only-of-type:not(:only-child)'
+			'div:not(.header) > .sp_choice_type_11:only-of-type:not(:only-child)',
+			'#notice > div:nth-child(3) .message-column:first-child:not(:only-child) .sp_choice_type_11'
 		],
 		
 		'.mfp-wrap.mfp-ready': [
@@ -56,6 +57,7 @@
 		
 		'#__tealiumGDPRecModal': [
 			'#privacy_pref_optin',
+			'#consent_prompt_preferences',
 			'#consent_prompt_submit',
 			'.container-cookie-modal-footer-refuse'
 		],
@@ -64,7 +66,8 @@
 			'#privacy_prompt[style*="block"] #preferences_prompt_decline',
 			'.consent-manager[style*="block"] #cm-acceptNone',
 			'.consent-manager[style*="block"] #consent_wall_optout',
-			'.tiq_cm[style*="block"] #deny_full_submit_1'
+			'.tiq_cm[style*="block"] #deny_full_submit_1',
+			'#preferences_prompt_submit'
 		],
 		
 		'.fancybox-lock': [
@@ -121,7 +124,7 @@
 			'#btn-configure-cookies',
 			'#user_cookies_form_save + #refuse-all-cookies',
 			
-			'#ccSettingButton + button[id*="AcceptOnlyFunctional"]',
+			'#ccSettingButton + button:not([id*="AcceptAll"]',
 			'.cookie_actions .btn[onclick*="saveBasic"]',
 			'#btnCookieSettingsSaveSettings',
 			'#cookie-setselected',
@@ -144,7 +147,6 @@
 			'[data-cookieman-save]:not([data-cookieman-accept-all]):not([style*="none"])',
 			'.cookie-manager-save',
 			'.adapt-cookies .js-save-preferences',
-			'#btnDeny.js-gdpr-submit',
 			'#manageCookies ~ #confirmCookies',
 			'a[href*="acceptOnlyEssentinal"]',
 			'.modal-cookie #submitSelected',
@@ -181,6 +183,8 @@
 			'#cookieSavingButton',
 			'#gdpr-save-settings.btn',
 			'.js-consent-btn-manage + .js-consent-btn-decline',
+			'#cookiebar-decline',
+			'button[data-omcookie-panel-save="min"]',
 			
 			'#bccs-buttonDoNotAgree',
 			'#bccs-buttonAgreeRequired:first-child'
@@ -212,7 +216,6 @@
 		#TOS-POPUP .rhododendron-popup__button--agree,\
 		#cookie-wall #accept-cookies,\
 		#popup-wrapper .button[href*="/cookies.consent.php"],\
-		.body-wrapper[style*="faktor-fingerprint"] #acceptAll,\
 		.reveal.cookies[style*="block"] button[click*="aceptaCookies"],\
 		.mnd-cookie-modal[style*="block"] .btn.is--primary,\
 		.cookieHandler.cookieHandler--modalOpen #acceptAllCookies,\
@@ -276,6 +279,7 @@
 		.bemCookieOverlay--activePopup .bemCookieOverlay__btn--save,\
 		#root main ~ div [data-gi-selector="reject-all-cookies"] ~ div a,\
 		.cookies-management .cookies-deny,\
+		.offcanvas.is-open .js-offcanvas-cookie-submit,\
 		#cookieNoticeModal.vrm-reveal[style*="block"] .vrm-reveal__icon--close',
 		
 		'#cookie-modal.in .btn[onclick*="setCookie"],\
@@ -540,10 +544,10 @@
 	var start = setInterval(function() {
 		var html = document.querySelector('html');
 		
-		if (!html || /idc0_346/.test(html.className))
+		if (!html || /idc0_347/.test(html.className))
 			return;
 		
-		html.className += ' idc0_346';
+		html.className += ' idc0_347';
 		searchLoop(0);
 		clearInterval(start);
 	}, 500);

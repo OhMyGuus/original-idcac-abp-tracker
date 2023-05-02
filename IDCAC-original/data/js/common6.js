@@ -142,14 +142,12 @@ function getE(hostname)
 		case 'hartfordbusiness.com': return ['Drupal.visitor.WEBSITECOOKIEALLOWED=YES'];
 		case 'vostron.com': return ['vostronCookieAcceptance=true'];
 		case 'flens.de': return ['flens-cookie=1'];
-		case 'my.dhlparcel.nl': return ['cookie-agreed=2'];
 		case 'waitrose.com': return ['wtr_cookie_consent=1'];
 		case 'wearebo.co.uk': return ['hasUserAgreed=true'];
 		case 'lucky7bonus.com': return ['messageClosed=1'];
 		case 'otomoto.pl': return ['cookieBarSeen=true'];
 		case 'heineken.hr': return ['gaOptOut=false'];
 		case 'cimri.com': return ['CimriCookiePolicy=1'];
-		case 'globalplayer.com': return ['consentUUID=382584da-af8a-469e-aedf-11ac420ec96d'];
 		case 'dehn.de': return ['cookie-agreed=1', 'cookie-processed-02=ck_1:true%2Cck_2:true'];
 		case 'crtm.es': return ['crtmcookiesCAnaliticas=1', 'crtmcookiesProtDatos=1'];
 		case 'computertotaal.nl': return ['SITE_COOKIE_CONSENT=True'];
@@ -199,7 +197,6 @@ function getE(hostname)
 		case 'steigmiller.bio': return ['fvw_privacy=enabled'];
 		case 'kinoheld.de': return ['KHCONSENT=accept'];
 		case 'calm.com': return ['has-agreed-to-cookies=true'];
-		case 'resursbank.se': return ['cookie_consent=necessary%3A1%2Cstatistics%3A0%2Cmarketing%3A0'];
 		case 'airmates.eu': return ['privacy-dialog-shown=true'];
 		case 'mentimeter.com': return ['has_approved_cookie_policy=1'];
 		case 'baukobox.de': return ['bb_dsgvo=true'];
@@ -211,7 +208,6 @@ function getE(hostname)
 		case 'peticie.com': return ['num_times_cookie_consent_banner_shown=1'];
 		case 'tgz-ol.de': return ['cookies_consent=1'];
 		case 'dunhamssports.com': return ['dw_cookies_accepted=0'];
-		case 'evangelisch.de': return ['bigfoot_cookie-consent=true'];
 		case 'ubi2.wit.edu.pl': return ['GPRD=128'];
 		case 'outandaboutlive.co.uk': return ['cookie-control=true'];
 		case 'tesa.com': return ['cookies_informed=true'];

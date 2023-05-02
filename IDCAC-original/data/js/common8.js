@@ -10,12 +10,12 @@ function _id(id) {
 var main_interval = setInterval(function() {
 	var html = _sl('html');
 	
-	if (!html || /idc8_346/.test(html.className))
+	if (!html || /idc8_347/.test(html.className))
 		return;
 	
 	clearInterval(main_interval);
 	
-	html.className += ' idc8_346';
+	html.className += ' idc8_347';
 	
 	var counter = 0, host_parts = document.location.hostname.split('.'), interval = setInterval(function() {
 		
