@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: Yc7jmDHm//jOlAG4EbVGmQ
+! Checksum: RLYa1mOOghvJWohjpVTgoA
 ! Title: Easylist Cookie List
-! Updated: 2023-05-05 02:40 UTC
+! Updated: 2023-05-05 14:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19852,6 +19852,7 @@ formidable.com##.ddYHQV
 tensorflow.org##.devsite-footer-utility
 cloud.google.com##.devsite-snackbar-inner
 dhl.com##.dhl-cgk
+powys.gov.uk##.dialog--cookie-consent-prompt
 secure.imvu.com##.dialog-manager
 blocksite.co,poperblocker.com##.dialog-widget-content
 adesfoods.co.uk##.dialogBody
