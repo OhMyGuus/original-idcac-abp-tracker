@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: naSpw2TX0UMbgMF6qvDKpw
+! Checksum: ETRr9Darh9Reos4CmTf2LA
 ! Title: Easylist Cookie List
-! Updated: 2023-05-07 04:40 UTC
+! Updated: 2023-05-07 11:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18787,6 +18787,7 @@ _vpcookieconsent/
 ||rba-screen.healthsafe-id.com^
 ||rsx.afterpay.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
+||svc2.sc.com^
 ||tmetrix.my.chick-fil-a.com^
 ||tmx.bestbuy.com^
 ||tmx.td.com^
@@ -20138,7 +20139,6 @@ whitebit.com##.k4w6
 uizard.io##.kCsINM
 dotwatcher.cc##.kFFkJV
 hootsuite.com##.kUxIsB
-depop.com##.kXlWIL
 play.acast.com##.kaNSQD
 sikkasoft.com##.kb-container
 theculturetrip.com##.kcTwAg
@@ -20149,6 +20149,7 @@ loxam.com##.khZIi
 qservicetruck.eu##.kinLVY
 pixiv.net##.kjvIqh
 honeygain.com##.kksiKu
+depop.com##.klIvEu
 avontyres.com##.koekjesbalk
 smallpdf.com##.krHGwU
 archdaily.com##.kth-toast
