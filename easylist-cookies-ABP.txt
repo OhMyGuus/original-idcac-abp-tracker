@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TVD9tWvCmHLYQxg/tm3rIA
+! Checksum: 90T8dtXi3McSJPO7nnRoLg
 ! Title: Easylist Cookie List
-! Updated: 2023-05-08 03:00 UTC
+! Updated: 2023-05-08 14:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19237,7 +19237,7 @@ studiocanal.com###privacy-manager-popin
 xceptance.com###privacy-message
 dailyjournal.com,islamicfinder.org###privacy-modal
 govt.nz###privacy-notification
-nofrills.ca###privacy-policy
+nofrills.ca,realcanadiansuperstore.ca###privacy-policy
 foundryvtt.com###privacy-policy-prompt
 fa-mag.com###privacy-policy-sticky
 telegraph.co.uk###privacy-settings-prompt
