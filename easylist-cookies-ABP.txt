@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: rk1lXdtY+BO7TG7WG7Op1Q
+! Checksum: toLFNALa53Kznk2ZzDNx4A
 ! Title: Easylist Cookie List
-! Updated: 2023-05-07 13:20 UTC
+! Updated: 2023-05-08 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -23398,6 +23398,7 @@ maistre.com.br##.aceite
 instituto-camoes.pt##.activebar-container
 lisbonaha.pt##.adp-popup-wrap
 hugocursos.com.br,jogatina.com##.alerta
+curitiba.pr.gov.br##.alertaCookies
 try.com.br##.bZEgfH
 unopar.com.br##.banner-fixed-box
 jornaldeitapetininga.com.br,oanhanguera.com.br##.banner_rodape_informando_cookies
