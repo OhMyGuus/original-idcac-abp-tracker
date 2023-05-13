@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: m+EU8GBuCuO65N0zdV9sEA
+! Checksum: xfHjehZbf0eZdwD/xSx6fw
 ! Title: Easylist Cookie List
-! Updated: 2023-05-13 04:00 UTC
+! Updated: 2023-05-13 07:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18724,6 +18724,7 @@ _vpcookieconsent/
 ||medicalnewstoday.com/_next/chunks/modal-0cb79-legacy.js
 ||mms.cmpsky.com^
 ||mymuesli.com/assets/js/modules/Default/Static/Consent.js
+||myprivacy-static.dpgmedia.net/consent.js
 ||next-immo.com/js/cookies.1.min.js
 ||novaljaturist.com/datacollectionpolicy/
 ||ogs.google.com/widget/callout?$subdocument,domain=play.google.com
@@ -22668,6 +22669,7 @@ jenkki.fi##.container-agree
 hk.fi##.cookie-notice-lightbox
 gomibo.fi##.cqsorr
 ladulle.fi##.cs-overlay
+valostore.fi##.css-13jewua
 matkahuolto.fi##.css-16f2iy6
 matkahuolto.fi##.css-jlvvqa
 ifolor.fi##.dialogBanner--align-bottom
@@ -22677,7 +22679,6 @@ esri.fi##.gnav_notification-popup
 fyndiq.fi##.iNgGxy
 kicks.fi##.ir.iq.h
 pihlajalinna.fi##.jfCHNz
-valostore.fi##.jss163
 tiendeo.fi##.kcLQzP
 kiitoskauppa.fi##.kiitos-cookies
 epressi.com##.lpcn
