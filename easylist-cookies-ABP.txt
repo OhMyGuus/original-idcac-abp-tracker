@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xfHjehZbf0eZdwD/xSx6fw
+! Checksum: w0WzBGW/F6q7UWQeEHXGwg
 ! Title: Easylist Cookie List
-! Updated: 2023-05-13 07:00 UTC
+! Updated: 2023-05-14 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19315,6 +19315,7 @@ whatismymovie.com###termsandconds
 colorit38.com###test_alert
 bitzarium.com###textBox
 fixedbyvonnie.com###tfade
+wetshaving.store###tile-gdpr-banner
 fixedbyvonnie.com###tlight
 gotokyo.org###tmp_local_bar
 guess.eu,visiontechusa.com###toast
@@ -20833,7 +20834,7 @@ similarsites.com##div[class^="PrivacyNotification_"]
 podimo.com##div[class^="SmallCookie"]
 senecalearning.com##div[class^="Toast-module--wrapper-"]
 eightyupgrades.com,luxexpress.eu##div[class^="cookie-banner"]
-7news.com.au,atlasvpn.com,sortter.com##div[class^="cookie-consent"]
+7news.com.au,atlasvpn.com,sortter.com,stylewe.com##div[class^="cookie-consent"]
 bbtv.com##div[class^="index-module--cookiebanner-"]
 skissan.com##div[class^="index-module--overlay"]
 weatherbug.net##div[class^="notificationFooter_"]
@@ -24053,6 +24054,7 @@ glo.or.th##.cookie-wapper
 asiaplus.co.th##.cookies--wrapper
 set.or.th##.cookies-pdpa
 techsauce.co##.cwc-cookie-banner-ui-sdk
+true.th##.enter-done
 kapook.com##.footer-policy
 forfur.com##.footerpolicy
 becteroradio.com,teroradio.com##.policy
