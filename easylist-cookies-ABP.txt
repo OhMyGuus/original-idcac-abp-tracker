@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: e/Q33DBkM/Ap4xMXueQZDQ
+! Checksum: ORTggwaaoTPv4OIfdYQifQ
 ! Title: Easylist Cookie List
-! Updated: 2023-05-14 13:40 UTC
+! Updated: 2023-05-14 14:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23403,7 +23403,7 @@ assertivasolucoes.com.br###ck-container
 cliper.pt###cook
 klminfo.com.br###cookiesmodal
 millenniumbcp.pt###ctl00_PoliticaCookies_divCookiesMsg
-mangazim.com,superhentai.online###disclaimer
+doramogo.com,mangazim.com,superhentai.online###disclaimer
 bairroarte.com###dvcookie
 portal.fgv.br###fgv-lgpd
 icarros.com.br###isView
