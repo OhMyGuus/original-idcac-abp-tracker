@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ORTggwaaoTPv4OIfdYQifQ
+! Checksum: Zg1mH086ds2CN1Ipi7T3Ng
 ! Title: Easylist Cookie List
-! Updated: 2023-05-14 14:40 UTC
+! Updated: 2023-05-15 01:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23085,6 +23085,7 @@ rct.lv##.mpp-container-position-bottom-bar
 reaton.lv##.policy
 aio.lv##.popup-message
 via-s.lv##.priv
+maminuklubs.lv##.set_cookie
 !
 ! ---------- Lithuanian  ---------
 !
@@ -23703,6 +23704,7 @@ aviasales.by,aviasales.kg,aviasales.kz,aviasales.ru,aviasales.ua,aviasales.uz##.
 tacsafon.ru##.sample-popup
 sbis.ru##.sbisru-CookieAgreement
 zvuk.com##.sc-18olso3-0
+libmogilev.by##.sc-widget
 netology.ru##.shared-components-CookiesAgreement--root--2INjM
 spb-guide.ru##.snowdiv-modal
 datasystem.ru##.specialAlert
