@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: byVOTdOEYcvEXfy5FcqU4A
+! Checksum: mO4IJSqqVgSL77+okPqXRg
 ! Title: Easylist Cookie List
-! Updated: 2023-05-16 00:00 UTC
+! Updated: 2023-05-16 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -9243,6 +9243,7 @@ _vpcookieconsent/
 ###warp_cookie_warning
 ###warp_cookie_warning_mobile
 ###warstwa_cookie
+###wbCookiePolicy
 ###wbo-cookie-layer-wrapper
 ###wc-gdpr-widget
 ###wck-cookie-popup-infobox
@@ -20952,7 +20953,7 @@ netzreform.de,opensocietyfoundations.org,otter.finance,stanceldavid.sk###cc_div
 !! .cc_div
 blocktechnology.eu,brgroup.cz,candylipz.sk,vitkovicecylinders.cz##.cc_div
 !! .u-bottomFixer
-androidforums.com,broadbandforum.co,builtbybit.com,forum.proxmox.com,head-fi.org,hobby-machinist.com,hypixel.net,styleforum.net,websleuths.com,yttalk.com##.u-bottomFixer
+androidforums.com,broadbandforum.co,builtbybit.com,digital-eliteboard.com,forum.proxmox.com,head-fi.org,hobby-machinist.com,hypixel.net,styleforum.net,websleuths.com,yttalk.com##.u-bottomFixer
 !! .js-bottomFixTarget
 namepros.com##.js-bottomFixTarget
 !! CookieBox
@@ -22662,6 +22663,7 @@ virtuaaltuur.tlu.ee##[style^="bottom: 0px; height: 50px;"]
 !
 sportamore.com###__next > div.MuiBox-root:last-of-type
 finna.fi###cc-main
+viddla.fi###cookie-info-wrap
 stat.fi###cookie-modal
 ecoprint.info,karkkikuja.fi,konejatarvike.com###cp_popup
 kiinteistomaailma.fi###km-ccw
