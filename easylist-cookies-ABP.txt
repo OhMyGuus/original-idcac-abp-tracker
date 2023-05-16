@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Cuh714REAqCgl+ZEpkpcww
+! Checksum: byVOTdOEYcvEXfy5FcqU4A
 ! Title: Easylist Cookie List
-! Updated: 2023-05-15 22:40 UTC
+! Updated: 2023-05-16 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18694,7 +18694,7 @@ _vpcookieconsent/
 ||consent.thegreatoutdoorsmag.com^
 ||consent.truste.com^$script,domain=docs.oracle.com
 ||consent.unilad.com^
-||cookiebot.eu/uc.js$domain=casio.com|expert.de
+||cookiebot.eu/uc.js$domain=casio.com|expert.de|ikarus.de
 ||cookies.lmt.lv^
 ||credit-suisse.com/media/assets/aep/ot-cmp/
 ||dam.bbcchannels.com^*/outside-iframe.js
@@ -20067,6 +20067,7 @@ cloud.huawei.com##.hwid-bannerBox-portal
 c.po.co##.hy-musk-wrapper
 bazarchic.com##.iUSvIy
 containerandpackaging.com##.iVRcoV
+esimplus.me##.iZOOOK
 iaawg.com##.iaawg-cookie-consent
 ibm.com##.ibm-show
 vinylgourmet.com##.icon_rollingtext
@@ -20151,6 +20152,7 @@ whitebit.com##.k4w6
 uizard.io##.kCsINM
 dotwatcher.cc##.kFFkJV
 hootsuite.com##.kUxIsB
+sms.esimplus.me##.kVTekw
 play.acast.com##.kaNSQD
 sikkasoft.com##.kb-container
 theculturetrip.com##.kcTwAg
@@ -20245,6 +20247,7 @@ myanimelist.net##.modal-content
 myanimelist.net##.modal-content-overlay
 esto.eu##.modal-coockies
 cybershoke.net##.modal-enter-done
+kk.org##.modal-footer
 oranum.com##.modal-inner
 digimobil.es,youinvest.co.uk##.modal-overlay
 barclays.net##.modal-pecr
