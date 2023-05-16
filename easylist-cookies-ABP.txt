@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mO4IJSqqVgSL77+okPqXRg
+! Checksum: v/tomxDyDUYqVgXp8TzdjA
 ! Title: Easylist Cookie List
-! Updated: 2023-05-16 03:00 UTC
+! Updated: 2023-05-16 09:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19671,6 +19671,7 @@ datsun.co.in,infiniti-abudhabi.com,infiniti-alghassan.com,infiniti-azerbaijan.co
 8bitplay.com##.c__cake
 deskmat.io##.c_innerbox
 kinesiotaping.com##.cachePopup
+recyclingproductnews.com##.card-cookie-notice
 enovap.com##.cb-container
 liveramp.com##.cb_modal
 pornone.com##.cbann
