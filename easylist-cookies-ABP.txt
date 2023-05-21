@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1Z4bhD+rvwrn+DsilgAGCg
+! Checksum: GmtIENqMt+iWAOj1wP/2RQ
 ! Title: Easylist Cookie List
-! Updated: 2023-05-21 02:00 UTC
+! Updated: 2023-05-21 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20042,6 +20042,7 @@ stealthex.io##.gmEwWa
 realmroyale.com##.go3004242404
 goout.net##.goout-cookie-overlay
 cookiebot.com##.granify-widget-container
+inov-8.com##.grey-bg
 msnursepro.org##.gs-cookie-wall
 milwaukeecylinder.com##.guTily
 guggenheim.org##.guggen-consent
@@ -20309,6 +20310,8 @@ brightree.com,cgtrader.com,configserverfirewall.com,cortesdecima.com,dialight.co
 anime2enjoy.com##.notice-board
 naturesgold.ie,rockandsnow.com##.notice-item-success
 dreamworks.com##.notice-modal
+ambassadorcruiseline.com##.notice-modal--cookies
+ambassadorcruiseline.com##.notice-modal__overlay--cookies
 carlsjr.com,hardees.com##.notice-window
 veritasbooksonline.com##.notice-wrap
 windowsbbs.com##.notice_-1
