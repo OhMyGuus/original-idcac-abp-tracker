@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: ZEdJy+FR0T5kfD8/zuc+0A
+! Checksum: 0Mq08p0AJaTu2GiR3wiZUg
 ! Title: Easylist Cookie List
-! Updated: 2023-05-21 10:00 UTC
+! Updated: 2023-05-21 11:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -21871,6 +21871,7 @@ verivox.de##.cmp-container
 hey.car##.coUDFt
 schmidtnorm.at##.col-12 > div > div > .container
 lbbw.de##.component-data-protection-consent
+hawesko.de##.consent-cookie-box
 prettynailshop24.de##.consent-manager
 fotofilter.de##.consent-overlay
 lichtwelle-erkrath.de,neander-energie.de,stadtwerke-erkrath.de##.consent-wrap
