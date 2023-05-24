@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nT1RM52wJDAGA/MAARnqeg
+! Checksum: iWGN5CljaMd7JEWeOjDKkA
 ! Title: Easylist Cookie List
-! Updated: 2023-05-24 01:30 UTC
+! Updated: 2023-05-24 13:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20630,7 +20630,7 @@ gitpod.io##.svelte-17l8iln
 phemex.com##.svelte-1xhi46c.wrap
 chatreplay.stream##.svelte-dx0l3i
 rittal.com##.swal-overlay
-outage.report##.swal2-container
+outage.report,rittal.com##.swal2-container
 lucozadeenergy.com##.swal2-show
 haier.com##.swiper-slide-img-txt
 amplitude-studios.com,games2gether.com##.system-notification-container
