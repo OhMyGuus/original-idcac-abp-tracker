@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AQJjWUAT7MIg5R4/OanQHQ
+! Checksum: tzDH8OT8KjzssdoUvGm19w
 ! Title: Easylist Cookie List
-! Updated: 2023-05-25 04:00 UTC
+! Updated: 2023-05-25 09:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18674,6 +18674,7 @@ _vpcookieconsent/
 ||cmp.cdn.thesun.ie^
 ||cmp.courrierinternational.com^
 ||cmp.finn.no^
+||cmp.focus.de^
 ||cmp.graziadaily.co.uk^
 ||cmp.huffingtonpost.fr^
 ||cmp.infopro-digital.com^
@@ -21352,7 +21353,7 @@ carsharingi.ru,clipartsfree.net,nmsu.edu,tech-america.com,waracle.com##.bottom-0
 !! .bottom-0.relative
 onassis.org##.bottom-0.relative
 !! .bottom-0.fixed
-actievandedag.nl,aksam.com.tr,aplikuj.pl,auf1.info,auf1.tv,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,barecollective.com,bbcrewind.co.uk,bellevue-hamburg.de,bestsellers.hu,betapage.co,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canaries.co.uk,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeclimate.com,cryptomaan.eu,curiositystream.com,deepsource.io,delio.com.pl,digi.no,discords.com,drank.nl,elvah.de,everifin.com,evolutionary-insights.com,fanzo.com,first-law.com,focus-entmt.com,form3.tech,fvd.nl,gauss.hr,glideapps.com,goflink.com,greenmatch.co.uk,hendy.co.uk,hrt.hr,hyte.com,ideo.com,invezz.com,iotworldtoday.com,jobicon.pracuj.pl,kick.com,klachtenkompas.nl,kyero.com,licenseglobal.com,matkakeisari.fi,medimagazin.com.tr,mein-apothekenmanager.de,mitec.net,moises.ai,munichmag.de,nationalprivacytest.org,nativebase.io,nbg.gov.ge,nexcess.net,nitronationworldtour.com,oko.press,opening-hours.today,parqet.com,pazarama.com,prettylittlething.com,propello.bike,puma.com,qwertee.com,ranzijn.nl,raport.pse.pl,regiojet.at,regiojet.com,regiojethotels.at,regiojethotels.com,shakuro.com,skyfi.com,skynet.ru,star.com.tr,stylesandpartners.com,tekninen.fi,thehappytoolbox.com,truthsocial.com,tu.no,tweetyai.com,twitchcon.com,uc.pt,unox.com,wizzair.com##.bottom-0.fixed
+actievandedag.nl,aksam.com.tr,aplikuj.pl,auf1.info,auf1.tv,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,barecollective.com,bbcrewind.co.uk,bellevue-hamburg.de,bestsellers.hu,betapage.co,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canaries.co.uk,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeclimate.com,cryptomaan.eu,curiositystream.com,deepsource.io,delio.com.pl,digi.no,discords.com,drank.nl,elvah.de,everifin.com,evolutionary-insights.com,fanzo.com,first-law.com,focus-entmt.com,form3.tech,fvd.nl,gauss.hr,glideapps.com,goflink.com,greenmatch.co.uk,hendy.co.uk,hrt.hr,hyte.com,ideo.com,invezz.com,iotworldtoday.com,jobicon.pracuj.pl,kick.com,klachtenkompas.nl,kyero.com,licenseglobal.com,matkakeisari.fi,medimagazin.com.tr,mein-apothekenmanager.de,mitec.net,moises.ai,munichmag.de,nationalprivacytest.org,nativebase.io,nbg.gov.ge,nexcess.net,nitronationworldtour.com,oko.press,opening-hours.today,parqet.com,pazarama.com,prettylittlething.com,propello.bike,puma.com,qwertee.com,ranzijn.nl,raport.pse.pl,regiojet.at,regiojet.com,regiojethotels.at,regiojethotels.com,shakuro.com,skyfi.com,skynet.ru,star.com.tr,stylesandpartners.com,tekninen.fi,teltonika-networks.com,thehappytoolbox.com,truthsocial.com,tu.no,tweetyai.com,twitchcon.com,uc.pt,unox.com,wizzair.com##.bottom-0.fixed
 !! .bottom-2
 argyle.com,artma-zaproszenia.pl,avif.io,lahella.fi##.bottom-2
 !! .bottom-6
@@ -23152,6 +23153,7 @@ seher.no##.cbxMtF
 smakmagasinet.no##.coco-wrapper
 dagbladet.no##.css-pp-box
 ruter.no##.fixed-messages
+oslosportslager.no##.footerCurtainCookie
 online.no##.global-overlay-background
 sveip.no##.kake_wrap
 nrk.no##.nrk-masthead__info-banner
@@ -23630,7 +23632,6 @@ calltouch.ru###poppup-food
 sibur.ru###privacyPolicy
 rgs.ru###rgs-main-context-bar
 incom.ru###use_cookies_message-block
-eldorado.ru##.-X
 bcs.ru##.Cbh_c
 sberdisk.ru##.CookieContainer_CookieContainer__1xqA-
 m.1gd.ru##.CookiePopup_overlay__1CXnV
@@ -23725,6 +23726,7 @@ merers.ru,strana.one,strana.today##.modal
 asna.ru##.modalCookies_root__356Q-
 shophair.ru##.modal_popup_sessid_box
 c-o-k.ru##.msg-text
+eldorado.ru##.nK
 bubble.ru##.notifications
 culture.ru##.notify-bar
 lamoda.ru,lamoda.ua##.page > [class*="widget"]
@@ -23772,6 +23774,7 @@ connectgas.ru##[class^="cookieAgreement"]
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
 timeweb.cloud##[data-v-54613cd5]
 sdamgia.ru##[style^="text-align: left; position: fixed;"]
+fastvps.ru##app-cookies-accept
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
 skoda-avto.ru##div[class^="CookieAcceptBanner_"]
 novayagazeta.eu##div[class^="CookiesInformer_"]
