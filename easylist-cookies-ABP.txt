@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9LIJWRAVMQUG5ou/AZJYGQ
+! Checksum: 5xjAz8Y2CCu8YxbQfQvq5Q
 ! Title: Easylist Cookie List
-! Updated: 2023-05-26 05:30 UTC
+! Updated: 2023-05-26 07:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20820,6 +20820,7 @@ jooble.org##[data-test-name="_termsOfServices"]
 youtrack.jetbrains.com##[data-test="alert-container"]
 backmarket.com##[data-test="banner"]
 coinbase.com##[data-testid="banner-container"]
+spectrum.ieee.org##[data-toggle-property="gdpr"]
 oneclickcover.com##[data-v-5f675fc8]
 reddit.com##[reddit-cookie-banner]
 stuffthatworks.health##[role="alertdialog"]
