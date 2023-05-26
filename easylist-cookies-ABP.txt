@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: IYzxa9qQ+ZZ5Rlk7cg0Glg
+! Checksum: zJD+EH6/pGQEc9zZsi4M4w
 ! Title: Easylist Cookie List
-! Updated: 2023-05-25 23:15 UTC
+! Updated: 2023-05-26 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -2903,7 +2903,6 @@ _vpcookieconsent/
 ###consent-manager-backdrop
 ###consent-manager-overlay
 ###consent-mgmt-banner
-###consent-modal
 ###consent-modal-bottombar
 ###consent-modal-first
 ###consent-modal-fw
