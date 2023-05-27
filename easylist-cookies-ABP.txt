@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8gzO2cVaq1yAs0Q4iPSxmg
+! Checksum: Qwp26y9O9woNUhdGkQathw
 ! Title: Easylist Cookie List
-! Updated: 2023-05-27 09:40 UTC
+! Updated: 2023-05-27 11:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22100,7 +22100,7 @@ cuxlandparks.de##sw-cookiemessage
 !
 ! ---------- French ----------
 !
-red-by-sfr.fr,sfr.fr###CkC
+editions-eni.fr,red-by-sfr.fr,sfr.fr###CkC
 chaft.fr###Cookieslaw
 extremes-loisirs.fr###ModalCokkiePrivacyHome
 domaine-du-montmarin.com###\#cookie-banner
@@ -24276,7 +24276,6 @@ ants.vn##.sg-popup-content
 ||consentement.ouest-france.fr^
 ||cookies.leadplace.fr^
 ||docteurclic.com/ajax/ajax_get_disc.aspx
-||editions-eni.fr/dlg/cookies.aspx
 ||gmx.fr/uim/bidding/consent.js
 ||googletagmanager.com/gtm.js$script,domain=stihl.fr
 ||jeu.video^*/partners.js
