@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 0hBk3WypPza8jomw5l8whg
+! Checksum: SGOMMkcYVnatwnyfRaYS8w
 ! Title: Easylist Cookie List
-! Updated: 2023-05-28 12:45 UTC
+! Updated: 2023-05-28 13:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -23730,6 +23730,7 @@ pcradio.ru##.privacy-block
 hypegamenews.ru##.privacy_policy
 toldot.ru##.prwi
 yookassa.ru##.qa-gdpr
+ozon.ru##.r5c
 aviasales.by,aviasales.kg,aviasales.kz,aviasales.ru,aviasales.ua,aviasales.uz##.s__y2gjNiIS0o1RA_5Ebnkw
 tacsafon.ru##.sample-popup
 sbis.ru##.sbisru-CookieAgreement
@@ -23760,7 +23761,6 @@ ctc.ru##[class^="AcceptCookie_"]
 connectgas.ru##[class^="cookieAgreement"]
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
 timeweb.cloud##[data-v-54613cd5]
-ozon.ru##[data-widget="blockVertical"][style="width: auto;"]
 sdamgia.ru##[style^="text-align: left; position: fixed;"]
 fastvps.ru##app-cookies-accept
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
