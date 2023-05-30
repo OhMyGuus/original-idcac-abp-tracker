@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: PlBEcv7g/cm4bcW07XM5vg
+! Checksum: OZjs+ACBrRK/IKuHZI/2xw
 ! Title: Easylist Cookie List
-! Updated: 2023-05-29 12:20 UTC
+! Updated: 2023-05-30 04:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19448,11 +19448,11 @@ lareviewofbooks.org##.Toastify
 fotor.com##.UseCookie_useCookieModle__6d4kz
 clipchamp.com##.Xlovq
 worstbassist.com##._11VS8 > ._2obyY
-podchaser.com##._17x8w7g
 seekube.com##._1AsHk
 afkgaming.com##._1CIbC
 msg.com##._1HoCd
 2gis.com.cy##._1hywetf
+podchaser.com##._1jjw47h3
 timesnownews.com,zoomtventertainment.com##._1poBZ
 hiberworld.com##._1u7AkTjy
 studocu.com##._21b991318444
