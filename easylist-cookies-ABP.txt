@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cQQNDUeqtjj05fBnN+TnLA
+! Checksum: mpWwH59LwYJBK8pGiEOj7Q
 ! Title: Easylist Cookie List
-! Updated: 2023-05-30 20:00 UTC
+! Updated: 2023-05-31 00:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21170,7 +21170,7 @@ digitalhumanrightslab.org,jomdesign.no,linuxlars.net,linuxlars.no,mein-kochbuch.
 !! #cookiesConsentDialog
 cadcrowd.com,eledo.online###cookiesConsentDialog
 !! .inset-0.fixed
-aplikuj.pl,extract.pics,hopetv.org,londonciv.org.uk,stringfurniture.com##.inset-0.fixed
+aplikuj.pl,extract.pics,hopetv.org,londonciv.org.uk,schletter-group.com,stringfurniture.com##.inset-0.fixed
 !! #sp_message_container
 hitc.com,svd.se##div[id^="sp_message_container_"]
 !! .tw-bottom-0
@@ -23545,6 +23545,7 @@ pbs.up.pt##.notificationBar
 ctcp.pt,isisoles.com##.notifino
 band.uol.com.br##.opt-in
 logo.pt,tranquilidade.pt##.overlay-wrapper
+s1live.com##.p-3
 timing.pt##.policy
 impressora.com.br,impressorajato.com.br,madrugaosuplementos.com.br,vivona25.com.br##.policy-terms
 cursosgratisonline.com.br##.politicasPrivacidade
@@ -24073,6 +24074,7 @@ get-digital.se##.privacy-wrapper
 gleerupsportal.se##.sc-cjibBx
 traningspartner.se##.sd-object-if > .sd-object-code
 polder.se##.sd-object-if.sd-object
+huge.se##.section-cookies-notice-outer
 lysa.se##.snackbar-wrapper
 socialstyrelsen.se##.sos-ck-cnsnt-mgnr
 barnebys.se##.style_consent-banner__Fns2J
