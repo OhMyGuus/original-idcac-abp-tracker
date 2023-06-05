@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bSGfZggVFwgTH/nOh/QuHg
+! Checksum: ahj09+/rbqNzJe1uTitY2Q
 ! Title: Easylist Cookie List
-! Updated: 2023-06-05 00:20 UTC
+! Updated: 2023-06-05 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20102,6 +20102,7 @@ containerandpackaging.com##.iVRcoV
 esimplus.me##.iZOOOK
 iaawg.com##.iaawg-cookie-consent
 ibm.com##.ibm-show
+insideclimatenews.org##.icn-sticky-footer
 vinylgourmet.com##.icon_rollingtext
 quora.com##.idETaN
 login.vitalsource.com##.ifsBBD
