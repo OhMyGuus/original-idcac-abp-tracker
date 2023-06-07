@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: +AUqB+b9HjfijDrdk3spXw
+! Checksum: b55dRkSulJw1i1EVjgUOfA
 ! Title: Easylist Cookie List
-! Updated: 2023-06-06 21:00 UTC
+! Updated: 2023-06-07 00:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19734,6 +19734,7 @@ stayinwales.co.uk##.ckinfo-panel
 oipc.bc.ca##.clsPopupContainer
 ppg.com##.cm
 singular.com.cy##.cm-notification-container
+blik.com##.cm-overlay
 cmon.sg##.cmon-privacy-disclaimer
 aia.com.sg##.cmp-experiencefragment
 aia.com##.cmp-notification-action-panel
@@ -20538,7 +20539,6 @@ starlingbank.com##.pykGnVXQId7R0_iS8Y0R
 upscalepics.com##.q-card__section
 abetterrouteplanner.com##.r-145dblm.r-nc4a30
 mycards.hdfcbank.com##.r-1p0dtai
-docs.abaddon.me,docs.betteruptime.com,electronforge.io,guides.cryptowat.ch,support.saleae.com,wiki.valhelsia.net##.r-1xcajam.css-175oi2r
 book.hacktricks.xyz,docs.passbase.com,docs.safe.global##.r-l13dpy
 niceareas.co.uk##.rayAlertBox
 carrot.tech##.rcc
@@ -20868,6 +20868,7 @@ access.login.nhs.uk##core-cookie-banner
 medium.com##div > .branch-journeys-top
 c.realme.com##div > .cookie-privacy
 yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
+docs.abaddon.me,docs.betteruptime.com,docs.fluentbit.io,electronforge.io,guides.cryptowat.ch,support.saleae.com,wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 ppi2pass.com,schweser.com##div[class^="AlertD_container"]
 rally.io##div[class^="Banner_banner_"]
 carvertical.com##div[class^="BisquitsBanner_"]
@@ -21968,6 +21969,7 @@ knubel.de##.floating
 wort.lu##.footer-legal
 unifilm.de##.form-dsgvo
 frankonia.de##.fr-c-message
+melectronics.ch##.gArzUh
 galaxus.at,galaxus.de##.gIRfBN
 pfister.ch##.gTHyyR
 topfit-badgriesbach.de##.gatewayBar
