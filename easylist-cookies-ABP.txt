@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: b55dRkSulJw1i1EVjgUOfA
+! Checksum: S1GmA2+J7otXKzCTYT99gw
 ! Title: Easylist Cookie List
-! Updated: 2023-06-07 00:20 UTC
+! Updated: 2023-06-07 02:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19401,7 +19401,6 @@ andersenlab.com##.CookiesPolicy-module--wrapper--8pHca
 accounts.ucas.com##.CybotEdge
 tietalent.com##.EQRlj
 picoxr.com##.EjUUOLYo3tCrc6j7Mapv
-store.pw.live##.FeatureBar_root___INU8
 talixo.com##.FloatingBoxesContainerBottom
 blonded.co##.FooterNotice
 kyivindependent.com##.Footer_cookies__3_gEh
@@ -20952,6 +20951,8 @@ aperitif.no,byggmesteren.as,cosmosmagazine.com,estatenyheter.no,forskning.no,for
 bettyblocks.com,clinicalges.es,koncon.nl,mmcgbl.com,pressenter.group,steadfast.com.sg,up-team.cz##.notification-bar
 !! #modal
 altersgerechtesbad.de,global.jcb,jcbeurope.eu,lueur.org,picnic.app###modal
+!! .FeatureBar_root___INU8
+freshcart.se,ninelife.no,store.pw.live##.FeatureBar_root___INU8
 !! .cookie123-popup
 123-3d.nl,123accu.nl,123ink.se,123inkt.nl,123led.nl,123schoon.nl,123tinta.es,kabelshop.nl##.cookie123-popup
 !! .notification-bar-container
