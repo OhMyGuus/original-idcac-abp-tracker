@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5pFDOqrVY+MAXpvwMoDg0Q
+! Checksum: wlIgTajuJEzYhv5wPTjnoQ
 ! Title: Easylist Cookie List
-! Updated: 2023-06-07 22:00 UTC
+! Updated: 2023-06-08 02:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19015,6 +19015,7 @@ cookieshark.eu###cookie--Modal
 peterchristian.co.uk###cookie-acceptancce
 shop.naturtrend.com###cookie-appliance-popup-box
 energylivenews.com###cookie-notification-mask
+kimkim.com###cookie-permissions-footer
 asus.com###cookie-policy-info-bg
 gorillas.io,simbrief.com###cookie-settings
 511mt.net###cookieBannerHolder
@@ -19457,6 +19458,7 @@ worstbassist.com##._11VS8 > ._2obyY
 seekube.com##._1AsHk
 afkgaming.com##._1CIbC
 msg.com##._1HoCd
+visitoslo.com##._1bhMQS
 2gis.com.cy##._1hywetf
 podchaser.com##._1jjw47h3
 timesnownews.com,zoomtventertainment.com##._1poBZ
