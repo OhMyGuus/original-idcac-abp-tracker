@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VYlMoPntlTlCZxJ1ou1/Og
+! Checksum: 7v64Me/YTutg9hFCZ27WFQ
 ! Title: Easylist Cookie List
-! Updated: 2023-06-13 01:00 UTC
+! Updated: 2023-06-13 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -7065,6 +7065,7 @@ _vpcookieconsent/
 ###inf_privacy
 ###infcookie
 ###info-about-cookies
+###info-banner-gdpr
 ###info-bar-cookies
 ###info-bar-cookies-info
 ###info-cookie
@@ -18826,6 +18827,7 @@ _vpcookieconsent/
 ||cdn1.skrill.com^
 ||d276.ourmidland.com^
 ||d810.mysanantonio.com^
+||dii.bankaust.com.au^
 ||eventbus.intuit.com^
 ||f775.thehour.com^
 ||h353.ncadvertiser.com^
