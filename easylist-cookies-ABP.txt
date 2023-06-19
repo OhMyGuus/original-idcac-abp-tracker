@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fSGocLFC1KRIXMgZkKK9FQ
+! Checksum: ao7JKPFF8IDRBJbGtBsgrw
 ! Title: Easylist Cookie List
-! Updated: 2023-06-19 00:15 UTC
+! Updated: 2023-06-19 21:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22183,6 +22183,7 @@ dossin.be###gdprcontent
 maidenfrance.fr###headband
 assure.ameli.fr###idPopupWARecueilConsentement
 paninimania.com###id_acco
+arteradio.com###intro-rgpd
 vosfactures.fr###jGrowl
 sondagenational.com###legalCookies
 fromagesuisse.ch###legalnotice
