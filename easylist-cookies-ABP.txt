@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LYis7+MRx4yySBFNTee/2Q
+! Checksum: UhOAss5Wvpb9m/OkoLmZKQ
 ! Title: Easylist Cookie List
-! Updated: 2023-06-21 11:15 UTC
+! Updated: 2023-06-21 13:45 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18688,7 +18688,6 @@ _vpcookieconsent/
 ||cmp.cdn.thesun.ie^
 ||cmp.courrierinternational.com^
 ||cmp.finn.no^
-||cmp.focus.de^
 ||cmp.graziadaily.co.uk^
 ||cmp.huffingtonpost.fr^
 ||cmp.infopro-digital.com^
