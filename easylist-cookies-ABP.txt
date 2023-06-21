@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 8cZq3sWU0/TkdgUNMuX8kA
+! Checksum: HhoQd60PUwLI5+VU2op+fg
 ! Title: Easylist Cookie List
-! Updated: 2023-06-21 01:20 UTC
+! Updated: 2023-06-21 03:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19006,7 +19006,7 @@ nflp.com###compliance-notice
 msn.com###conditionalbanner
 imei24.com###cons
 yopmail.com###cons-pop
-allsaints.com###consent-dialog
+allsaints.com,can-am.brp.com###consent-dialog
 netcraft.com###consent-form
 niwa.co.nz###consent-request
 krunker.io,moomoo.io###consentBlock
@@ -19795,6 +19795,7 @@ writerduet.com##.container.pb-4.pt-4
 onthehub.com##.containerDefaultClass
 iconscout.com##.container_hP6iH
 uxcel.com##.cookie-banner-wrap
+ninerocksgames.com##.cookie-bar_overlay__0y49X
 navigare-yachting.com##.cookie-box-popup
 dreamingreece.com##.cookie-consent-inner
 cameronhouse.co.uk,postimees.ee##.cookie-container
@@ -20768,7 +20769,6 @@ andyguitar.co.uk##.v-dialog__content
 andyguitar.co.uk,rypsv.scot,trustpid.com##.v-overlay
 auctelia.com##.v-snack--bottom
 whitepages.com##.v-snack__content
-rewardlink.io##.v-snack__wrapper
 coupons.cnet.com##.vc
 dailysabah.com##.veriAltBar
 remosoftware.com##.visitornotice
@@ -20974,6 +20974,8 @@ aperitif.no,byggmesteren.as,cosmosmagazine.com,estatenyheter.no,forskning.no,for
 bettyblocks.com,clinicalges.es,koncon.nl,mmcgbl.com,pressenter.group,steadfast.com.sg,up-team.cz##.notification-bar
 !! #modal
 altersgerechtesbad.de,global.jcb,jcbeurope.eu,lueur.org,picnic.app###modal
+!! .v-snack__wrapper
+amiunique.org,armegoszto.hu,kaidee.com,rewardlink.io##.v-snack__wrapper
 !! .FeatureBar_root___INU8
 freshcart.se,ninelife.no,store.pw.live##.FeatureBar_root___INU8
 !! Cookie_
@@ -22903,7 +22905,6 @@ brendon.hu##.position-fixed
 orvosilexikon.hu##.region-bottom
 bestdoor.hu##.rstbox
 telekom.hu##.sze2020-container
-armegoszto.hu##.v-snack__wrapper
 casanetwork.hu##[style^="position: fixed; width: 39em; left: 50%;"]
 varfurdo.hu##div[style*="background-color: rgba(34, 34, 34, 0.8);"]
 rendi.hu##div[style="width:100%; background-color:black; padding: 8px; color:white; opacity:0.8; z-index:2000; position: fixed; bottom:0;"]
@@ -24173,7 +24174,6 @@ becteroradio.com,teroradio.com##.policy
 toyota.co.th##.popup__pdpa
 pantip.com##.pt-snackbar__surface
 bnn.in.th##.the-pdpa-consent-bar
-kaidee.com##.v-snack__wrapper
 punpro.com##div[class^="CookieSession"]
 !
 ! ---------- Turkish ----------
