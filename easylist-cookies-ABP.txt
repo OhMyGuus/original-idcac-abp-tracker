@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: G6YG27P0gT0MoYxSectveQ
+! Checksum: kScp5f+kwDtL/W6pSuDaOQ
 ! Title: Easylist Cookie List
-! Updated: 2023-06-22 00:45 UTC
+! Updated: 2023-06-22 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21406,6 +21406,8 @@ consumer-legal.com,generatedata.com,matchbook.com,profim.eu,profim.fr,profim.pl,
 abc.net.au,amie.so,app.daily.dev,billhop.com,cars.co.za,channel5.com,coinbase.com,deluxemusic.de,desiindian-brighton.co.uk,drbuho.com,foodcorner.dk,hackney.gov.uk,harrys.com,itzipitzipizza.dk,javabusinesscompetition.id,klientboost.com,lendo.se,letsenhance.io,lindahall.org,luminpdf.com,make.com,monzo.com,mrpizzahastings.co.uk,oddschecker.com,onceupon.photo,qured.us,skyvegas.com,socratesdergi.com,start.ru,sweatco.in,theculturetrip.com,trelson.com,tri.global,unum.co.uk,westerracu.com##div[class*="CookieBanner"]
 !! CookieBanner_
 breastcancer.org,gieffektivt.no##div[class^="CookieBanner_"]
+!! CookieBannerstyle_
+gomibo.at,gomibo.be,gomibo.ch,gomibo.co.uk,gomibo.cy,gomibo.cz,gomibo.de,gomibo.dk,gomibo.ee,gomibo.es,gomibo.fi,gomibo.fr,gomibo.gr,gomibo.hr,gomibo.ie,gomibo.it,gomibo.lt,gomibo.lu,gomibo.mt,gomibo.no,gomibo.pl,gomibo.pt,gomibo.ro,gomibo.se,gomibo.si,gomibo.sk##div[class^="CookieBannerstyle_"]
 !! .active.legacy
 batida.de,kuemmerling.de,lutter-und-wegner.de,menger-krug.de##.active.legacy
 !! .amgdprcookie-modal-template
@@ -22768,7 +22770,6 @@ kirjastot.fi##.ch2-dialog-bottom
 valotehdas.fi##.cli-popupbar-overlay
 jenkki.fi##.container-agree
 hk.fi##.cookie-notice-lightbox
-gomibo.fi##.cqsorr
 ladulle.fi##.cs-overlay
 valostore.fi##.css-13jewua
 matkahuolto.fi##.css-16f2iy6
