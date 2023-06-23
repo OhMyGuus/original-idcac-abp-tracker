@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7KD+37sq2d0n5tHhCtRgcw
+! Checksum: kKL4DxZPleV0qfRunWIwiQ
 ! Title: Easylist Cookie List
-! Updated: 2023-06-23 01:00 UTC
+! Updated: 2023-06-23 03:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21278,7 +21278,7 @@ achemosgrupe.lt,avikogastro.cz,brockhoff.nl,cibit.nl,dbkeukens.nl,demakelaars.nl
 !! .modal--cookie
 pkprintprof.ru,themodernhouse.com##.modal--cookie
 !! _modal_outer_
-witbee.com##div[id*="_modal_outer_"]
+marathonphotos.live,witbee.com##div[id*="_modal_outer_"]
 !! #rgpd
 brokerdefense.net,cfmradio.fr,cmm.fr,espace-competition.com,fareneit.fr,fermeturegarage.com,fmauto.fr,freemaths.fr,ic4.fr,restaurantdieppe.fr,sensationlarge.com,ville-eu.fr,voyagesdenis.com###rgpd
 !! #axeptio_overlay
