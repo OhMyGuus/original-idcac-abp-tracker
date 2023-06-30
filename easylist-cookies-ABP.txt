@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 3TAhb9B6Y60dcKbix1rK0Q
+! Checksum: ZW3dbMfXdYPw3cwot65M+Q
 ! Title: Easylist Cookie List
-! Updated: 2023-06-30 11:40 UTC
+! Updated: 2023-06-30 12:45 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19380,6 +19380,7 @@ sabanci.com###warning-bar
 dompe.com###warning-popup
 iflicks.in###welcome
 taiwanplus.com###welcomeMsg
+johnfrederick.co.uk###wp-notification
 f1forgottendrivers.com###wpcg-box
 janrain.com###wptbheadline1
 wpx.net###wpx-cookie-agreement
@@ -22188,6 +22189,7 @@ markem-imaje.fr###cd_wrapper
 bulles-de-bonheur.com,emilie-fayet.com###checkBrowser
 infojobs.net###cmpContainer
 assurland.com###consentManagementPlatform
+esma-artistique.com###cookie-mention
 izmopics.com,smart-metz.fr,smart-mulhouse.fr,smart-nancy.fr###cookieConcernPanel
 anthemis.fr,innovair.fr###cootra-overlay
 anthemis.fr,innovair.fr###cootra-popup
