@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tF0kfh4SkHzrrdgU2j6Jkg
+! Checksum: kNkQtt1k+iaAsWb2q7vbGQ
 ! Title: Easylist Cookie List
-! Updated: 2023-07-01 05:00 UTC
+! Updated: 2023-07-01 08:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19776,6 +19776,7 @@ casioindiashop.com##.compareProMiniView
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 riversidecompany.com,tcgplayer.com##.compliance-banner
 unitedtalent.com##.compliance.banner
+scanofthemonth.com##.component-cookie-notice
 polleverywhere.com##.component-notification
 gold.razer.com##.component-sticky-dialog
 teenage.engineering##.cond > .c12.box
