@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 48AihxdjX+Cez4Zo61AArA
+! Checksum: UOM19gPzAWD+kRQbbFVuPw
 ! Title: Easylist Cookie List
-! Updated: 2023-07-02 02:20 UTC
+! Updated: 2023-07-02 09:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21005,7 +21005,7 @@ onepercentclub.com,samenvoordebuurt.nl##.notification-bar-container
 !! #popupDivC
 loi.it,panzerionline.com,rotta.it,safelserramenti.com###popupDivC
 !! .popup--cookies
-electroheads.com##.popup--cookies
+electroheads.com,wellaware.eu##.popup--cookies
 !! .wrapper
 asatransforma.org.br,byoplanet.com,cablelink.com.ph,fubo.tv,hirezstudios.com,mobileinternetbanking.com,tehnogama.com,viacaogatopreto.com.br##.wrapper
 !! #notice
