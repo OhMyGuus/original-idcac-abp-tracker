@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: rTYXr/niJpyWRaaKZ106UQ
+! Checksum: 48AihxdjX+Cez4Zo61AArA
 ! Title: Easylist Cookie List
-! Updated: 2023-07-01 18:45 UTC
+! Updated: 2023-07-02 02:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -125,6 +125,7 @@
 /amds-cookies.
 /amgdpr/*
 /amp-consent-
+/analytics-trackoutbound.js
 /analytics_cookie.
 /app.dsgvo.
 /approvazione-gdpr/*
@@ -17597,6 +17598,7 @@ _vpcookieconsent/
 ##.z-cookieBar
 ##.z-cookieBar_text
 ##.z-cookieBar_wrapper
+##.z-cookiepolicy
 ##.z-cookies
 ##.z-navicat-header-cookieBar
 ##.z16_cookies_banner-wrapper
@@ -18642,6 +18644,7 @@ _vpcookieconsent/
 ||quantcast.mgr.consensu.org^$third-party
 ||raccogliereilconsenso.com^$third-party
 ||registroconsensi.it^$third-party
+||sammledenkonsens.com^$third-party
 ||scrookie.nl^$third-party
 ||sddan.mgr.consensu.org^$third-party
 ||secureprivacy.ai/secureprivacy-plugin/$third-party
@@ -19839,7 +19842,7 @@ brocoders.com##.cookies-modal-module--wrapper--17WJR
 herbiesheadshop.com##.cookies-politic__section
 proactiveinvestors.co.uk##.cookies-popup
 altingunband.com##.cookies-regulation
-imagetwistcams.com,stripchat.com,xhamsterlive.com##.cookies-reminder-v2
+imagetwistcams.com,strip.chat,stripchat.com,xhamsterlive.com##.cookies-reminder-v2
 ucoin.net##.cookies-warning
 cryptonews.net##.cookies_processing
 obarbershop.com##.cookies_section
@@ -20012,6 +20015,7 @@ editus.lu##.fancybox-wrap
 getdatakick.com##.featherlight
 microsoft.com##.feedback-visible
 tresorit.com##.fg_n3
+figma.com##.figma-b970kx
 lumendatabase.org,thebodyshop.com##.first-time-visitor
 thefurnshop.co.uk##.fixBar
 privacysavvy.com##.fixed
@@ -20898,6 +20902,7 @@ medium.com##div > .branch-journeys-top
 c.realme.com##div > .cookie-privacy
 yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
 docs.abaddon.me,docs.betteruptime.com,docs.fluentbit.io,electronforge.io,guides.cryptowat.ch,support.saleae.com,wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
+audiomack.com##div[class*="ConfirmMessage-module__cookie-"]
 ppi2pass.com,schweser.com##div[class^="AlertD_container"]
 rally.io##div[class^="Banner_banner_"]
 carvertical.com##div[class^="BisquitsBanner_"]
@@ -23576,10 +23581,12 @@ ecclesiae.com.br##.box-aceite-privacidade
 costanorte.com.br##.bswTsr
 treinaweb.com.br##.c_show
 pecattus.com.br##.caixa-alert
+nexojornal.com.br##.callahan-campaign
 petlove.com.br##.card-bottom
 suasvendas.com##.card.button-fixed
 pelando.com.br##.cbZEFj
 mercadoveggie.com.br##.center-bottom-fixed
+moto.com.br##.chakra-portal
 portaleds.com##.cke
 tuasaude.com##.consent-bar-wrapper
 piep.pt##.consentcookie_168_
@@ -23811,6 +23818,7 @@ shophair.ru##.modal_popup_sessid_box
 c-o-k.ru##.msg-text
 eldorado.ru##.nK
 bubble.ru##.notifications
+premier.one##.notifications-container
 culture.ru##.notify-bar
 lamoda.ru,lamoda.ua##.page > [class*="widget"]
 q-shopp.ru##.panel-warning
@@ -24857,6 +24865,7 @@ account.here.com,calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,cal
 retterspitz.de#@#div.cookie-overlay
 bensanitair.nl,correosexpress.com,dreher.it,milesandbarr.co.uk,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,statestreet.com#@#div.cookie-wrapper
 altenberg-dom.de#@#div.cookieHolder
+iledefrance-mobilites.fr#@#div.cookies-banner
 bazaar-online.gr#@#div.cookies-modal-container
 onas.org.pl#@#div.cookies-visible
 coastalliving.com,commercialtrucktrader.com,cookinglight.com,efarma.com,esselunga.it,essence.com,ew.com,fix-price.com,food.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,ochotnicy.waw.pl,people.com,realsimple.com,ria.com,si.com,slovnaftludom.sk,smooth-on.com,southernliving.com,time.com,touchnote.com,travelandleisure.com,zulily.com#@#div.gdpr
