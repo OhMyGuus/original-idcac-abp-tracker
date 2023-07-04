@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: VfFof1YZvEX/VqsAEyineg
+! Checksum: 11xtNlHiapAwoK9cjkt7rg
 ! Title: Easylist Cookie List
-! Updated: 2023-07-04 00:30 UTC
+! Updated: 2023-07-04 04:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -21447,7 +21447,7 @@ cinobo.com,jdslabs.com,simtex.io,vloot.io##.bottom-5
 !! .bottom-8
 dr-anns.com,lightyear.one,vecer.com##.bottom-8
 !! .bottom-4
-remnote.com,thecycle.game,urlcast.io##.bottom-4
+my.openbb.co,remnote.com,thecycle.game,urlcast.io##.bottom-4
 !! .bottom-3
 accu-components.com,accu.co.uk##.bottom-3
 !! .bottom-16
