@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Mi7JBDaJUHDuDm8bOlolUg
+! Checksum: /QuHMLm+HjaSqmVULsHOoQ
 ! Title: Easylist Cookie List
-! Updated: 2023-07-07 05:40 UTC
+! Updated: 2023-07-07 11:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21713,6 +21713,7 @@ diffusioneshop.com,monolithdesign.it#@#.gdprModal__placeholder
 pathe.nl#@#.notification--cookie
 thetrainline.com#@#.onetrust-pc-dark-filter
 yourstorebox.com#@#.react-cookie-law-dialog
+wetransfer.com#@#.welcome--cookies
 britishairways.com#@#[aria-label="Consent Banner"]
 ibercuba.com#@#div#__tealiumGDPRecModal
 d-power-modellbau.com,enesco.co.uk,modellbau-metz.com,raildude.com,steinmetz-baldauf.de,wentronic.com,wentronic.pl#@#div#cookie-modal
@@ -24859,7 +24860,6 @@ edeka.de,schwaebische.de#@#.tc-privacy-overlay
 lighting.philips.de#@#.truste_box_overlay
 lighting.philips.de#@#.truste_overlay:not(body):not(html)
 ahsgr.org,lurker.land#@#.uk-flex-center.uk-grid-collapse
-wetransfer.com#@#.welcome--cookies
 playcode.io#@#.welcome-privacy
 ceramtec-group.com,openfiber.it,rete.toscana.it#@#[aria-label="cookieconsent"]
 devowl.io#@#[href="https://devowl.io/wordpress-real-cookie-banner/"]
