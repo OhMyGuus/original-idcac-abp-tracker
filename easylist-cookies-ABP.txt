@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 9+wKRCioLLsWxMZc4ryH1Q
+! Checksum: RuhC7q7K9tXOKVEn4Ttcew
 ! Title: Easylist Cookie List
-! Updated: 2023-07-08 01:00 UTC
+! Updated: 2023-07-08 02:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -18591,6 +18591,7 @@ _vpcookieconsent/
 ||cookietractor.com^$third-party
 ||cookiewidget.eu^$third-party
 ||crta.and.co.uk^
+||cscript-cdn-use.cassiecloud.com/loader.js
 ||d2eucw4fxv7nil.cloudfront.net^
 ||dmgmediaprivacy.co.uk^$third-party
 ||donkeymob.com^$third-party
@@ -19670,6 +19671,7 @@ benchmark.unigine.com##.bottom-notice
 cointelegraph.com##.bottom-zone
 hostkey.com##.bottomMessages
 fullcontact.com##.bottomRight__WEJOY
+qeeq.com##.bottomTipBarContainer
 matrixetf.finance##.bottom_Policy
 goodwillfinds.com##.bottom__OvpYA
 forbes.com##.bottom__OvpYA.root__XMKIj
