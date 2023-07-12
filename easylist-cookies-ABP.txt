@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yjmP6yQVtiG8WdUaI14Ijw
+! Checksum: B8WDdGtpEuiz8lRVxirUbA
 ! Title: Easylist Cookie List
-! Updated: 2023-07-12 04:00 UTC
+! Updated: 2023-07-12 04:45 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19307,6 +19307,7 @@ ricochet.com###ricochet-cookie-bar
 zomato.com###root > div:first-child:not(:only-child)
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
+nvd.rwth-aachen.de###rwth-cb
 caymancompass.com###s-consent-modal
 smcworld.com###s-modal
 sanitas.com###sanitasCookieAlert
