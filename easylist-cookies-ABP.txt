@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3psWEY9uQtUYZmimpBYmog
+! Checksum: 9LOYD/ApXOrNghCeWFrNmw
 ! Title: Easylist Cookie List
-! Updated: 2023-07-16 13:00 UTC
+! Updated: 2023-07-16 13:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19475,6 +19475,7 @@ parrot.com##.RgpdDrawer_rgpd_drawer__2VCU0
 bethesda.net##.RiotWrapper-visor-alert-RiotWrapper-visor-alert5
 drweb.com##.SHOWIT-msg_showed
 spotlistr.com##.Shell-cookieNotice
+berenjaklondon.com##.Site-cookies
 cnn.com##.TermsOfService__component
 chillys.com##.TheConsent
 mtn.co.za##.Toast
