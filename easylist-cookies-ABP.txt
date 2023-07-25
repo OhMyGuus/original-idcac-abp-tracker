@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ia2FBvfjXD58NthNKyP2Lw
+! Checksum: Oc8D7sj53K2yb9Q39+3aIQ
 ! Title: Easylist Cookie List
-! Updated: 2023-07-24 22:00 UTC
+! Updated: 2023-07-25 00:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18545,6 +18545,7 @@ _vpcookieconsent/
 ||consent.digiapi.com^
 ||consent.dk^$third-party
 ||consent.prointernet.com^
+||consent.trustarc.com/asset/notice.js
 ||consent.trustarc.com/get?name=$subdocument,domain=avantiwestcoast.co.uk|oracle.com
 ||consent.trustarc.com/notice$script
 ||consent.trustarc.com/v2/notice$script
@@ -18597,6 +18598,7 @@ _vpcookieconsent/
 ||falconcookie.de^$third-party
 ||fastcmp.com^$third-party
 ||fc2.com/share/js/gdpr/
+||form-renderer.trustarc.com/browser/client.js
 ||freeprivacypolicy.com^$third-party
 ||gatekeeperconsent.com^$third-party
 ||gdpr-legal-cookie.beeclever.app^$third-party
@@ -18782,7 +18784,6 @@ _vpcookieconsent/
 ||sourcepoint.thetakeout.com^
 ||stromnetz-hamburg.de/matomo/js/
 ||tags.tiqcdn.com^$script,domain=firstdirect.com|santander.pl|swisscom.ch
-||trustarc.com^$domain=fortune.com
 ||vandalism-sounds.com^*/notices.min.js
 ||vg247-p2.vg247.com^
 ||vg247-uk.vg247.com^
