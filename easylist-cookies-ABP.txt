@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: Fh4lN9J0mvsaKnjh2RU9Bw
+! Checksum: hU+p6xiElqvmc6wnrWeGmg
 ! Title: Easylist Cookie List
-! Updated: 2023-07-26 12:45 UTC
+! Updated: 2023-07-26 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -20214,6 +20214,7 @@ soft32.com##.jquery-notify-bar
 aromatico.com##.js--overlay
 bcu.ac.uk##.js-action-bar
 newsnow.co.uk##.js-alerts-container
+gaijin.net##.js-cb-policy
 agenda.brussels##.js-confirm
 curiocity.com##.js-consent-box
 ibinder.com##.js-cookiebot
@@ -21012,6 +21013,11 @@ web.dev##web-snackbar
 ! Jimdo
 jimdosite.com##._12d97
 jimdosite.com##._2mmyb
+! Just Eat
+just-eat.co.uk,just-eat.es,justeat.it##div[data-cookie-consent-overlay]
+just-eat.dk##div[data-qa="granular-privacy-settings"]
+just-eat.ie##div[data-qa="jet-privacy-settings"]
+just-eat.ch,just-eat.fr,lieferando.at,lieferando.de,pyszne.pl,takeaway.com,thuisbezorgd.nl##div[data-qa="privacy-settings"]
 ! wayfair
 wayfair.co.uk,wayfair.de,wayfair.ie##.FooterPopups
 ! roninwear.
