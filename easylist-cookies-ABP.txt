@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: Sv35S8VuwU5gAA0lrjaZXQ
+! Checksum: 8iVu6sj8dntpTbqM1PTfkw
 ! Title: Easylist Cookie List
-! Updated: 2023-07-27 02:45 UTC
+! Updated: 2023-07-27 05:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -16179,6 +16179,7 @@ _vpcookieconsent/
 ##.pg-cookie
 ##.ph-cookie-compliance
 ##.ph-cookie-info
+##.ph-cookie-popup-v2-view2-default
 ##.ph-cookies
 ##.philadelphia-optin-visible
 ##.philoro_cookies--popover
@@ -18753,6 +18754,7 @@ _vpcookieconsent/
 ||lacompagnie.com/Content/dist/templates/common/popupCookies/
 ||live.mrf.io/cmp/$domain=m.washingtontimes.com
 ||mad-daily.com^*/cp-module-
+||marketwatch.com/asset/ace/djcmp.
 ||masaltos.com/js/cookies-
 ||medicalnewstoday.com/_next/chunks/modal-0cb79-legacy.js
 ||mms.cmpsky.com^
@@ -22112,6 +22114,7 @@ airitsystems.de##.limz_cookieConsent
 bonify.de##.lleMAd
 etz.at##.loader
 wirklichweiterkommen.de##.lsa-dialog
+denkwerk.com##.m-cookie-message
 ticketfritz.de##.main-modal-div
 leoprinting.be##.mainstick
 jobstairs.de##.mcd-dialog-backdrop
