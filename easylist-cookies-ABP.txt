@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IQcM1TEhvvXh+gP+Qun+Nw
+! Checksum: 1P5KvxGMTpxWzQf4jaA5Ew
 ! Title: Easylist Cookie List
-! Updated: 2023-07-31 00:15 UTC
+! Updated: 2023-07-31 03:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20630,6 +20630,7 @@ sanitas.com##.sanitas-cookie-alert-container
 northflank.com##.sc-3f37244c-0.jMKrJw
 smiteproleague.com##.sc-EHOje
 saleor.io##.sc-cooIXK
+safetyculture.com##.sc-cookie-pop
 scorpion.co##.sc-cookie-popup
 amplerbikes.com##.sc-edLOhm
 leibniz.com##.sc-hAsxaJ
