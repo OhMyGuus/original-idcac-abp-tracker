@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: cgfD1W4es+mDrW/gSAL66Q
+! Checksum: fCdoBXdsJnGai9BFUiFpmQ
 ! Title: Easylist Cookie List
-! Updated: 2023-07-31 04:40 UTC
+! Updated: 2023-07-31 21:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -7507,7 +7507,6 @@ _vpcookieconsent/
 ###ma-cmp-container
 ###maCookieInfo
 ###mab-cookie-notice-wrap
-###macaron_cookie_box
 ###macchiato_cookies_wrapper
 ###machete_cookie_container
 ###macookie
@@ -12765,7 +12764,6 @@ _vpcookieconsent/
 ##.cookie_warning_container
 ##.cookie_warning_new
 ##.cookie_warning_wrap
-##.cookie_wrap
 ##.cookie_wrap_bottom
 ##.cookie_wrapper
 ##.cookie_wrapper-bottom
@@ -19352,6 +19350,7 @@ gotoparts.com###sticky-bar
 tesco.com###sticky-bar-wrapper
 equilar.com,ffonts.net,whatfontis.com###sticky-popup
 firefoxosdevices.org###storage-notice
+kameleoon.com###tarteaucitronRoot
 tatsubuilder.com###tatsu-header-container
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###taw > div > [data-ved]
 kaec.net,thelawpages.com###terms
