@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: knnEgQQe86lBH0rhSclVeA
+! Checksum: +jGkrEXW4wsi8a6yQzSHIw
 ! Title: Easylist Cookie List
-! Updated: 2023-08-03 01:40 UTC
+! Updated: 2023-08-03 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18631,6 +18631,7 @@ _vpcookieconsent/
 ||microsoft.com/mscc/
 ||mycookies.it^$third-party
 ||network-n.com^$third-party
+||ocdn.eu/blikk_static/blikk/consent_v2/
 ||ogury.mgr.consensu.org^$third-party
 ||oil.axelspringer.com^$third-party
 ||onetag.mgr.consensu.org^$third-party
@@ -19540,6 +19541,7 @@ norm.store##.above-pages-container > .animation-container
 nicequest.com##.ac
 presta-module.com##.acbBackdrop
 greenfields.eu##.accept-alert
+nwslsoccer.com##.accept-cookies-snackbar
 plugins.jetbrains.com##.acceptance-popup
 ibuypower.com##.acceptcookie_contain__JVvcU
 biglink.to##.acquisition-footer-row-wrap
@@ -22853,6 +22855,7 @@ kirjastot.fi##.ch2-dialog-bottom
 valotehdas.fi##.cli-popupbar-overlay
 jenkki.fi##.container-agree
 hk.fi##.cookie-notice-lightbox
+huntteri.fi##.cookie_modal_overlay
 ladulle.fi##.cs-overlay
 valostore.fi##.css-13jewua
 matkahuolto.fi##.css-16f2iy6
@@ -23210,6 +23213,7 @@ juken-mikata.net###cookieAlt
 tokyostarbank.co.jp###floatArea
 jaa.or.jp###js-gdpr
 3ple.jp###layer_board_area
+olfa.co.jp###modal-content
 osaka-seitetu.co.jp###modal-overlay
 officemaili.com###mordal
 tdk.com###onetrust-banner-sdk
@@ -23794,6 +23798,7 @@ m.1gd.ru##.CookiePopup_overlay__1CXnV
 salonsecret.ru##.CookieWarning_root__Hyslm
 wowworks.ru##.CookieWindowstyle__block--1iXfq
 tass.ru##.Cookies_container__d0PFT
+afisha.ru##.GuwnG
 adrenalinecyber.ru,gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv
 etm.ru##.MuiAlert-standardSuccess
 citilink.ru##.PersonalDataConfirm
