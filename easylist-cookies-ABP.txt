@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: UIIfyGhBz3OdHtWOcAu/SQ
+! Checksum: LwAzgb52tTjZmcZIjfO1jg
 ! Title: Easylist Cookie List
-! Updated: 2023-08-05 12:00 UTC
+! Updated: 2023-08-05 22:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -24725,6 +24725,7 @@ fairfitters.de#@##gdpr-blocking-page-overlay
 kalenderwoche.de#@##gdpr-consent
 deleteme.com#@##gdpr-cookie-message
 warframe.com#@##gdprSettings
+savpieces.envienord.fr#@##gdpr_consent
 ing.jobs#@##gdprconsent
 html5.gamedistribution.com#@##gdsdk__splash
 meteored.com.py,tameteo.nl#@##gpdr:not(body):not(html)
@@ -24973,6 +24974,7 @@ inspirock.com,loxam.com#@#div.with-cookie
 what3words.com#@#div[class^="CookieNotice"]
 etsy.com#@#div[data-gdpr-consent-prompt]
 facebook.com,messenger.com#@#div[data-testid="cookie-policy-banner"]
+https://larian.com/
 cookielaw.org#@#section.cookie-banner
 ondacero.es#@#sibbo-cmp-layout
 yoigo.com#@#thor-cookies
