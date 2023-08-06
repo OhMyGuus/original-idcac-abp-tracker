@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: JuQ7fVx8GdYCvRwjucIXdw
+! Checksum: vwvtrjcMyd6zAFee8XIczg
 ! Title: Easylist Cookie List
-! Updated: 2023-08-06 02:30 UTC
+! Updated: 2023-08-06 05:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -19521,6 +19521,7 @@ figshare.com##._3ZxeT
 tattoodo.com##._3c-gjIK
 wifiman.com##._3fcHG
 inovretail.com##._3joWt
+temu.com##._3jx6xu29
 reddit.com##._3q-XSJ2vokDQrvdG6mR__k
 afkgaming.com##._4hwc1
 medizzy.com##._6rnbkp0
