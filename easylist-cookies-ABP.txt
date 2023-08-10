@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: /22Cv4t7VGzHoXYZKxG6bw
+! Checksum: DPmcwKTS6xJB8GLX2suLFQ
 ! Title: Easylist Cookie List
-! Updated: 2023-08-10 10:45 UTC
+! Updated: 2023-08-10 13:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -22024,6 +22024,7 @@ galaxus.at,galaxus.de##.bnCqgP
 boerse-stuttgart.de##.bsg-header-warning
 bulthaup.com##.bulthaup-cookie-notice
 ziegert-immobilien.de##.bvknVl
+hey.car##.bxivGE
 galaxus.de##.bzTyHZ
 ineoskoeln.de##.c-alert
 abraxas.ch##.c-disclaimer--default
@@ -22042,7 +22043,6 @@ immoscout24.ch##.cmOzGN
 ihk-weiterbildung.de##.cmnstr
 ifaa.de##.cmnstr-outer
 verivox.de##.cmp-container
-hey.car##.coUDFt
 schmidtnorm.at##.col-12 > div > div > .container
 lbbw.de##.component-data-protection-consent
 hawesko.de##.consent-cookie-box
@@ -22119,6 +22119,7 @@ elisabethenquelle.de,vita-cola.de##.hc-notice
 forum-ddr-grenze.de##.headeroverlay
 medienportal-sachsen-anhalt.de##.hinweis
 berlin-buehnen.de##.hylo-cookie-banner-general
+hey.car##.iUYzcs
 peoples.ch##.id-cookie-consent
 berliner-sparkasse.de,frankfurter-sparkasse.de,ksk-koeln.de,mbs.de,sparkasse-allgaeu.de,sparkasse-freiburg.de,sparkasse-hannover.de,sparkasse-koelnbonn.de,sparkasse-oberlausitz-niederschlesien.de,sskm.de##.if6_eprivacy
 zuckerjagdwurst.com##.index-module--backdrop--3DX5v
