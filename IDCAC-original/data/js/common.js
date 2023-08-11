@@ -10,7 +10,8 @@
 		],
 		
 		'#usercentrics-root': [
-			'div[data-testid="uc-buttons-container"] > button:first-child'
+			'div[data-testid="uc-buttons-container"] > button:first-child',
+			'div[data-testid="first-line-buttons"] > button:first-child'
 		],
 		
 		'#onetrust-consent-sdk': [
@@ -83,7 +84,8 @@
 		'.fancybox-is-open': [
 			'#cookie-consent .cc-page-2 #cc-set-cookie',
 			'.consent-modal .btn[data-action="save-preferences"]',
-			'#acceptCookiesId[style*="block"] .cookieDecline'
+			'#acceptCookiesId[style*="block"] .cookieDecline',
+			'#cookies-modal-id[style*="block"] .js-decline'
 		],
 		
 		'.pum-open': [
@@ -103,6 +105,9 @@
 		],
 		
 		'.modal-open': [
+			'#dialog[style*="block"] #btn-configure-cookies',
+			'#dialog[style*="block"] #user_cookies_form_save + #refuse-all-cookies',
+			
 			'#PrivacyCategoryAlert[style*="block"] .btn[data-id="ConfirmSettings"]',
 			'#cookie-control-modal[style*="block"] .js-toggle-cookie-control',
 			'.kmt-ckextmodal[style*="block"] .btn[href*="accept"]',
@@ -121,10 +126,7 @@
 			'#btn-cookie-config',
 			'#btn-save-config',
 			
-			'#btn-configure-cookies',
-			'#user_cookies_form_save + #refuse-all-cookies',
-			
-			'#ccSettingButton + button:not([id*="AcceptAll"]',
+			'#ccSettingButton + button:not([id*="AcceptAll"])',
 			'.cookie_actions .btn[onclick*="saveBasic"]',
 			'#btnCookieSettingsSaveSettings',
 			'#cookie-setselected',
@@ -185,6 +187,8 @@
 			'.js-consent-btn-manage + .js-consent-btn-decline',
 			'#cookiebar-decline',
 			'button[data-omcookie-panel-save="min"]',
+			'#cookieModuleRejectAll',
+			'.refuseAllCookies',
 			
 			'#bccs-buttonDoNotAgree',
 			'#bccs-buttonAgreeRequired:first-child'
@@ -469,7 +473,7 @@
 		#cookie_constent_submit,\
 		.cookielayer[style*="block"] .cookielayer__optinbtn .btn--primary,\
 		.modal.in .btn[onclick*="accept"][onclick*="gdpr"],\
-		.Dialog--gdprCookieConsent.Dialog--open .GDPRCookieConsent__button,\
+		.c1yxs-mod-visible button[data-test-cookies-reject],\
 		#consentContainer .raised-btn[href*="granted"],\
 		.reveal-overlay[style*="block"] #phg_cookies_modal .phgcookies_label_okay,\
 		#cookielaw.in #cookie-accept,\
@@ -496,6 +500,7 @@
 			document.querySelectorAll(searchPairsJoinedKeys).forEach(function(box) {
 				searchPairsKeys.forEach(function(selector) {
 					if (box.matches(selector)) {
+						console.log(searchPairs[selector].join(','));
 						(box.shadowRoot || box).querySelectorAll(searchPairs[selector].join(',')).forEach(function(button) {
 							if (button.click && !button.classList.contains('idcac')) {
 								button.classList.add('idcac');
@@ -544,10 +549,10 @@
 	var start = setInterval(function() {
 		var html = document.querySelector('html');
 		
-		if (!html || /idc0_347/.test(html.className))
+		if (!html || /idc0_348/.test(html.className))
 			return;
 		
-		html.className += ' idc0_347';
+		html.className += ' idc0_348';
 		searchLoop(0);
 		clearInterval(start);
 	}, 500);
