@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: UpZ3JKX9kIDZqg6ymPwHqg
+! Checksum: ZLLRRSie0lsi0QWaK393eA
 ! Title: Easylist Cookie List
-! Updated: 2023-08-25 10:00 UTC
+! Updated: 2023-08-25 11:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -24519,6 +24519,7 @@ ants.vn##.sg-popup-content
 ||electriclove.at/*/api/cookie-settings
 ||emondo.de/wp-content/plugins/borlabs-cookie/
 ||fc.vodafone.de^
+||gedk-consent.he-webpack.de/public/app.js
 ||henryschein.at^*/CookieList.aspx
 ||howatherm.de/frontend/media/cm/
 ||kefalonia-griechenland.com/RR_KE_ccm19/
