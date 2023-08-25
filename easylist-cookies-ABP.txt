@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uVIx7rtKGCSmYONHRGtJ0A
+! Checksum: 4MdxNDqXiZTc1sp9IQ6w1w
 ! Title: Easylist Cookie List
-! Updated: 2023-08-25 01:00 UTC
+! Updated: 2023-08-25 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22167,7 +22167,6 @@ assura.ch##.iwWeUP
 chevalierramsay.be##.iziToast-wrapper-topCenter
 knowunity.de##.jYccXc
 eifel-antik.de##.jmg-googlemaps-dsgvo-notification
-ullstein.de##.jpbyLY
 bremer-gewuerzhandel.de##.js--modal
 freiwilligenzentrum-mittelhessen.de##.js-dialog-wrapper
 krautreporter.de##.js-flash-messages-container
@@ -22271,6 +22270,7 @@ sudoku-knacker.de##.v-bottom-sheet
 ichbindeinauto.de##.v-dialog__content
 gartentraeume-sachsen-anhalt.de##.vcModalTarget
 ei2.at##.vm--container
+ullstein.de##.wBffM
 bresc.com,bresculinair.com##.wall
 oeaw.ac.at##.warning-popup
 watson.ch##.watson-cookie-footer
