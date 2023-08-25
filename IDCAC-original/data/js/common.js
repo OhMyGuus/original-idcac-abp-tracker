@@ -500,7 +500,7 @@
 			document.querySelectorAll(searchPairsJoinedKeys).forEach(function(box) {
 				searchPairsKeys.forEach(function(selector) {
 					if (box.matches(selector)) {
-						console.log(searchPairs[selector].join(','));
+						//console.log(searchPairs[selector].join(','));
 						(box.shadowRoot || box).querySelectorAll(searchPairs[selector].join(',')).forEach(function(button) {
 							if (button.click && !button.classList.contains('idcac')) {
 								button.classList.add('idcac');
