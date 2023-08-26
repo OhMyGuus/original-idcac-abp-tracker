@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wPuBCrO9b3nYxllajQ1s8w
+! Checksum: AHOvCWfBMNy3IeT6L//h+g
 ! Title: Easylist Cookie List
-! Updated: 2023-08-26 13:00 UTC
+! Updated: 2023-08-26 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23589,6 +23589,7 @@ cyfrowyparking.pl##.css-1rixstu
 rocketjobs.pl##.css-1v1jtfq
 health-platform.online##.css-8gx3yz
 dajar.pl##.css-jjd2se
+hellohr.pl##.css-py4a32
 health-platform.online##.css-um19vb
 orange.pl##.css-yco2eg
 izodom2000.pl##.dialog-lightbox-widget
