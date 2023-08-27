@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: 44XCR3WJf+U3RdmESOUDuQ
+! Checksum: Jq+WgMMcTuqH0HkFZCWh7w
 ! Title: Easylist Cookie List
-! Updated: 2023-08-26 23:45 UTC
+! Updated: 2023-08-27 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -21156,7 +21156,7 @@ sandberg.es,sandberg.fr,sandberg.world###privalert-container
 !! .message-footer-panel
 mojehobby.pl,super-hobby.at,super-hobby.be,super-hobby.co.uk,super-hobby.com,super-hobby.de,super-hobby.es,super-hobby.it,super-hobby.lv,super-hobby.pt##.message-footer-panel
 !! .fixed-bottom
-atproperties.com,autotrader.com,coingecko.com,dogruhaber.com.tr,equisys.com,excellent-hemd.de,farmers.com,fordblueadvantage.com,g2g.com,gateway.one,getmailbird.com,ilkha.com,innn.it,jsonquerytool.com,lobaevarms.com,modoko.com.tr,muze.gen.tr,parklot.pl,plantnet.org,remove.bg,rotadooeste.com.br,skokka.com,speisebaron.de,susicka.cz,tjsc.jus.br,unscreen.com,wallpaperdirect.com##.fixed-bottom
+atproperties.com,autotrader.com,coingecko.com,dogruhaber.com.tr,equisys.com,excellent-hemd.de,farmers.com,fordblueadvantage.com,g2g.com,gateway.one,getmailbird.com,ilkha.com,innn.it,jsonquerytool.com,lobaevarms.com,modoko.com.tr,muze.gen.tr,parklot.pl,plantnet.org,remove.bg,rotadooeste.com.br,shroomers.app,skokka.com,speisebaron.de,susicka.cz,tjsc.jus.br,unscreen.com,wallpaperdirect.com##.fixed-bottom
 !! .navbar-fixed-bottom
 atomizer.gr,biblio.co.uk,comfortclick.com,discountoffice.nl,nowemiasteczko.pl,ornox.fr,polimarky.pl##.navbar-fixed-bottom
 !! .banner
@@ -23313,6 +23313,7 @@ mainichi.jp###pi-pc-all-popupleft
 honeys-onlineshop.com###policy_modal
 maruchiba.jp###tmp_wrap_info_box
 tokyotokyo.jp##.annotation-area
+knb.ne.jp##.atention_cookie
 nhk.or.jp##.bottom_optout_announce
 ebarafoods.com##.consent_c
 camp-fire.jp##.cookie-policy-agreement-notification
