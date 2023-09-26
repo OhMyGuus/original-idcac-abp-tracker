@@ -149,7 +149,6 @@ function getE(hostname)
 		case 'heineken.hr': return ['gaOptOut=false'];
 		case 'cimri.com': return ['CimriCookiePolicy=1'];
 		case 'dehn.de': return ['cookie-agreed=1', 'cookie-processed-02=ck_1:true%2Cck_2:true'];
-		case 'crtm.es': return ['crtmcookiesCAnaliticas=1', 'crtmcookiesProtDatos=1'];
 		case 'computertotaal.nl': return ['SITE_COOKIE_CONSENT=True'];
 		case 'vodafoneziggo.nl': return ['cookies-accepted=true'];
 		case 'frankfurt.de': return ['cookieAccepted=needed---piwik'];
@@ -163,7 +162,6 @@ function getE(hostname)
 		case 'tarnkappe.info': return ['CM_cookieConsent=1'];
 		case 'celo.org': return ['__responded_to_consent__=true'];
 		case 'eduelo.pl': return ['cookies=1'];
-		case 'plex.tv': return ['plex_tv_cookie_consent=2'];
 		case 'forumactif.org': return ['dntfa_banner=1'];
 		case 'vitra.com': return ['vitra_constent=performance'];
 		case 'usi.it': return ['priv=ok', 'approvecockie1=ok'];
