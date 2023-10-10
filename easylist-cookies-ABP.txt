@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: ruZt8fXg6tcZwlor+0Dm2g
+! Checksum: BfaPF1DAOtBdiUWCXPrqpw
 ! Title: Easylist Cookie List
-! Updated: 2023-10-10 04:00 UTC
+! Updated: 2023-10-10 04:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -20204,6 +20204,7 @@ fanbox.cc##.leiKOL
 soundsmag.com##.lepopup-popup-container
 soundsmag.com##.lepopup-popup-overlay
 bayernlb.com##.lg-backdrop
+filmelier.com##.lgpd
 lawinsider.com##.light-blue-bordered-card
 taminggaming.com##.lightbox
 linkfly.to##.linkfly-ctx-notifications
@@ -23764,6 +23765,7 @@ rovitex.com.br##.rovitex-apps-0-x-cookieContainer
 direcaoconcursos.com.br##.sc-faada46b-0
 brainly.com.br##.section--3Yobl
 guiaimobiliario.pt##.site-wrap-cookie
+pernambucanas.com.br##.styles__CookieContent-sc-16mpd2a-0
 rdstation.com##.syn-container-banner1
 devmedia.com.br##.termos-politica
 tjmt.jus.br##.tjmtCookies__banner
@@ -24385,7 +24387,6 @@ natro.com###readed_contract_row
 tatgida.com###topbar-hide
 oz.av.tr##.Legal
 columbia.com.tr##.MuiCollapse-wrapperInner
-pariyer.com##.Rules
 apigo.com.tr##.ant-notification
 ikonambalaj.com.tr##.bottom-center
 afyonhaberturk.com,agesahayatemeklilik.com.tr,avivasa.com.tr,aydinyeniufuk.com.tr,balikesirartihaber.com,blokhaber.com,bomba15.com,burdurgazetesi.com,denizli20haber.com,dirilispostasi.com,egegundem.com.tr,eldedemokrasi.com,enpolitik.com,euromsg.com,gazetevatan.com,haberimizvar.net,hedefgazetesi.com.tr,isdunyasindakadin.com,ispartamhaber.com,kahtases.com,kocaelisabah.com,mhrs.gov.tr,offtherecord.com.tr,plastikciyiz.biz,sabancivakfi.org,seffafbelediyecilik.com,tarsusgazetesi.com,vansesigazetesi.com,yenigolcuk.com##.cerez
