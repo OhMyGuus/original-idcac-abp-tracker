@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZEmYBnB6eLeRbO4q/T/90g
+! Checksum: bRqk/Di1BH0XGKhukmDUCg
 ! Title: Easylist Cookie List
-! Updated: 2023-10-10 06:00 UTC
+! Updated: 2023-10-11 05:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20375,6 +20375,7 @@ tafelberg.co.za,waltons.co.za##.optin-sdk-root
 origin.com##.origin-sitestripe
 eventix.io##.ot-cookies
 cbsnews.com##.ot-fade-in
+3dviewer.net##.ov_bottom_floating_panel
 webapps.geohive.ie##.overlay
 hero-wars.com##.overlay--cookie_banner_without_icons
 jackjones.com,jjxx.com,mamalicious.com,only.com,onlyandsons.com,veromoda.com##.overlay-backdrop
