@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: I8O/pTB9HdaQA7EZchQX6w
+! Checksum: K7E45jPu/YypFs49PSfArQ
 ! Title: Easylist Cookie List
-! Updated: 2023-10-14 20:40 UTC
+! Updated: 2023-10-14 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23948,6 +23948,7 @@ bbcrussian.com##.e1nbsi9l0
 7d.ru,bisexual.ru,datingspace.ru,friend4travel.ru,idating.ru,love-tomsk.ru,love.am,lovegio.ru,lubovmorkov.net,mamba.ru,missingheart.ru,znakomstvagood.ru,znakomstve.ru##.fTqTJk
 chodb.ru##.foobar-wrapper
 timeweb.cloud##.footer ~ .cc
+fotostrana.ru##.footer-cookie-agreement
 amway.ru##.footer-disclimer
 mironline.ru##.footer-personal-data
 multibonus.ru##.gAHLXB
