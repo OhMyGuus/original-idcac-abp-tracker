@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bnmcUNkDJaL1/4TPeiv2sw
+! Checksum: WdYETlloauPWOmPO4yLOiQ
 ! Title: Easylist Cookie List
-! Updated: 2023-10-15 02:00 UTC
+! Updated: 2023-10-15 03:20 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18560,6 +18560,7 @@
 ||consent.thegreatoutdoorsmag.com^
 ||consent.truste.com^$script,domain=docs.oracle.com|wunderground.com
 ||consent.unilad.com^
+||cookie-consent.festo.com^
 ||cookiebot.eu/uc.js$domain=casio.com|epochtimes.de|expert.de|feinewerkzeuge.de|ikarus.de
 ||cookies.lmt.lv^
 ||credit-suisse.com/media/assets/aep/ot-cmp/
@@ -24173,6 +24174,7 @@ esenviseu.net###qLtempOverlay
 montepiedad.com.mx###static-cover
 acega.es###system-message
 lecourrier.es###times-legal-notice
+uca.es###uca_popup_background
 zylk.net###zylk_avisocookies
 unicajabanco.es##.CC05
 sdelsol.com##.COOKIES
@@ -24691,6 +24693,7 @@ ants.vn##.sg-popup-content
 !
 ! ---------- Norwegian ----------
 !
+||widforss.no/bundles/consent-init
 !
 ! ---------- Polish ----------
 !
