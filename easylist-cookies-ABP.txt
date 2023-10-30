@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bGP6BsH06ML/X0Ds5F6I7Q
+! Checksum: ePloztkOVvMjCr+tpPhXew
 ! Title: Easylist Cookie List
-! Updated: 2023-10-30 01:20 UTC
+! Updated: 2023-10-30 02:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -74,6 +74,7 @@
 /approvazione-gdpr/*
 /asesor-cookies-para-la-ley-en-espana/html/front/principal.js
 /assets/gdpr/*
+/assets/kwkuni.js
 /avada-privacy.js
 /avg-cookie.js
 /avia-snippet-cookieconsent.js
@@ -24196,6 +24197,7 @@ parquesnacionales.cnig.es###capa_galleta
 elpicazo.org###configuracion_cookies
 hotelhonucai.com###container-screen
 ilebara.es,maslife.es,piensoluegoactuo.com###container_opacity
+tienda.edicionesbabylon.es###cook
 packzum.com###cookie-area
 compra.fredolsen.es###cookie-policy-page
 web.centro-zaragoza.com###cookie-wrapper-objeto
