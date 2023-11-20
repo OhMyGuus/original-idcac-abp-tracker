@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aKU7eE2JAWnfUV4C6a9CCw
+! Checksum: N99PbbWp/WSIfOBJZf5Zpg
 ! Title: Easylist Cookie List
-! Updated: 2023-11-20 02:00 UTC
+! Updated: 2023-11-20 07:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -112,7 +112,7 @@
 /ccbundle2.min.js
 /ccm/public/app.js
 /ccm19.js
-/ccm19/*
+/ccm19/public/app.js
 /ccpa/getPrivacyFlag?
 /ccpa/prod/*
 /checkCookieConsent/*
