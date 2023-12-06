@@ -69,6 +69,7 @@ function getE(hostname)
 		case 'forgeofempires.com':
 			return ['CookieNotification=1'];
 		
+		case 'temu.com': return ['privacy_setting=100'];
 		case 'livesexasian.com': return ['is_personalized_content_consent_given=1'];
 		case 'finantia.com': return ['finantia_cookie=active'];
 		case 'finantia.es': return ['strictly_necessary=active'];
@@ -178,7 +179,6 @@ function getE(hostname)
 		case 'thecycleverse.com': return ['AMPLCONS_internal=true'];
 		case 'pagetiger.com': return ['cookie-preferences={%22acceptedAnalyticsCookie%22:true}'];
 		case 'tv-trwam.pl': return ['HAS_COOKIES_FORM_SHOWED=true', 'ARE_REQUIRED_COOKIES_ACCEPTED=true'];
-		case 'phish-test.de': return ['gtag=true'];
 		case 'sea-seek.com': return ['OK_Cook=OK'];
 		case 'dajar.cz': return ['cookieNoticeAccept=true'];
 		case 'jobalert.ie': return ['hasAcceptedCookies=true'];

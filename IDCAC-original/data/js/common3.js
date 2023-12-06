@@ -14,12 +14,6 @@ function getItem(hostname)
 		
 		case 'phoenix.de': return {strict: false, key: 'user_anonymous_profile', value: '{"config":{"tracking":false,"userprofile":false,"youtube":false,"twitter":false,"facebook":false,"iframe":false,"video":{"useSubtitles":false,"useAudioDescription":false}},"votings":[],"msgflash":[],"history":[]}'};
 		
-		case 'klarna.com':
-			return [
-				{strict: true, key: 'safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey', value: 'KEEP_ALWAYS;;false'},
-				{strict: true, key: 'safe-storage/v1/tracking-consent/trackingConsentMarketingKey', value: 'KEEP_ALWAYS;;false'}
-			];
-		
 		case 'volkskrant.nl':
 		case 'dg.nl':
 		case 'demorgen.be':

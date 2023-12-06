@@ -33,7 +33,7 @@
 			'.cookieselection-confirm-selection',
 			'#gdpr_understandBtn',
 			'#cookiebanner .button-row > :not(.consentToAll)',
-			'#cookiebanner .confirmSelection',
+			'div[id*="cookiebanner"] .confirmSelection',
 			'#cookieConsent .btn[data-cookie="accepted"]',
 			'.avia-cookie-close-bar',
 			'.cookies-save-and-close-btn',
@@ -127,14 +127,15 @@
 			'#btn-cookie-config',
 			'#btn-save-config',
 			
-			'#ccSettingButton + button:not([id*="AcceptAll"])',
+			'#ccSettingButton + button:not([id*="AcceptAll"]):not([disabled])',
 			'.cookie_actions .btn[onclick*="saveBasic"]',
 			'#btnCookieSettingsSaveSettings',
 			'#cookie-setselected',
 			'#rodo_form .btn',
 			'#cookieNoticeForm #saveCookies',
 			'.btn[onclick*="saveCookieSettings"]',
-			'.btn.set_essential_cookies',
+			'.btn[class*="essential_cookies"]',
+			'.btn[id*="essential_cookies"]',
 			'.btn.js-offcanvas-cookie-submit',
 			'.btn#cookie-save-selected',
 			'.bcee-cookies-manager-deny-all',
@@ -142,7 +143,7 @@
 			'a[onclick="setConsentSelect()"]',
 			'.container_acceptcookies .btn[name="save"]',
 			'#cookieSelectForm .btn[type="submit"]',
-			'button[data-tracking="ACCEPT_REQUIRED_COOKIES"]',
+			'#component-c-accept-required',
 			'#aceptarCookiesObligatorias',
 			'.btn[href="#cookieman-settings"]',
 			'.btn[data-target="#cookieman-settings"]',
@@ -191,6 +192,7 @@
 			'#cookieModuleRejectAll',
 			'.refuseAllCookies',
 			'#cookieDenyButton',
+			'button[data-save-action="decline-all"]',
 			
 			'#bccs-buttonDoNotAgree',
 			'#bccs-buttonAgreeRequired:first-child'
@@ -235,8 +237,6 @@
 		.cookie-compliance-modal.in .btn-primary,\
 		.cookieconsent.show .btn[data-dm*="accept"],\
 		.cookie-wall-modal.in .btn.ja,\
-		#ccm_notification .ccm_col_content_cookieitem-radiowrap .ccm_col_content_cookieitem-radio:first-child input,\
-		#ccm_notification .ccm_btn,\
 		#modal-consent.in .modal-consent-accept,\
 		.rodo #cookies.in .btn-primary,\
 		.js-cookie-alert.in .js-cookie-alert-accept,\
@@ -287,6 +287,8 @@
 		#root main ~ div [data-gi-selector="reject-all-cookies"] ~ div a,\
 		.cookies-management .cookies-deny,\
 		.offcanvas.is-open .js-offcanvas-cookie-submit,\
+		.force--consent.show--consent #cs_save__btn,\
+		.force--consent.show--consent #s-sv-bn,\
 		#cookieNoticeModal.vrm-reveal[style*="block"] .vrm-reveal__icon--close',
 		
 		'#cookie-modal.in .btn[onclick*="setCookie"],\
@@ -551,10 +553,10 @@
 	var start = setInterval(function() {
 		var html = document.querySelector('html');
 		
-		if (!html || /idc0_349/.test(html.className))
+		if (!html || /idc0_350/.test(html.className))
 			return;
 		
-		html.className += ' idc0_349';
+		html.className += ' idc0_350';
 		searchLoop(0);
 		clearInterval(start);
 	}, 500);

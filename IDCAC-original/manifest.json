@@ -3,11 +3,15 @@
   "name": "__MSG_extensionName__",
   "short_name": "__MSG_extensionDescription__",
   "default_locale": "en",
-  "version": "3.4.9",
+  "version": "3.5.0",
   "browser_specific_settings": {
     "gecko": {
       "id": "jid1-KKzOGWgsW3Ao4Q@jetpack",
       "strict_min_version": "56.0"
+    },
+    "gecko_android": {
+      "id": "jid1-KKzOGWgsW3Ao4Q@jetpack",
+      "strict_min_version": "78.0"
     }
   },
   "icons": {
