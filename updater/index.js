@@ -10,6 +10,10 @@ const abpLists = [
     "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
     "easylist-cookies-ABP.txt",
   ],
+   [
+    "https://secure.fanboy.co.nz/fanboy-cookiemonster_ubo.txt",
+    "easylist-fanboy-cookiemonster_ubo.txt",
+  ],
 ];
 
 async function updateIDCAC() {
