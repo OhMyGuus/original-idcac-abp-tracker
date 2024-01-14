@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zwDN/KHAhd+J8bOYxlykhA
+! Checksum: qp6w3d/Wyx0hQJQsWu/J1w
 ! Title: Easylist Cookie List
-! Updated: 2024-01-13 22:40 UTC
+! Updated: 2024-01-13 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22041,6 +22041,7 @@ bafin.de,materna.de,bamf.de##+js(set-cookie, cookiebanner, 0)
 kapoorwatch.com##+js(set-cookie, ck-cp, accepted)
 paf.se##+js(set-cookie, cookieConsent, 1)
 thw.de,bafa.de,bka.de,bmbf.de##+js(set-cookie, gsbbanner, 0)
+weather.com##+js(set-cookie, __adblocker, false, , reload, 1)
 evivanlanschot.nl##+js(set-cookie, acceptCookies, 0)
 prenatal.nl##+js(set-cookie, marketingCookies, false)
 wagner-tuning.com##+js(set-cookie, CookieLaw_statistik 0)
