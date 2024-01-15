@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2ndjNddywF34habc3C86qQ
+! Checksum: hyg5/p6D2ZCEtNZFEpiKxw
 ! Title: Easylist Cookie List
-! Updated: 2024-01-15 00:15 UTC
+! Updated: 2024-01-15 02:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21975,7 +21975,7 @@ dasfutterhaus.at##+js(rc, is-blurred-cookiebox, html, stay)
 developer.paypal.com##+js(rc, ccpaCookieBanner-acceptedAll, body, stay)
 cpc2r.ch##+js(rc, cookies-show, .cookies-show, stay)
 zen.com##+js(rc, disable-background, body, stay)
-tecsafe.de##+js(rc, cookie--not-set, body, stay)
+tecsafe.de,foxracingshox.de##+js(rc, cookie--not-set, body, stay)
 stromnetz.berlin##+js(rc, _cookiebanner, body, stay)
 websummit.com,thehustle.co##+js(rc, async-hide, html, stay)
 epochtimes.fr##+js(rc, ntd-gdpr-no-scroll, body, stay)
@@ -21985,7 +21985,6 @@ quantamagazine.org,tradersunion.com##+js(rc, cookie-not-accepted, body, stay)
 phsgreenleaf.co.uk,phswashrooms.ie##+js(rc, c-body--locked-always, body, stay)
 mccolls.co.uk##+js(rc, global-cookie, div, stay)
 mccolls.co.uk##+js(rc, disable-scroll, , stay)
-foxracingshox.de##+js(rc, cookie--not-set, , stay)
 crt.hr##+js(rc, bg-gray, div, stay)
 yourstorebox.com##+js(rc, cookie-active, body, stay)
 clickskeks.at##+js(rc,  ccm-blocked, html, stay)
@@ -23653,6 +23652,8 @@ coolmath.com,coolmath4kids.com##.gdpr-overlay-background
 coolmath.com,coolmath4kids.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! vadhander.hogakusten.com
 vadhander.hogakusten.com,vadhander.kramfors.se##+js(set, settings.consent, true)
+! lavanguardia.com
+lavanguardia.com##+js(set, Didomi, noopFunc)
 ! stewes.de
 stewes.de##+js(set, HB.CookieSettings.init, noopFunc)
 ! gadgethacks cookie
