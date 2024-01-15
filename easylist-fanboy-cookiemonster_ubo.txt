@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uvLdqjE/tFX5+s0or8nleA
+! Checksum: ez3dUonni0pX1FSaBApfZQ
 ! Title: Easylist Cookie List
-! Updated: 2024-01-15 10:40 UTC
+! Updated: 2024-01-15 11:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23154,8 +23154,8 @@ rynekzdrowia.pl,horecatrends.pl,portalspozywczy.pl,motofaktor.pl##body,html:styl
 !! reveal
 wertarbeit-steinfurt.de##.reveal
 !! reveal-overlay
-wertarbeit-steinfurt.de,tendersdirect.co.uk,frankfurt.de,crazy-factory.com,habsburger.net,tangleangel.com,theimagingsource.tw##.reveal-overlay
-wertarbeit-steinfurt.de,tendersdirect.co.uk,frankfurt.de,crazy-factory.com,habsburger.net,tangleangel.com,theimagingsource.tw##body,html:style(overflow: auto !important; position: initial !important;)
+southwark.gov.uk,wertarbeit-steinfurt.de,tendersdirect.co.uk,frankfurt.de,crazy-factory.com,habsburger.net,tangleangel.com,theimagingsource.tw##.reveal-overlay
+southwark.gov.uk,wertarbeit-steinfurt.de,tendersdirect.co.uk,frankfurt.de,crazy-factory.com,habsburger.net,tangleangel.com,theimagingsource.tw##body,html:style(overflow: auto !important; position: initial !important;)
 ! vivantis.it
 vivantis.it,vivantis-shop.at,vivantis.hu,vivantis.ro,vivantis.cz,vivantis.sk###backdrop
 vivantis.it,vivantis-shop.at,vivantis.hu,vivantis.ro,vivantis.cz,vivantis.sk##body,html:style(overflow: auto !important; position: initial !important;)
@@ -25930,6 +25930,7 @@ pujckabingo.cz,pujckablesk.cz,pujckaliska.cz##.optinWrapper
 stapety.cz##.site-msg
 30tidennivyzva.cz,akvarista.cz##.sm-wrapper
 spravazeleznic.cz##.szdc--modal
+seznamzpravy.cz##.szn-cmp-dialog-container
 sallyx.org##.topInfo
 fler.cz##.ui_widgets_unit-cookies_pref2022_footer
 transformacni-technologie.cz##.upozorneni
