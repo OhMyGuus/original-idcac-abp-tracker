@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JiFJtIxCxxEaZ6GVWz9I2g
+! Checksum: 72uIxdRiflzeH6jd+gAsnQ
 ! Title: Easylist Cookie List
-! Updated: 2024-01-16 13:15 UTC
+! Updated: 2024-01-16 21:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23433,6 +23433,9 @@ multioferta.es##body,html:style(overflow: auto !important; position: initial !im
 kosmas.cz###qtip-blanket
 kosmas.cz###modalDialog
 kosmas.cz##body,html:style(overflow: auto !important; position: initial !important;)
+! 116117.fi
+116117.fi##.cookie-consent-blanket
+116117.fi##body,html:style(overflow: auto !important; position: initial !important;)
 ! testwise.com
 testwise.com##gl-manage-cookies-modal
 testwise.com##html,body:style(overflow: auto !important; position: initial !important;)
