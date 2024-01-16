@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 72uIxdRiflzeH6jd+gAsnQ
+! Checksum: gGnla/lLuR9vDQkwpLH2Pw
 ! Title: Easylist Cookie List
-! Updated: 2024-01-16 21:15 UTC
+! Updated: 2024-01-16 22:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18867,7 +18867,9 @@ cookieshark.eu###cookie--Modal
 peterchristian.co.uk,peterchristianoutfitters.com###cookie-acceptancce
 shop.naturtrend.com###cookie-appliance-popup-box
 velosure.co.uk###cookie-bar-template
+store.azeron.eu###cookie-consent-background
 github.com###cookie-consent-banner
+store.azeron.eu###cookie-consent-foreground
 laspalmerasapartments.com###cookie-consent-notification
 ecigarettedirect.co.uk###cookie-message-slide-in
 renewcanceltv.com###cookie-notice
@@ -22503,6 +22505,7 @@ novayagazeta.eu##+js(set-cookie, cookies-informer-close, true)
 kinopoisk.ru,yandex.ru##+js(set-cookie, gdpr, 0)
 stmas.bayern.de##+js(set-cookie, required, 1)
 go.netia.pl,polsatboxgo.pl##+js(set-cookie, rodo-reminder-displayed, 1)
+wst.tv##+js(set-cookie, cookie_consent_given, true)
 go.netia.pl,polsatboxgo.pl##+js(set-cookie, rodo-modal-displayed, 1)
 ing.it##+js(set-cookie, ING_GPT, 0)
 ing.it##+js(set-cookie, ING_GPP, 0)
@@ -22710,6 +22713,7 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 wunderground.com##+js(set-local-storage-item, wu.ccpa-toast-viewed, true)
 makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)
+reebok.eu##+js(trusted-set-local-storage-item, SHOW_COOKIE_BANNER, no)
 alfa.com.ec,rts.com.ec,tropicalida.com.ec##+js(set-local-storage-item, CookiesConsent, 1)
 beermerchants.com##+js(set-local-storage-item, amCookieBarFirstShow, 1)
 saamexe.com##+js(set-local-storage-item, acceptedCookies, false)
@@ -23433,6 +23437,10 @@ multioferta.es##body,html:style(overflow: auto !important; position: initial !im
 kosmas.cz###qtip-blanket
 kosmas.cz###modalDialog
 kosmas.cz##body,html:style(overflow: auto !important; position: initial !important;)
+! craft-conf.com
+craft-conf.com###headlessui-dialog-overlay-19
+craft-conf.com###headlessui-dialog-17
+craft-conf.com##body,html:style(height: auto !important; overflow: auto !important)
 ! 116117.fi
 116117.fi##.cookie-consent-blanket
 116117.fi##body,html:style(overflow: auto !important; position: initial !important;)
@@ -26458,6 +26466,7 @@ padovacalcio.it###pi_tracking_opt_in_div
 pusc.it###pixelfabrica-cs-banner
 sportrentino.it###popcookiesbg
 cinquantamila.it###privacy_advisor
+faxiflora.it###privacydiv
 la7.it###puthere
 rds.it###rds-cookie-preferences
 samaritansonlus.org###sB_injected
@@ -27488,6 +27497,7 @@ valher.si##tr > td
 almacen-informatico.com###Informacion
 northgate.es###WindowLoad
 agendadeteatro.es###abdm-cookies-overlay
+us.as.com###acceptationCMPWall
 descifrandolaguerra.es###adam-cookie-banner
 lizipaina.es###additional
 sierraygonzalez.es###anuncio
@@ -27506,6 +27516,7 @@ cdecomunicacion.es###ca_banner
 caf.com###cafModal
 parquesnacionales.cnig.es###capa_galleta
 elpicazo.org###configuracion_cookies
+contasimple.com###consentModeDialogContainer
 hotelhonucai.com###container-screen
 ilebara.es,maslife.es,piensoluegoactuo.com###container_opacity
 tienda.edicionesbabylon.es###cook
