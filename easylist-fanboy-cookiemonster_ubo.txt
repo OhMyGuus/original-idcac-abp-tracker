@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ytHGdloa0JNe0AGLwZc2AQ
+! Checksum: lCATjxEKZhQOA5gV53+e/g
 ! Title: Easylist Cookie List
-! Updated: 2024-01-18 01:15 UTC
+! Updated: 2024-01-18 03:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19108,6 +19108,7 @@ belkin.com###pagebanner
 voissy.com###pb-navbar-cookies-accept
 pdfescape.com###pdfe_cmp
 phobs.net###phobs-cookie-consent
+wi-fi.org###pi_tracking_opt_in_div
 piensasolutions.com###piensaCookieAcceptance
 themilitarystore.co.uk###pixelpop
 amazon.com###pldn-deep-link
@@ -24013,6 +24014,9 @@ easyparts.com,easyparts.fr,easyparts-recambios.es,easyparts.fi,easyparts.nl,easy
 correos.es##.sc-correos-cdk-cookies-module-h
 correos.es##.cmp-experiencefragment--cookies
 correos.es##body:style(overflow: auto !important; position: initial !important;)
+! guildford.gov.uk
+guildford.gov.uk###cookie-consent-prompt
+guildford.gov.uk##body:style(overflow: auto !important; position: initial !important;)
 ! ebz-business-school.de
 ebz-business-school.de##.nf-procookie-overlay
 ebz-business-school.de##body,html:style(overflow: auto !important; position: initial !important;)
