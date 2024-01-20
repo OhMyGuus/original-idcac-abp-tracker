@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CO+SLbDYXocJYqCqPl4P1Q
+! Checksum: 9KIOoJ+rLtjuLEHDmo11gA
 ! Title: Easylist Cookie List
-! Updated: 2024-01-19 22:40 UTC
+! Updated: 2024-01-19 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -11640,7 +11640,6 @@
 ##.cookie-notice.bottom
 ##.cookie-notice.top
 ##.cookie-notice__background
-##.cookie-notice__content
 ##.cookie-notice__inner
 ##.cookie-notice__overlay
 ##.cookie-noticebar
@@ -18734,6 +18733,7 @@ warnerbros.com###WB-floating-notice
 postojnska-jama.eu###\5f iCD
 gillian-guide.github.io,globox1997.github.io###__consent
 govirtuo.com###__next > div[class^="virtuo_"]
+ups.com###__tealiumImplicitmodal
 coloradocollege.edu###_pc
 tuya.com###_th-trust
 abramsbooks.com###abr_cookie_modal
@@ -18999,6 +18999,7 @@ limundo.com###info-modal
 the-match-factory.com###infoBar
 totalping.com###info_1656718626
 apgsecuritysolutions.co.uk###infobar
+headfirstbristol.co.uk###injected_cookie_notice
 succulent-plant.com###inner
 all3dp.com###iubenda-cs-banner
 jetbeds.com###jb-notifications-container
@@ -22531,6 +22532,9 @@ pnel.de,korodrogerie.de,der-puten-shop.de,katapult-shop.de,evocsports.com,shop.a
 karls-shop.de##+js(set-cookie, cookie-preference-v3, 1)
 firmen.wko.at##+js(set-cookie, consent, true)
 byggern.no##+js(set-cookie, cookies_accepted, yes)
+rostics.ru##+js(set-cookie, set-cookie, cookieAccess, 1)
+hife.es##+js(set-cookie, hife_eu_cookie_consent, 1)
+lilcat.com##+js(set-cookie, cookie-consent, accepted)
 hot.si##+js(set-cookie, permission_marketing_cookies, 0)
 hot.si##+js(set-cookie, permission_statistic_cookies, 0)
 hot.si##+js(set-cookie, permission_funktional_cookies, 1)
@@ -24517,6 +24521,9 @@ allekringloopwinkels.nl##body,html:style(overflow: auto !important; position: in
 ! makelaarsland.nl
 makelaarsland.nl##.m-cookie-notice
 makelaarsland.nl##+js(remove-class, is-cookie-notice, body, stay)
+! bricklink.com
+bricklink.com##.cookie-notice
+bricklink.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! moteurnature.com
 moteurnature.com##.consentcontainer
 ! bcc.nl
@@ -25122,6 +25129,7 @@ app.taxfix.de###cookie-consent-banner-container
 pokalkoenig.de###cookie-permission-modal
 brf.be###cookieDashboard
 waldbuehne-berlin.de###cookieManager
+avadas.de,sw-distribution.de###cookieManger
 sportauspuff-direkt.com###cookieNoteAGB
 wifikaernten.at###cookiePolicy
 westend61.de###cookie_Modal
@@ -25750,6 +25758,7 @@ rosting.by###bg_popup
 flagma.by###cookie-agreement
 deal.by##.H84S0
 korter.by##.NNvvT
+shop.by##.Page__CookiesPopup
 lamoda.by,lamoda.kz##._root_1mejd_2
 emall.by##.accept-cookies_all__3tDno
 shate-m.by##.blocker
