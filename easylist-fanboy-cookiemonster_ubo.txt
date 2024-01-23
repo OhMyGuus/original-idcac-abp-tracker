@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: w/o7EehS/tJekYfiWyPnMQ
+! Checksum: bsuE9QI4kRn8jyRXY9OdiQ
 ! Title: Easylist Cookie List
-! Updated: 2024-01-23 05:15 UTC
+! Updated: 2024-01-23 06:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22476,7 +22476,7 @@ pumatools.hu##+js(set-cookie, cookie_level, 2)
 ici.tou.tv##+js(set-cookie, toutv_cookies_usage_production, 1)
 crunchyroll.com##+js(set-cookie, _evidon_suppress_notification_cookie, 1)
 emr.ch##+js(set-cookie, EMR-CookieConsent-Advertising, 0)
-clipchamp.com##+js(set-cookie, acceptCookies, true)
+mayflex.com,clipchamp.com##+js(set-cookie, acceptCookies, true)
 ebikelohr.de##+js(set-cookie, COOKIES_NEWACCEPTED, 1)
 eurosender.com##+js(set-cookie, es_cookie_settings_closed, 1)
 melectronics.ch##+js(set-cookie, cookie-banner-acceptance-state, true)
