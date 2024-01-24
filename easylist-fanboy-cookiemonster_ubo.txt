@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OR9BmXvGE9g4bEcXaZIpwQ
+! Checksum: qd//BKjzgRGlEBTsYLSGvg
 ! Title: Easylist Cookie List
-! Updated: 2024-01-24 12:40 UTC
+! Updated: 2024-01-24 13:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22065,6 +22065,7 @@ physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehir
 m.twitch.tv##+js(set-cookie, tachyon-accepted-cookie-notice, true)
 omega-nuernberg.servicebund.com##+js(set-cookie, cookieChoice, 0)
 eboo.lu##+js(set-cookie, PostAnalytics, 0)
+vater-it.de##+js(set-cookie, pz_cookie_consent, true)
 kzvb.de##+js(set-cookie, cookie-optin, true)
 correosexpress.com,cexpr.es##+js(set-cookie, msg_cookie_CEX, true)
 rte.ie##+js(set-cookie, OptanonAlertBoxClosed, ok)
