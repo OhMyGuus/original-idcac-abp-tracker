@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AvihZB1f9aJrXSrz2QUkNw
+! Checksum: jS7aUPamYnLkKBrZRmjvXw
 ! Title: Easylist Cookie List
-! Updated: 2024-01-25 11:40 UTC
+! Updated: 2024-01-25 12:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22509,8 +22509,9 @@ textshuttle.com##+js(set-cookie, textshuttle_cookie, true)
 zeitzurtrauer.de##+js(set-cookie, consentInteract, true)
 sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com##+js(set-cookie, cookielawinfo-checkbox-functional, yes)
 hemglass.se,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com##+js(set-cookie, cookielawinfo-checkbox-necessary, yes)
-hemglass.se,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com,gogolf.fi,hanse-haus-greifswald.de##+js(set-cookie, viewed_cookie_policy, yes)
-hemglass.se,gogolf.fi##+js(set-cookie, cookielawinfo-checkbox-advertisement, no)
+ipouritinc.com,hemglass.se,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com,gogolf.fi,hanse-haus-greifswald.de##+js(set-cookie, viewed_cookie_policy, yes)
+ipouritinc.com,hemglass.se,gogolf.fi##+js(set-cookie, cookielawinfo-checkbox-advertisement, no)
+ipouritinc.com##+js(set-cookie, cookielawinfo-checkbox-non-necessary, no)
 hemglass.se##+js(set-cookie, cookielawinfo-checkbox-performance, no)
 hemglass.se##+js(set-cookie, cookielawinfo-checkbox-analytics, no)
 skaling.de##+js(set-cookie, cookie-byte-consent-essentials, true)
