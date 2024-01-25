@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jS7aUPamYnLkKBrZRmjvXw
+! Checksum: LjgaUyV2zNWdhifgMxps/g
 ! Title: Easylist Cookie List
-! Updated: 2024-01-25 12:40 UTC
+! Updated: 2024-01-25 22:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22519,6 +22519,7 @@ skaling.de##+js(set-cookie, cookie-byte-consent-showed, true)
 skaling.de##+js(set-cookie, cookie-byte-consent-statistics, false)
 bringmeister.de##+js(set-cookie, bm_acknowledge, yes)
 leibniz.com##+js(set-cookie, consent, 1)
+gdx.net##+js(set-cookie, genovaPrivacyOptions, 1, , reload, 1)
 project529.com##+js(set-cookie, cookies_ok, true)
 clearblue.com##+js(set-cookie, kali-cc-agreed, true)
 drewag.de,enso.de##+js(set-cookie, cookiesAccepted, true)
