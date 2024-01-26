@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FYZUKim0ctvZXsto01n8MQ
+! Checksum: gi7yLbjdNWI4JzaHS3F/jA
 ! Title: Easylist Cookie List
-! Updated: 2024-01-26 00:15 UTC
+! Updated: 2024-01-26 08:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22655,7 +22655,7 @@ zipjob.com##+js(set-cookie, cookie_consent, 1)
 pricehubble.com##+js(set-cookie, cookieBannerAccepted, 1, , reload, 1)
 ilmotorsport.de##+js(set-cookie, cookieMsg, true, , reload, 1)
 monese.com##+js(set-cookie, accept-cookies, true)
-psbank.ru,myriad.social,exeedme.com,followalice.com##+js(set-cookie, cookie-consent, true)
+karate.com,psbank.ru,myriad.social,exeedme.com,followalice.com##+js(set-cookie, cookie-consent, true)
 aqua-store.fr##+js(set-cookie, abz_seo_choosen, 1)
 voila.ca##+js(set-cookie, privacyAccepted, true)
 anastore.com##+js(set-cookie, cok, 1,  , reload, 1)
