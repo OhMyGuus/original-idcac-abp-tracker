@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QNE8HdlmlzCz1i7RPFn9lw
+! Checksum: FbQL7vhutc3oiyJ3iT6ceA
 ! Title: Easylist Cookie List
-! Updated: 2024-01-28 05:40 UTC
+! Updated: 2024-01-28 10:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22584,6 +22584,7 @@ hot.si##+js(set-cookie, permission_marketing_cookies, 0)
 hot.si##+js(set-cookie, permission_statistic_cookies, 0)
 hot.si##+js(set-cookie, permission_funktional_cookies, 1)
 hot.si##+js(set-cookie, cookieconsent, 1)
+crenolibre.fr##+js(set-cookie, cookieconsent, false)
 dopt.com##+js(set-cookie, dopt_consent, false)
 oxfordonlineenglish.com##+js(set-cookie, ooe_cookie_policy_accepted, no)
 pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)
