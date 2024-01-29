@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eggOUpUlY7us8DuPYuHqSA
+! Checksum: hUUt+MYc140asit+IGlu6A
 ! Title: Easylist Cookie List
-! Updated: 2024-01-29 04:40 UTC
+! Updated: 2024-01-29 08:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21503,9 +21503,9 @@ alfred.com,amino.dk,gigaom.com,gq.com.au,henrilloyd.com,hesapkurdu.com,hvylya.ne
 !! #privacy-policy
 104.ua,bostools.nl,iprbookshop.ru,planetfitness.com,wccaviation.com###privacy-policy
 !! cdk-overlay-container
-afiklmem.com,antenne.at,betsafe.ee,betsafe.lv,biblio.cyldigital.es,canadasbusinessregistries.ca,casino.dk,clashapp.co,collibris-app.com,earnweb.com,educont.ru,ekuriren.se,eqmac.app,flyingblue.us,fr.vanguard,hw-zuschuss.daimler.com,iconnectfx.com,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,mobilbahis623.com,nl.vanguard,nordicbet.dk,rekonise.com,rsu.de,shopstyle.co.uk,skiclub-villingen.de,source.chromium.org,spedition.de,tacobot.tf,townsmith.de,vanguard.co.uk,vanguardmexico.com##.cdk-overlay-container
+afiklmem.com,antenne.at,betsafe.ee,betsafe.lv,biblio.cyldigital.es,canadasbusinessregistries.ca,casino.dk,clashapp.co,collibris-app.com,earnweb.com,educont.ru,ekuriren.se,eqmac.app,flyingblue.us,fr.vanguard,hw-zuschuss.daimler.com,iconnectfx.com,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,mobilbahis623.com,nl.vanguard,nordicbet.dk,rekonise.com,rsu.de,shopstyle.co.uk,skiclub-villingen.de,spedition.de,tacobot.tf,townsmith.de,vanguard.co.uk,vanguardmexico.com##.cdk-overlay-container
 !!  #cdk-overlay-0
-cs.android.com###cdk-overlay-0
+cs.android.com,source.chromium.org###cdk-overlay-0
 !! .trackingmanager
 grosstadt-mission.de,loewe-stiftung.de,simufact.com,simufact.de,stadt-mission.de,strelow-dichtungen.de##.trackingmanager
 !! #pdcc-modal-bg
@@ -22523,13 +22523,13 @@ shop.almawin.de##+js(set-cookie, psd-gtm-activated, 1)
 shop.almawin.de##+js(set-cookie, wishlist-enabled, 1)
 textshuttle.com##+js(set-cookie, textshuttle_cookie, true)
 zeitzurtrauer.de##+js(set-cookie, consentInteract, true)
-sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com##+js(set-cookie, cookielawinfo-checkbox-functional, yes)
-hemglass.se,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com##+js(set-cookie, cookielawinfo-checkbox-necessary, yes)
-ipouritinc.com,hemglass.se,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com,gogolf.fi,hanse-haus-greifswald.de##+js(set-cookie, viewed_cookie_policy, yes)
-ipouritinc.com,hemglass.se,gogolf.fi##+js(set-cookie, cookielawinfo-checkbox-advertisement, no)
-ipouritinc.com##+js(set-cookie, cookielawinfo-checkbox-non-necessary, no)
-hemglass.se##+js(set-cookie, cookielawinfo-checkbox-performance, no)
-hemglass.se##+js(set-cookie, cookielawinfo-checkbox-analytics, no)
+steamdeckhq.com,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com##+js(set-cookie, cookielawinfo-checkbox-functional, yes)
+steamdeckhq.com,hemglass.se,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com##+js(set-cookie, cookielawinfo-checkbox-necessary, yes)
+steamdeckhq.com,ipouritinc.com,hemglass.se,sumsub.com,atman.pl,fabriziovanmarciano.com,nationalrail.com,eett.gr,funkypotato.com,equalexchange.co.uk,swnsdigital.com,gogolf.fi,hanse-haus-greifswald.de##+js(set-cookie, viewed_cookie_policy, yes)
+steamdeckhq.com,ipouritinc.com,hemglass.se,gogolf.fi##+js(set-cookie, cookielawinfo-checkbox-advertisement, no)
+steamdeckhq.com,ipouritinc.com##+js(set-cookie, cookielawinfo-checkbox-non-necessary, no)
+steamdeckhq.com,hemglass.se##+js(set-cookie, cookielawinfo-checkbox-performance, no)
+steamdeckhq.com,hemglass.se##+js(set-cookie, cookielawinfo-checkbox-analytics, no)
 skaling.de##+js(set-cookie, cookie-byte-consent-essentials, true)
 skaling.de##+js(set-cookie, cookie-byte-consent-showed, true)
 skaling.de##+js(set-cookie, cookie-byte-consent-statistics, false)
@@ -27169,6 +27169,7 @@ xalingo.com.br###wrng-agrmnt
 fiat.com.br##.CookieHolder_container__23g0s
 morana.com.br##.DykGo.sc-crzoAE
 magazineluiza.com.br##.FSeli
+abril.com.br##.LGPD-notice
 talixo.pt##.TrackingInfoBox
 amaro.com##._container_1siqr_54
 terminalrodoviariobrasilia.com.br##.acceptPolice
@@ -28770,7 +28771,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||gdpr-wrapper.privacymanager.io/gdpr/$script,xmlhttprequest,domain=dailybuzz.nl|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kleinezeitung.at|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|pickmypostcode.com|plusonline.nl|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl|weerplaza.nl
 @@||gdpr.privacymanager.io^$script,domain=dailybuzz.nl|diepresse.com|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kleinezeitung.at|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl|weerplaza.nl
 @@||geo.privacymanager.io^$xmlhttprequest,domain=omroepbrabant.nl|plusonline.nl|weerplaza.nl
-@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=~cbsnews.com|~cnbc.com|~metacritic.com|~teenvogue.com|~vogue.co.jp|~vogue.co.uk|~vogue.com|~vogue.com.tw|~vogue.de|~vogue.es|~vogue.fr|~vogue.in|~vogue.it|~vogue.mx|~vogue.ph
+@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=~cbsnews.com|~cnbc.com|~eksisozluk.com|~metacritic.com|~teenvogue.com|~vogue.co.jp|~vogue.co.uk|~vogue.com|~vogue.com.tw|~vogue.de|~vogue.es|~vogue.fr|~vogue.in|~vogue.it|~vogue.mx|~vogue.ph
 @@||getsysteminfo.com/javascript/cookieconsent.min.js$script,~third-party
 @@||gigacloud.ua^*/cookieconsent.min.js$~third-party
 @@||gizmochina.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js$~third-party
