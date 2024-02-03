@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: o4DnkpY86aWBEWd1AM6zNQ
+! Checksum: ocOOC3TNmx3pXZ87g78Big
 ! Title: Easylist Cookie List
-! Updated: 2024-02-03 00:15 UTC
+! Updated: 2024-02-03 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22089,6 +22089,7 @@ endgame.id##+js(set-cookie, endgame-accept-policy, true)
 cashback-cards.ch##+js(set-cookie, sc-privacy-settings, true)
 ahorn24.de##+js(set-cookie, accept_cookies2, true, , reload, 1)
 blockdyor.com##+js(set-cookie, cf_consent, false)
+ticket.io##+js(set-cookie, privacyCookie, 1, , reload, 1)
 omega-nuernberg.servicebund.com##+js(set-cookie, cookieChoice, 0)
 lojaboschferramentas.com.br##+js(set-cookie, lgpdConsent, true)
 shareloft.com##+js(set-cookie, shareloft_cookie_decision, 1)
@@ -27628,6 +27629,7 @@ tescoma.sk##.overlay-wrapper
 hossafamily.sk##.p-cookie-bar
 inzeratyzadarmo.sk##.pd10-ing
 zebracomp.sk##.position-fixed.ov.shadow
+soi.sk##.set-win-coo-popup
 speedmeter.sk##.w_notice
 posta.sk##[src="https://static.posta.sk/cookies-consents/dialog/sk/index.html"]
 spsjm.sk##[style^="position: fixed; bottom: 0px;"]
