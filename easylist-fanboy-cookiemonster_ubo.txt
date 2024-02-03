@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nJTdjmS/Cf2XobZ5i9UrOA
+! Checksum: PgjCrzZeyB+WSr0zsSbTSg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-03 02:40 UTC
+! Updated: 2024-02-03 03:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22819,6 +22819,9 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 nove.fr##+js(set-local-storage-item, cookie, true)
+autoride.cz,autoride.es,autoride.io,autoride.sk##+js(set-local-storage-item, cookies_necessary_consent, true)
+autoride.cz,autoride.es,autoride.io,autoride.sk##+js(set-local-storage-item, cookies_marketing_consent, false)
+autoride.cz,autoride.es,autoride.io,autoride.sk##+js(set-local-storage-item, cookies_statistics_consent, false)
 wunderground.com##+js(set-local-storage-item, wu.ccpa-toast-viewed, true)
 baselime.io##+js(set-local-storage-item, closed, true)
 eversports.de##+js(set-local-storage-item, dnt, 1)
