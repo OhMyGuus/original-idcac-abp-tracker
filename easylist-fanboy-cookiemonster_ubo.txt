@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fAyQhxgKz3kyZ1QP50kpOA
+! Checksum: sfCOX8XRQdvK4L6QUJTb+w
 ! Title: Easylist Cookie List
-! Updated: 2024-02-03 22:15 UTC
+! Updated: 2024-02-03 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20532,6 +20532,7 @@ makingyourmoneysimple.com##.pps-popup
 lasportivausa.com##.pr-cookie-modal-bottom
 powerreviews.com##.prd-wrap
 ultimaker.com##.preferences-bar
+alhambrafabrics.com##.preview-cookies-alert
 easyeda.com##.priv-tips
 aweray.com,cbc.ca,dailyselect.co.uk,ferrerocareers.com,focustaiwan.tw,lcsc.com,ridegoshare.com##.privacy
 shoppersdrugmart.ca##.privacy-agreement
@@ -22761,6 +22762,8 @@ ebilet.pl##+js(set-cookie, eb_cookie_agree, 1)
 myeventeo.com##+js(set-cookie, cookiesPolicy20211101, 1)
 snap.com##+js(set-cookie, sc-cookies-accepted, true)
 school.hh.ru,rating.hh.ru,novgorod.hh.ru##+js(set-cookie, cookie_policy_agreement, true)
+louwman.nl##+js(set-cookie, marketing_cookie_akkoord, 0)
+louwman.nl##+js(set-cookie, site_cookie_akkoord, 1)
 ratemyprofessors.com##+js(set-cookie, ccpa-notice-viewed-02, true)
 filen.io##+js(set-cookie, cookieConsent, yes)
 leotrippi.com,restaurantclub.pl,context.news,queisser.de##+js(set-cookie, cookieConsent, true)
@@ -27462,6 +27465,7 @@ domrfbank.ru##.announce-cookie
 podrozerowerowe.info##.appriseOuter
 podrozerowerowe.info##.appriseOverlay
 sirius-aero.ru##.b-cook
+wegym.ru##.b-notification
 autopoisk24.net##.b-popup
 shate-m.kz##.blocker
 detmir.ru##.bn
