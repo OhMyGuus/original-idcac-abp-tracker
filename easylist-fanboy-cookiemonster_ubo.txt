@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: n+HBeuSzFoJSnzfBPX1mWw
+! Checksum: WS0DErMz0H2M03nmvA+J/Q
 ! Title: Easylist Cookie List
-! Updated: 2024-02-05 09:15 UTC
+! Updated: 2024-02-05 12:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22222,7 +22222,7 @@ eif.org##+js(set-cookie, cookie-policy, true)
 press.princeton.edu##+js(set-cookie, cookie-agreed, 0)
 sugi-net.jp##+js(set-cookie, cookie-use-accept, false)
 understandingsociety.ac.uk##+js(set-cookie, ga-disable-UA-xxxxxxxx-x, true)
-electroprecio.com,autohero.com##+js(set-cookie, consent, 1)
+bettertires.com,electroprecio.com,autohero.com##+js(set-cookie, consent, 1)
 bargaintown.ie##+js(set-cookie, cookie-bar, no)
 tui.nl##+js(set-cookie, CookiesAccepted, no)
 doppelmayr.com##+js(set-cookie, essential, true)
