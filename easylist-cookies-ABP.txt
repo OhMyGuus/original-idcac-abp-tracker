@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8amOnsviif5wj4tClgjZVg
+! Checksum: FTrwK58l7ftkwdcFaqVO7w
 ! Title: Easylist Cookie List
-! Updated: 2024-02-06 06:40 UTC
+! Updated: 2024-02-06 21:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20951,6 +20951,7 @@ openbookpublishers.com##body > .menu-header
 goodboy.ninja##body > div > .card
 facebook.com##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-banner"]
 success.trendmicro.com##c-dcx-cookie
+qualified.io##consent-cookie-popup
 23degrees.io##consent-toast
 access.login.nhs.uk##core-cookie-banner
 medium.com##div > .branch-journeys-top
@@ -22170,6 +22171,8 @@ bodenaturkost.de##.cookieBanner_start
 parlament.gv.at##.cookieContent
 giffits-werbeartikel.at,giffits-werbeartikel.ch,giffits.de##.cookie_opt_in--wrapper
 proaurum.de##.cookiefirst-root
+optimatours.de##.cookies-confirm-bg
+optimatours.de##.cookies-confirm-bg-backdrop
 weddyplace.com##.core-modal
 aok-erleben.de##.csm_wrapper
 barfuss.it##.css-1ienoy8.e1gi2aal2
@@ -23387,6 +23390,7 @@ sevensalerno.it##.cw_container
 balarm.it##.cyn-banner
 dentisti-italia.it##.di-banner
 klepierre.it##.explicit_consent_backside
+farmaciasancarloroma.com##.fascia-avviso-coockie
 itpornit.com##.first-visit
 beta.easytag.it##.freeprivacypolicy-com---nb-interstitial-overlay
 lsdlibri.it##.fullscreen_box_legale
@@ -24830,6 +24834,7 @@ ants.vn##.sg-popup-content
 ||consenttool.haendlerbund.de^
 ||cookies.ptj.de^
 ||cookies.tanke-guenstig.de^
+||elbphilharmonie.de/ep/consent-en.js
 ||electriclove.at/*/api/cookie-settings
 ||emondo.de/wp-content/plugins/borlabs-cookie/
 ||epccm19.com/app.js
