@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: g331PzKNOTkvkslsgQQHCg
+! Checksum: Hjis4qHRQsBPH0iKp0jC/w
 ! Title: Easylist Cookie List
-! Updated: 2024-02-08 12:40 UTC
+! Updated: 2024-02-08 15:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22450,6 +22450,7 @@ laportecontemporaine.shop###ism-consent-box
 vosfactures.fr###jGrowl
 sondagenational.com###legalCookies
 fromagesuisse.ch###legalnotice
+manceraparfums.com###mancera_cookie_consent_banner
 ma-calculatrice.fr###manger-des-minis-gateaux
 skitour.fr###masque
 cuevana3.io###mdl-ads
