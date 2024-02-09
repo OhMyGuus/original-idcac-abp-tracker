@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lkF8U8DG4hqGJFp7sa0qAw
+! Checksum: mYiFs0sX6K7E2nfLtOiecg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-08 23:15 UTC
+! Updated: 2024-02-09 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -27609,6 +27609,7 @@ pcradio.ru##.privacy-block
 hypegamenews.ru##.privacy_policy
 toldot.ru##.prwi
 yookassa.ru##.qa-gdpr
+moiglaza.ru##.r-cookie-prompt__container
 aviasales.by,aviasales.kg,aviasales.kz,aviasales.ru,aviasales.ua,aviasales.uz##.s__y2gjNiIS0o1RA_5Ebnkw
 tacsafon.ru##.sample-popup
 sbis.ru##.sbisru-CookieAgreement
