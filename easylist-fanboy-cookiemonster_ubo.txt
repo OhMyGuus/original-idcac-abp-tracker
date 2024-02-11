@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Bw0ygiFCEg2nT842ruA4+g
+! Checksum: QYLsR0eZ00kdFsBzfP/lvg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-11 05:40 UTC
+! Updated: 2024-02-11 09:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -2328,6 +2328,7 @@
 ###bw_cookieoverlay
 ###bwp-cookies-info
 ###bws-cookie-notice
+###bx_cookie_info
 ###bys-cookiemessage
 ###bytesize_cookie_explainer
 ###bzCookieConsent
@@ -22876,6 +22877,7 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 businessclass.com##+js(set-local-storage-item, bcCookieAccepted, true)
 schneidewind-immobilien.de##+js(set-local-storage-item, pcClosedOnce, true)
+bbc.com##+js(set-local-storage-item, cvcConsentGiven, true)
 galaxy.com##+js(set-local-storage-item, terms, true)
 ticketmelon.com##+js(set-local-storage-item, cookie_accept, true)
 pechinchou.com.br##+js(set-local-storage-item, Pechinchou:CookiesModal, true)
