@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DAPGjxWhuQRsbYdFX7nWvg
+! Checksum: Tkui0nj+LSphx3Xrk9wqPA
 ! Title: Easylist Cookie List
-! Updated: 2024-02-10 22:40 UTC
+! Updated: 2024-02-10 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21561,6 +21561,10 @@ aquacard.co.uk,blsspain-russia.com,darricau.com,demarko-trailers.com,frescomarke
 eurorelais.de,fewoferien.de,holidayhomes.com,maisondevacances.fr##.posf.react-onclickoutside
 !! CookiePopup
 bitcoin-store.net,brain.fm,shopbuddies.be,shopbuddies.co.uk,shopbuddies.de,shopbuddies.fi,shopbuddies.fr,shopbuddies.it,shopbuddies.nl,shopbuddies.pl,shopbuddies.se##[class^="CookiePopup"]
+!! .cookie-hint
+afto.al,frs-baltic.com,frs-elbfaehre.de,frs-helgoline.de,frs-portugal.pt,frs-shipmanagement.eu,frs-syltfaehre.de,frs.world,fwol.de,reederei-hiddensee.de,weisse-flotte.de##.cookie-hint
+!! .frs__overlay
+booking.reederei-zingst.de,booking.weisse-flotte.de,booking2.reederei-hiddensee.de##.frs__overlay
 !! .CookiesBanner
 monzoapp.com,oscarproperties.com,zoominfo.com##[class^="CookiesBanner"]
 !! .blocker
