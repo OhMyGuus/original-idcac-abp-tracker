@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dgigYNtKLnv3lY/ia+bCew
+! Checksum: jSfi99kUko6rqa1LMEuSvQ
 ! Title: Easylist Cookie List
-! Updated: 2024-02-11 04:15 UTC
+! Updated: 2024-02-11 06:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22310,7 +22310,7 @@ kraehe.de##.nav-cookie
 biancodipuro.ch##.ngcookiewarning
 kaelte-nuhn.com,kvvks.de,messe-kassel.de##.note
 onb.ac.at##.notification-wrapper
-klimaanlage.at##.notificationArea
+klimaanlage.at,schneidewind-immobilien.de##.notificationArea
 horizon.tv##.notifications-manager
 civey.com##.notifications-module_notificationContainer_3zCTN
 gewinnspiele.de,lotty.de##.npco_overlay
