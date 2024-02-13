@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HWL7CoQ0Hql8VgAXgF7QQA
+! Checksum: 8VmM/pkfetSsDUVlbMgJeg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-13 20:40 UTC
+! Updated: 2024-02-13 21:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -4526,6 +4526,7 @@
 ###cookiebannerAH
 ###cookiebannerOverlay
 ###cookiebanner_con
+###cookiebanner_overlay
 ###cookiebanner_wrapper
 ###cookiebannercontainer
 ###cookiebannerdiv
@@ -22876,6 +22877,7 @@ businessaccountingbasics.co.uk,flickr.org,steamdeckhq.com,hemglass.se##+js(set-c
 tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-markkinointi, no)
 tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-tilastointi, no)
 ! set-local-storage-item
+triumphtechnicalinformation.com##+js(set-local-storage-item, ROCUMENTS.cookieConsent, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
