@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xrXbZ6UwqVCjMc2I8RihcQ
+! Checksum: etM+105+gbM4q9DryWgUVw
 ! Title: Easylist Cookie List
-! Updated: 2024-02-12 20:40 UTC
+! Updated: 2024-02-13 04:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20357,6 +20357,7 @@ lemonade.finance##.molecule-cookie-box
 motherless.com##.motherless-cookie-wrapper
 arcade1up.com##.mount
 unityj.com##.mpp-container-position-bottom-bar
+takasago-fluidics.com##.mrc_gdpr_banner
 motorsport.com,motorsport.uol.com.br##.ms-footer-messages
 motorsport.com##.ms-header-messages
 faapy.com,minneapolis.org,visitcos.com,visitpittsburgh.com##.msg
@@ -25068,6 +25069,9 @@ ants.vn##.sg-popup-content
 !
 ! ---------- Portuguese ----------
 !
+! ---------- Estonian ---------
+!
+||elisa.ee/modules/custom/elisa_cookie/js/cookienoticecontroller.js
 !
 ! ---------- Romanian ----------
 !
