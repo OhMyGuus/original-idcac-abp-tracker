@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: A7I/VNVtqcKAAmBhotPRCg
+! Checksum: 4QNpFf2vQgRJkHPOcvgcgA
 ! Title: Easylist Cookie List
-! Updated: 2024-02-14 20:40 UTC
+! Updated: 2024-02-14 22:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21314,7 +21314,7 @@ dagrasso.pl,freedomtreks.co.uk,hiveon.com,hiveon.net,kritikos-sm.gr,skisafari.co
 !! .cookie-check
 connection.com,eink.com,govconnection.com,macconnection.com##.cookie-check
 !! .cc-window
-ablebits.com,bund-naturschutz.de,e-infra.com,gesundheit-nds.de,ionos-group.com,justia.com,malaysiaairlines.com,sf311.org,wedolit.eu,zesty.tech##.cc-window
+ablebits.com,bund-naturschutz.de,cc-egov.de,e-infra.com,gesundheit-nds.de,ionos-group.com,justia.com,malaysiaairlines.com,sf311.org,wedolit.eu,zesty.tech##.cc-window
 !! .popup
 agcopartsbooks.com,beiersdorf.com,digitfoto.de,efootwear.eu,engeo.ch,gps-viewer.com,hypeauditor.com,kiswe.com,mellerud.de,mesampoulesgratuites.fr,mindmatrix.net,mymuesli.com,salesmanago.pl,swayhotels.com,topographic-map.com,travelexpress.pl,yclients.com,zabkagroup.com##.popup
 !! .popup-wrapper
@@ -22753,6 +22753,8 @@ bayernportal.de##+js(set-cookie, cookieConsent, true, , reload, 1)
 bayernportal.de##+js(set-cookie, videoConsent, true)
 bayernportal.de##+js(set-cookie, comfortConsent, true)
 ayudatpymes.com,zipjob.com##+js(set-cookie, cookie_consent, 1)
+plastischechirurgie-muenchen.info##+js(set-cookie, ff_cookie_notice, 1)
+bonn.sitzung-online.de##+js(set-cookie, allris-cookie-msg, 1)
 thenounproject.com##+js(set-cookie, cookie_consent, 1, , reload, 1)
 pricehubble.com##+js(set-cookie, cookieBannerAccepted, 1, , reload, 1)
 ilmotorsport.de##+js(set-cookie, cookieMsg, true, , reload, 1)
@@ -27662,6 +27664,7 @@ sbis.ru##.sbisru-CookieAgreement
 zvuk.com##.sc-18olso3-0
 libmogilev.by##.sc-widget
 netology.ru##.shared-components-CookiesAgreement--root--2INjM
+astralinux.ru##.show-cookie
 spb-guide.ru##.snowdiv-modal
 datasystem.ru##.specialAlert
 nergb.ru##.spu-bottom-left
