@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uzqkSKyDmeEoQf09dgOiyA
+! Checksum: AYrIrsymEF9qkjL3RJWJwA
 ! Title: Easylist Cookie List
-! Updated: 2024-02-14 23:15 UTC
+! Updated: 2024-02-15 00:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18995,7 +18995,7 @@ musicmap.info###fullscreen-overlay
 play.google.com###gb > div[style*="background-color"]
 flooringsuppliescentre.co.uk###gdpr_cookie-mainWrapp
 myedit.online###gdpr_notes
-mid-day.com###gdprbx
+jagranjosh.com,mid-day.com###gdprbx
 lloyd.com###globalerror
 draeger.com###globalnotification
 wdl.warburg.sas.ac.uk###greyout
