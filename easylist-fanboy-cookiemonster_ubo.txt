@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: d9AkNSHUUWDE31qXnzha9A
+! Checksum: mPrXVY+KUFRHTi+mrwMD7w
 ! Title: Easylist Cookie List
-! Updated: 2024-02-18 09:40 UTC
+! Updated: 2024-02-18 10:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18768,7 +18768,7 @@ basecamelectronics.com###agreement-alert
 bracketfights.com,tiermaker.com###agreementMessage
 ibispaint.com###agreementPane
 airvpn.org###air_cookielaw_container
-chefoo.co.uk,godbolt.org###alert
+chefoo.co.uk###alert
 rome2rio.com###alert-banner
 youtube.com###alert-banner > .ytd-browse > .yt-alert-with-actions-renderer
 supermicro.com###alert-container
@@ -22909,6 +22909,7 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 businessclass.com##+js(set-local-storage-item, bcCookieAccepted, true)
 schneidewind-immobilien.de##+js(set-local-storage-item, pcClosedOnce, true)
+wales.nhs.attendanywhere.com##+js(trusted-set-local-storage-item, cookieBanner, false)
 astondevs.ru##+js(set-local-storage-item, banner, true)
 comnet.com.tr##+js(set-local-storage-item, cookieConsent, true)
 geomiq.com##+js(set-local-storage-item, gtag_enabled, 1)
@@ -23044,6 +23045,8 @@ flyingpapers.com##+js(set-local-storage-item, FP_cookiesAccepted, true)
 beta.character.ai##+js(set-local-storage-item, VISITED_0, true)
 beta.character.ai##+js(set-local-storage-item, OPTIONAL_COOKIES_ACCEPTED_0, true)
 bittimittari.fi##+js(set-local-storage-item, storagePermission, true)
+aida64.co.uk,aida64.com.ua,aida64.de,aida64.hu,aida64.it,aida64russia.com##+js(set-local-storage-item, set_cookie_stat, false)
+aida64.co.uk,aida64.com.ua,aida64.de,aida64.hu,aida64.it,aida64russia.com##+js(set-local-storage-item, set_cookie_tracking, false)
 ! set-session-storage-item
 erco.com##+js(set-session-storage-item, cookieMessageDisagree, true)
 smartwielen.lu##+js(set-session-storage-item, terms-and-policy-accepted, true)
