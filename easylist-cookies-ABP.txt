@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GURShF56rrvNrkJrRiVzxQ
+! Checksum: 2468vMQTsJYPK3brkSf8BQ
 ! Title: Easylist Cookie List
-! Updated: 2024-02-23 00:15 UTC
+! Updated: 2024-02-23 09:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22609,6 +22609,7 @@ didilz.com##.rgpd-overlay
 ray-jules.com##.s-cookie__modal92
 lelivrescolaire.fr##.s1d26ck5
 le-querrien.com##.scroll-fix__inner
+mon-espace.cise-reunion.re##.sds-m-cookiebanner
 nqt.fr##.sgpb-popup-dialog-main-div-wrapper
 nqt.fr##.sgpb-popup-overlay
 vinted.fr##.sticky-footer
@@ -22799,6 +22800,7 @@ czc.cz###ccp-popup
 ssls.cz###ckb
 fler.cz###cookies-bar-bottom
 drmcd.cz###cookies-bar-dialog
+levnapc.cz###cookies-lp-banner
 estetika-novotna.cz###cookiesModal
 solarenvi.cz,zahradnikrby.cz###cs_bx
 zahradnikrby.cz###cs_bx_envl
