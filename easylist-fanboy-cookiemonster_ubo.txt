@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MqzTfUW+RJY8zOV/agowEw
+! Checksum: 0OM9aUqahAPq3XXrF4I+jg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-24 05:15 UTC
+! Updated: 2024-02-24 09:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24775,6 +24775,9 @@ chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,my
 chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,mydealz.de##.popover--layout-fixed-bottomSheet
 chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,mydealz.de##.zIndex--modal.popover-cover
 chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,mydealz.de##body:style(overflow: auto !important;)
+! metro.co.uk
+metro.co.uk##.metro-newsletter-overlay
+metro.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 ! pathe.nl
 pathe.nl##+js(remove-class, cookiewall-active, body, stay)
 pathe.nl##body,html:style(overflow: auto !important; position: initial !important;)
