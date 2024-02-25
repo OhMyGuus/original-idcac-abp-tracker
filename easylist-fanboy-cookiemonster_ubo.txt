@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0bRdDL8ePr3WrEQJPV+2NQ
+! Checksum: 89982BXUFNhMFU6p5uxytQ
 ! Title: Easylist Cookie List
-! Updated: 2024-02-24 22:40 UTC
+! Updated: 2024-02-25 00:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18904,6 +18904,7 @@ gorillas.io,simbrief.com###cookie-settings
 startermotoralternator.com###cookie-status
 511mt.net###cookieBannerHolder
 investtech.com###cookieConsentDialogue
+smartconversion.com###cookieConsentdiv
 gezondheidsplein.nl###cookieForm
 sharphomeappliances.com###cookieModuleModal
 moringa.com###cookieNoticeSoww
@@ -22149,6 +22150,8 @@ deutsche-finanzagentur.de##+js(set-cookie, disclaimer-overlay, true)
 thejazzcafelondon.com##+js(set-cookie, complianceCookie, true)
 keeb.supply##+js(set-cookie, KeebSupplyCookieConsent, true)
 spb.hh.ru##+js(set-cookie, cookie_policy_agreement, true)
+xxxshemaleporn.com,gayhits.com,gaypornvideos.xxx,sextubespot.com##+js(set-cookie, kt_tcookie, 1)
+xxxshemaleporn.com,gayhits.com,gaypornvideos.xxx,sextubespot.com##+js(set-cookie, splash_Page_Accepted, true)
 wewantjusticedao.org##+js(set-cookie, gdpr-analytics-enabled, false)
 godbolt.org##+js(set-cookie, privacy_status, 1)
 projectenglish.com.pl##+js(set-cookie, privacy_settings, 1)
