@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 89982BXUFNhMFU6p5uxytQ
+! Checksum: IoqrN9BGkaplrYsC0Pgcfg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-25 00:15 UTC
+! Updated: 2024-02-25 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22862,7 +22862,7 @@ emuia1.gugik.gov.pl##+js(set-cookie, cookieMessageHide, true)
 nike.com##+js(set-cookie, sq, 0)
 adidas.at,adidas.be,adidas.ca,adidas.ch,adidas.cl,adidas.co,adidas.co.in,adidas.co.kr,adidas.co.nz,adidas.co.th,adidas.co.uk,adidas.com,adidas.com.ar,adidas.com.au,adidas.com.br,adidas.com.my,adidas.com.ph,adidas.com.vn,adidas.cz,adidas.de,adidas.dk,adidas.es,adidas.fi,adidas.fr,adidas.gr,adidas.ie,adidas.it,adidas.mx,adidas.nl,adidas.no,adidas.pe,adidas.pl,adidas.pt,adidas.ru,adidas.se,adidas.sk##+js(set-cookie, notice_preferences, 2)
 colourbox.com##+js(set-cookie, cookie_consent_all, 1)
-ebilet.pl##+js(set-cookie, eb_cookie_agree, 1)
+ebilet.pl##+js(set-cookie, eb_cookie_agree_0124, 1)
 myeventeo.com##+js(set-cookie, cookiesPolicy20211101, 1)
 snap.com##+js(set-cookie, sc-cookies-accepted, true)
 school.hh.ru,rating.hh.ru,novgorod.hh.ru##+js(set-cookie, cookie_policy_agreement, true)
@@ -22871,7 +22871,6 @@ louwman.nl##+js(set-cookie, site_cookie_akkoord, 1)
 ratemyprofessors.com##+js(set-cookie, ccpa-notice-viewed-02, true)
 filen.io##+js(set-cookie, cookieConsent, yes)
 leotrippi.com,restaurantclub.pl,context.news,queisser.de##+js(set-cookie, cookieConsent, true)
-stilord.com,stilord.pl,stilord.de,stilord.fr##+js(set-cookie, plenty-shop-cookie, 0)
 grandprixradio.dk,grandprixradio.nl,grandprixradio.be##+js(set-cookie, analytics_cookies, 0)
 grandprixradio.dk,grandprixradio.nl,grandprixradio.be##+js(set-cookie, cookies_accepted, 1, , reload, 1)
 grandprixradio.dk,grandprixradio.nl,grandprixradio.be##+js(set-cookie, tracking_cookies, 0)
