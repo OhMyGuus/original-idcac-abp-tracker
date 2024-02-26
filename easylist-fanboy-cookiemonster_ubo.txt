@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: skl9C6RBnxYp0zWkCRgvBQ
+! Checksum: 9Ff2rfaOh9OnlM36v5Wo5Q
 ! Title: Easylist Cookie List
-! Updated: 2024-02-26 09:40 UTC
+! Updated: 2024-02-26 11:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22144,6 +22144,7 @@ greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_conse
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at##+js(set-cookie, cookieconsent_status, allow)
+ilsaggiatore.com##+js(set-cookie, cookies_analytics_enabled, 0, , reload, 1)
 gourmetfoodstore.com##+js(set-cookie, AnalyticsAcceptancePopOver, false)
 schulfahrt.de##+js(set-cookie, cookiecookie, 1)
 deutsche-finanzagentur.de##+js(set-cookie, disclaimer-overlay, true)
