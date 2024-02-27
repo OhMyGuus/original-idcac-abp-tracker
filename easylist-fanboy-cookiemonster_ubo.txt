@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ge2/kxztNu+4YJ/+E+e9GA
+! Checksum: q2aELCS+oPfTyubbq17/Tg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-27 02:15 UTC
+! Updated: 2024-02-27 03:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19816,6 +19816,7 @@ holobuilder.com##.cookie-manager-main-container
 thesports.com##.cookie-message-page
 privacy.samsung.com##.cookie-noneu
 ydns.io##.cookie-notice-outer
+jobs.wavy.com##.cookie-notice-v2
 victors.co.uk##.cookie-notice-visible
 aptoide.com##.cookie-notice__CookieNoticeWrapper-sc-186p755-0
 aptible.com##.cookie-notice_container__dJUAA
@@ -21068,6 +21069,7 @@ podbean.com##div[style^="z-index: 999"]
 bosch-professional.com##dock-privacy-settings
 angular.dev##docs-cookie-popup
 fi.google.com##fi-cookie-consent
+getgreatcareers.com##gc-accept-cookie
 gcore.com##gcore-cookies-settings
 globalsolaratlas.info##gsa-cookie-banner
 my.games##header > .gdpr
@@ -24786,6 +24788,10 @@ chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,my
 chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,mydealz.de##.popover--layout-fixed-bottomSheet
 chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,mydealz.de##.zIndex--modal.popover-cover
 chollometro.com,dealabs.com,hotukdeals.com,pepper.it,pepper.pl,preisjaeger.at,mydealz.de##body:style(overflow: auto !important;)
+! expertise.unimi.it
+expertise.unimi.it###info_cineca_modal_cookie_popup
+expertise.unimi.it##.modal-backdrop
+expertise.unimi.it##html:style(overflow: auto !important; position: initial !important;)
 ! metro.co.uk
 metro.co.uk##.metro-newsletter-overlay
 metro.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
