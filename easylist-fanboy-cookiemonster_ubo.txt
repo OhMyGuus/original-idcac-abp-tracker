@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gvhu1wltbTsE8k7YJxyK/A
+! Checksum: xLMrgneOeO5Qy7fPRscLBA
 ! Title: Easylist Cookie List
-! Updated: 2024-02-29 10:40 UTC
+! Updated: 2024-02-29 11:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -27526,6 +27526,7 @@ churchsoftware.com.br##.popup-pro
 agazetafm.com,araraquaranews.com.br,slatual.com.br##.popup_footer
 gaz.com.br##.privacy-policy__popup
 starrcompanies.com.br##.privacy-warning
+honda-automoveis.pt##.rigor-cookies
 rovitex.com.br##.rovitex-apps-0-x-cookieContainer
 blog.runrun.it##.sc-AxiKw
 direcaoconcursos.com.br##.sc-faada46b-0
