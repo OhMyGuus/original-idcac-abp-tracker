@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +0WuAn8oileSomE9e/iAYQ
+! Checksum: BzCWH2SvEPd9ZSBWsiNvFw
 ! Title: Easylist Cookie List
-! Updated: 2024-02-28 11:40 UTC
+! Updated: 2024-02-29 01:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19319,7 +19319,7 @@ here.com###wrapper
 wyze.com###wyze-cookie-banner
 coindix.com###xbanner
 spiceworks.com###zdprivacy-content-new
-framer.com##.--framer-cookie-banner-container
+bunq.com,framer.com##.--framer-cookie-banner-container
 dublininquirer.com##.-alert.-fixed.notice
 alpari.com,alpariforex.org##.-footer__notice
 nhl.com##.-left.nhl-c-toast
