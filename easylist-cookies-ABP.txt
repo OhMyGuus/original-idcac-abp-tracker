@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BzCWH2SvEPd9ZSBWsiNvFw
+! Checksum: 0l2nIw4yG3p8qeGb8zWiRg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-29 01:15 UTC
+! Updated: 2024-02-29 04:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19751,6 +19751,7 @@ aia.com##.cmp-notification-action-panel
 manulife.com##.cmp-ntfbanner
 evoestate.com##.cnc-container
 cnn.com##.cnn-toast--tos
+courthousenews.com##.cns-cg-modal__overlay
 meteopower.com##.cnt223
 candyoffers.com##.co-cookie-message
 canvasondemand.com##.cod-notifications
@@ -20559,6 +20560,7 @@ jacksonsauction.com##.popup-dialog
 cancerresearch.org##.popup-inner
 skippersreview.com##.popup-overlayPop
 haiermedical.com##.popup-window
+mfc.co.uk##.popup-wrapper
 smartclient.com##.popupPolicies
 plsx.com##.popup_block
 abplive.in##.popup_desktop
