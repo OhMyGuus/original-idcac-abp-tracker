@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1Fbj+9KJMWhzlVVjW+xFFw
+! Checksum: HlX3un9UB+20W0PyOlzvNg
 ! Title: Easylist Cookie List
-! Updated: 2024-02-29 20:40 UTC
+! Updated: 2024-02-29 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22955,6 +22955,7 @@ tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-markkinointi, no)
 tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-tilastointi, no)
 ! set-local-storage-item
 web.bunq.com##+js(set-local-storage-item, bunq:CookieConsentStore:isBannerVisible, false)
+google.com##+js(set-local-storage-item, wf-promo-2::d, 1)
 triumphtechnicalinformation.com##+js(set-local-storage-item, ROCUMENTS.cookieConsent, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
