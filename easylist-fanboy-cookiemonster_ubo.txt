@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qhbp/hakFAhpdq9vgY+msQ
+! Checksum: lOmrlWbiaMDy5ctp2KUXFQ
 ! Title: Easylist Cookie List
-! Updated: 2024-03-02 04:15 UTC
+! Updated: 2024-03-02 06:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22648,7 +22648,7 @@ campusbrno.cz##+js(set-cookie, cookie-m-personalization, 0)
 campusbrno.cz##+js(set-cookie, cookie-m-marketing, 0)
 campusbrno.cz##+js(set-cookie, cookie-m-analytics, 0)
 secrid.com##+js(set-cookie, cookies, true)
-etsy.com##+js(set-cookie, ctc_rejected, 1)
+etsy.com,careers.cloud.com##+js(set-cookie, ctc_rejected, 1)
 seb.se,sebgroup.com##+js(set-cookie, AcceptedCookieCategories, 1)
 deps.dev##+js(set-cookie, cookie_policy_acknowledgement, true)
 buf.build##+js(set-cookie, allowCookies, yes)
