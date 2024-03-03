@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7wIUieFb6Z48SKREV/HGjQ
+! Checksum: zKT6UhIvKg/KUVP13CygBw
 ! Title: Easylist Cookie List
-! Updated: 2024-03-03 09:40 UTC
+! Updated: 2024-03-03 12:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -574,6 +574,7 @@
 /evidon-sitenotice-tag.js
 /exponea.min.js
 /ext/kmacookies/Resources/*
+/fcc-cookie-consent.min.js
 /feoCookies.min.js
 /feoCookiesGtmEvents.min.js
 /firebox-gdpr.js
@@ -23079,6 +23080,7 @@ zeelandhome.nl##.onderbalk
 hardware.info##.oreo
 deurbeslag-expert.nl##.pin-b.fixed
 koentact.nl##.popmake
+plus.nl##.popup-backdrop
 myshipper.nl##.popup_main
 pro-alarm.nl##.popupbuilder-widget-content
 wehkamp.nl##.position-fixed
