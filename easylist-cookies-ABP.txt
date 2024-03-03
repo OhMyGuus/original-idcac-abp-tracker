@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zKT6UhIvKg/KUVP13CygBw
+! Checksum: 0YwcNJdkU1jcd4nFoVFwVA
 ! Title: Easylist Cookie List
-! Updated: 2024-03-03 12:40 UTC
+! Updated: 2024-03-03 22:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18549,7 +18549,7 @@
 ||wpcc.io^$third-party
 ||x-c.eu^$third-party
 ! privacy-mgmt.com
-||cdn.privacy-mgmt.com^$domain=anisearch.com|anisearch.de|anisearch.es|anisearch.fr|anisearch.it|anisearch.jp|consent-manager.ft.com|idealo.co.uk|marketwatch.com|popsci.com|startsiden.no|taz.de|wsj.com
+||cdn.privacy-mgmt.com^$domain=anisearch.com|anisearch.de|anisearch.es|anisearch.fr|anisearch.it|anisearch.jp|consent-manager.ft.com|idealo.co.uk|marketwatch.com|popsci.com|startsiden.no|sussexexpress.co.uk|taz.de|wsj.com
 ! Consent Trackers
 ||opencmp.net^$script,third-party
 !--------------------------Specific blocking filters--------------------------!
