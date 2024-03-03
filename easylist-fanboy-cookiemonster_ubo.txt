@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gcM98zemX8fZGPSzyppiKg
+! Checksum: Owc1fXVFS8bsJsxmMn9Y5A
 ! Title: Easylist Cookie List
-! Updated: 2024-03-03 04:15 UTC
+! Updated: 2024-03-03 05:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22323,6 +22323,7 @@ crfop.gdos.gov.pl##+js(set-cookie, RODOclosed, true)
 nurgutes.de##+js(set-cookie, cookieDeclined, 1)
 kpcen-torun.edu.pl##+js(set-cookie, cookieModal, true)
 opintopolku.fi##+js(set-cookie, oph-mandatory-cookies-accepted, true)
+app.erevie.pl##+js(set-cookie, cookies-accept, 1)
 debenhams.com##+js(set-cookie, dw_is_new_consent, true)
 archiwumalle.pl##+js(set-cookie, accept_political, 1)
 konicaminolta.ca,konicaminolta.us##+js(set-cookie, konicaminolta.us, 1)
