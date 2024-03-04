@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AT2lDB7UaKla9GAwBRNISg
+! Checksum: 5PsdWopEq9kMYYv40CVlug
 ! Title: Easylist Cookie List
-! Updated: 2024-03-03 23:40 UTC
+! Updated: 2024-03-04 02:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21116,6 +21116,8 @@ aperitif.no,byggmesteren.as,cosmosmagazine.com,estatenyheter.no,forskning.no,for
 comparethemarket.com###__tealiumGDPRcpPrefs
 !! #consentManager
 mbgtc.de,privateproperty.co.za###consentManager
+!! #cookie-modal
+stat.fi,unesdoc.unesco.org,vkf-renzel.nl###cookie-modal
 !! #cknt
 1med.tv,mediasphera.ru,waldorf-expertenservice.de###cknt
 !! .cookie-consent-container
@@ -22974,7 +22976,6 @@ pensioenleeftijdberekenen.nl###ckpol
 cdh.be###comp-jkmod7cm
 denhaagfm.nl,gld.nl,omroepwest.nl,omroepzeeland.nl,omropfryslan.nl,rtvdrenthe.nl,rtvnoord.nl,rtvoost.nl,rtvutrecht.nl###consent-plugin
 targetsupport.nl###consentModal
-vkf-renzel.nl###cookie-modal
 ekoplaza.nl###cookie-prompt-modal___BV_modal_outer_
 l28.nl###cookie_popup_body
 doof.nl###cookiechoices
@@ -23146,7 +23147,6 @@ virtuaaltuur.tlu.ee##[style^="bottom: 0px; height: 50px;"]
 !
 sportamore.com###__next > div.MuiBox-root:last-of-type
 viddla.fi###cookie-info-wrap
-stat.fi###cookie-modal
 ecoprint.info,karkkikuja.fi,konejatarvike.com###cp_popup
 virtasenkauppa.fi###gtmCookieBanner
 kiinteistomaailma.fi###km-ccw
@@ -23453,6 +23453,7 @@ almaviva.it##.background-popup
 papersera.net##.black_overlay
 calcolostipendio.it##.bold_text
 bose.it##.bose-infoBar2016--fixedBottom
+masterinvendita.com,nuovenergiespa.it##.cboss_banner_container
 finanziariatosinvest.it##.cc-link
 buyon.it,codicesconto.com##.cc_placeholder
 likesx.com##.cent
@@ -24017,6 +24018,7 @@ gauchazh.clicrbs.com.br###privacy-tools-banner
 webmotors.com.br###root > .sc-bdVaJa
 rtp.pt###rtpgeralcookiecontent
 tjmg.jus.br###termo-uso
+imashop.com.br,toqueacampainha.com.br###vtex-lgpd-cookie
 xalingo.com.br###wrng-agrmnt
 fiat.com.br##.CookieHolder_container__23g0s
 morana.com.br##.DykGo.sc-crzoAE
