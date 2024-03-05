@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WJSXpitKWZBoFRzClQKAog
+! Checksum: vLi7DlI+M+W6euR2JVd3ig
 ! Title: Easylist Cookie List
-! Updated: 2024-03-04 21:40 UTC
+! Updated: 2024-03-05 01:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20933,6 +20933,7 @@ santatracker.google.com##SANTA-NOTICE
 trustnet.com##USER-TYPE-POPUP
 dollarshaveclub.com##[aria-describedby="banner-description"]
 lemonade.com##[aria-describedby="cookie-consent-description"]
+ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 1password.com##[aria-label="Cookie Consent"]
 perlego.com##[aria-label="cookie banner"]
 norwegianholidays.com##[aria-label="cookieconsent"]
@@ -22864,9 +22865,13 @@ store.ubisoft.com##+js(set-cookie, UBI_PRIVACY_POLICY_ACCEPTED, true)
 store.ubisoft.com##+js(set-cookie, UBI_PRIVACY_POLICY_VIEWED, true)
 store.ubisoft.com##+js(set-cookie, UBI_PRIVACY_VID_OPTOUT, false)
 store.ubisoft.com##+js(set-cookie, UBI_PRIVACY_VIDEO_OPTOUT, false)
+ba.com,britishairways.com##+js(set-cookie, BRITISHAIRWAYS_ENSIGHTEN_PRIVACY_MODAL_VIEWED, 1)
+ba.com,britishairways.com##+js(set-cookie, BRITISHAIRWAYS_ENSIGHTEN_PRIVACY_MODAL_LOADED, 1)
 ba.com,britishairways.com##+js(set-cookie, BRITISHAIRWAYS_ENSIGHTEN_PRIVACY_BANNER_LOADED, 1)
 ba.com,britishairways.com##+js(set-cookie, BRITISHAIRWAYS_ENSIGHTEN_PRIVACY_BANNER_VIEWED, 1)
 ba.com,britishairways.com##+js(set-cookie, BRITISHAIRWAYS_ENSIGHTEN_PRIVACY_Functional, 1)
+ba.com,britishairways.com##+js(set-cookie, BRITISHAIRWAYS_ENSIGHTEN_PRIVACY_Marketing, 0)
+ba.com,britishairways.com##+js(set-cookie, BRITISHAIRWAYS_ENSIGHTEN_PRIVACY_Analytics, 0)
 cineman.pl,tv-trwam.pl##+js(set-cookie, ARE_FUNCTIONAL_COOKIES_ACCEPTED, true)
 cineman.pl,tv-trwam.pl##+js(set-cookie, ARE_MARKETING_COOKIES_ACCEPTED, true)
 cineman.pl,tv-trwam.pl##+js(set-cookie, ARE_REQUIRED_COOKIES_ACCEPTED, true)
