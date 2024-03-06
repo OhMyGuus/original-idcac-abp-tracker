@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: y+yvdR0T2eaJQuPq85VsQA
+! Checksum: 4x0IJ12uQqZ3NKBxmrxl2A
 ! Title: Easylist Cookie List
-! Updated: 2024-03-05 14:40 UTC
+! Updated: 2024-03-06 03:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24559,6 +24559,7 @@ sdelsol.com##.COOKIES
 revistacromos.com.co##.Cookies-containerGeneral
 talixo.es##.FloatingBoxesContainerBottom
 liveagent.com##.Kolaciky
+mitelcel.com##.MTM-banner-cookies
 telehit.com,televisa.com##.Privacy
 miravia.es##._container_1pm0r_1
 dkv.es##.ajax-progress
