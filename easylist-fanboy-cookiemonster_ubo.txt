@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: i20L9vAsab2enkAAo2Itqg
+! Checksum: SQ47lo1mEImVPt1XLVHc7w
 ! Title: Easylist Cookie List
-! Updated: 2024-03-06 22:15 UTC
+! Updated: 2024-03-07 01:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22825,6 +22825,7 @@ e-dojus.lv##+js(set-cookie, pc234978122321234, 1)
 burnesspaull.com##+js(set-cookie, ck_pref_all, 1)
 oncosur.org##+js(set-cookie, ONCOSURCOOK, 2)
 photobooth.online##+js(set-cookie, cookie_accepted, true)
+epidemicsound.com##+js(set-cookie, hasSeenCookieDisclosure, true)
 ryanair.com##+js(set-cookie, RY_COOKIE_CONSENT, true)
 refurbished.at,refurbished.nl,refurbished.be,refurbishedstore.de##+js(set-cookie, COOKIE_CONSENT, 1, , reload, 1)
 refurbished.at,refurbished.nl,refurbished.be,refurbishedstore.de##+js(set-cookie, COOKIE_STATIC, false)
@@ -23840,8 +23841,8 @@ stickypassword.com##+js(set-cookie, ad_storage, denied)
 stickypassword.com##+js(set-cookie, stickyCookiesSet, true)
 stickypassword.com##+js(set-cookie, analytics_storage, denied)
 !! .c--anim
-vesely-drak.cz,consordini.com,fitzmuseum.cam.ac.uk,hotdk2023.kre.hu,panwybierak.pl,bomagasinet.dk,miplantaweb.com,electronics.semaf.at,sfd.pl,flota.es,jobs.cz,prace.cz,eninternetgratis.com,unavidadeviaje.com,unavidadeviaje.com##.c--anim
-vesely-drak.cz,consordini.com,fitzmuseum.cam.ac.uk,hotdk2023.kre.hu,panwybierak.pl,bomagasinet.dk,miplantaweb.com,electronics.semaf.at,sfd.pl,flota.es,jobs.cz,prace.cz,eninternetgratis.com,unavidadeviaje.com,unavidadeviaje.com##body,html:style(overflow: auto !important; position: initial !important;)
+liftshare.com,vesely-drak.cz,consordini.com,fitzmuseum.cam.ac.uk,hotdk2023.kre.hu,panwybierak.pl,bomagasinet.dk,miplantaweb.com,electronics.semaf.at,sfd.pl,flota.es,jobs.cz,prace.cz,eninternetgratis.com,unavidadeviaje.com,unavidadeviaje.com##.c--anim
+liftshare.com,vesely-drak.cz,consordini.com,fitzmuseum.cam.ac.uk,hotdk2023.kre.hu,panwybierak.pl,bomagasinet.dk,miplantaweb.com,electronics.semaf.at,sfd.pl,flota.es,jobs.cz,prace.cz,eninternetgratis.com,unavidadeviaje.com,unavidadeviaje.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! conversion-rate-experts.com
 conversion-rate-experts.com##+js(set-cookie, user_experience_cookie_consent, false)
 conversion-rate-experts.com##+js(set-cookie, marketing_cookie_consent, false)
@@ -26793,6 +26794,7 @@ indire.it###bannerContent
 agenziademanio.it###bannerInfo
 lattealberti.it###barra-policy
 cosedicasa.com###blur-bg
+easyparkingbologna.it###bnrcks
 ondarock.it###bottom-banner
 prezzoforte.it###bottombar
 corsi.aiv01.it###box-verify
