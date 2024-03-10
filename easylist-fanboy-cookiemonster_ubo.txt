@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rQNZVSlhrj4F1wUsUGfdAA
+! Checksum: OUxOXR3caMaaRAlqRJUt0g
 ! Title: Easylist Cookie List
-! Updated: 2024-03-10 09:15 UTC
+! Updated: 2024-03-10 22:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22086,6 +22086,7 @@ winparts.be,winparts.eu,winparts.fr,winparts.ie,winparts.nl,winparts.se##+js(rc,
 sportano.sk,sportano.de,sportano.bg,sportano.hu,sportano.ro,sportano.cz##+js(rc, cookie-overlay-active, body, stay)
 klinik-am-ring.de##+js(rc, cookiebanner-body, body, stay)
 igmetall.de##+js(rc, cookie-overlay, body, stay)
+ivass.it##+js(rc, ivass-no-cookie, body, stay)
 onelottery.co.uk,yourschoollottery.co.uk,rainbowlottery.co.uk##+js(rc, cookie-popup-visible, body, stay)
 idg.se##+js(rc, idgcp__layer--active, html, stay)
 gearaid.com##+js(rc, cc-scrolling-disabled, body, stay)
