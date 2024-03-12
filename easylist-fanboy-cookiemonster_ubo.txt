@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iouGPYKERWXWC1HNJcgH5g
+! Checksum: pvm4bjqVk0xe9ad7FTJDhw
 ! Title: Easylist Cookie List
-! Updated: 2024-03-11 23:40 UTC
+! Updated: 2024-03-12 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18675,7 +18675,6 @@
 ||sourcepoint.dexerto.com^
 ||sourcepoint.gizmodo.com^
 ||sourcepoint.jalopnik.com^
-||sourcepoint.lifehacker.com^
 ||sourcepoint.theonion.com^
 ||sourcepoint.theroot.com^
 ||sourcepoint.thetakeout.com^
