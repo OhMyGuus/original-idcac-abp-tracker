@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: A8+CHTmuvd5hS2rUvEaTOA
+! Checksum: K+CkP5zK6b5QfgZhecf98A
 ! Title: Easylist Cookie List
-! Updated: 2024-03-16 11:15 UTC
+! Updated: 2024-03-16 12:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20274,6 +20274,7 @@ uizard.io##.kCsINM
 app.resmio.com##.kGlvNA.sc-gxYJeL
 hootsuite.com##.kUxIsB
 sms.esimplus.me##.kVTekw
+kilimall.co.ke,kilimall.co.tz##.k__cookie-popup
 play.acast.com##.kaNSQD
 sikkasoft.com##.kb-container
 theculturetrip.com##.kcTwAg
