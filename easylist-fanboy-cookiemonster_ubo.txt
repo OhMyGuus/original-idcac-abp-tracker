@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: H3sLXA2CelsEhknmd29GTQ
+! Checksum: f8kaK9kzu95eNXJ+1lashA
 ! Title: Easylist Cookie List
-! Updated: 2024-03-16 22:40 UTC
+! Updated: 2024-03-16 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19009,6 +19009,7 @@ teamcoco.com###ft
 shbarcelona.com###full_screen_div_cookies_layer
 musicmap.info###fullscreen-overlay
 play.google.com###gb > div[style*="background-color"]
+wallarm.com###gdpr_banner_container
 flooringsuppliescentre.co.uk###gdpr_cookie-mainWrapp
 myedit.online###gdpr_notes
 jagranjosh.com,mid-day.com###gdprbx
@@ -22182,6 +22183,7 @@ greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_conse
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at##+js(set-cookie, cookieconsent_status, allow)
 ilsaggiatore.com##+js(set-cookie, cookies_analytics_enabled, 0, , reload, 1)
+makeresearchpay.com##+js(set-cookie, user_cookie_consent, false, , reload, 1)
 radicalmotorsport.com##+js(set-cookie, __radicalMotorsport.ac, true)
 biurobox.pl##+js(set-cookie, cookies_message_bar_hidden, true)
 cycling74.com##+js(set-cookie, acceptsCookies, false)
