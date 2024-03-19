@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: v8ROOfc09nqG6ckvmqLcQg
+! Checksum: beWP29T9eBssCT8jGpCVvA
 ! Title: Easylist Cookie List
-! Updated: 2024-03-19 02:40 UTC
+! Updated: 2024-03-19 09:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -807,6 +807,8 @@
 /popupcookieinit.js
 /popupcookies.js
 /pp-cookie-banner/CookieBannerWithContentBlocker/main.js
+/ppw_cookie/Resources/Public/Build/app.js
+/ppw_cookie/Resources/Public/Build/cookie.css
 /prettycookies.js
 /privacy-banner.js
 /privacy-banner/storefront-banner.js
@@ -2959,6 +2961,7 @@
 ###cookie-bottom-bar
 ###cookie-bottom-content
 ###cookie-bottom-layer
+###cookie-bottom-popup
 ###cookie-box
 ###cookie-box-info
 ###cookie-btn
@@ -6385,6 +6388,7 @@
 ###gPrivacyPanelFrame
 ###gServiceCookie
 ###g_cookieNotification
+###ga-cookie-policy-wrapper
 ###gabCookieNote
 ###gabarit_cnilcookie
 ###gacookiemessage
@@ -10996,6 +11000,7 @@
 ##.container_content_cookie
 ##.container_cookie
 ##.container_cookies
+##.container_cookies_alert
 ##.container_modal_cookies
 ##.contao-cookiebar
 ##.contcookies
