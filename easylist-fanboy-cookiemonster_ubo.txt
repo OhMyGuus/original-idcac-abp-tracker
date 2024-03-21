@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aQkgnTZm8ZEAnnQVzTl4zA
+! Checksum: M8jwKtlV0jz6S5hlSxbfpw
 ! Title: Easylist Cookie List
-! Updated: 2024-03-21 00:40 UTC
+! Updated: 2024-03-21 02:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20647,6 +20647,7 @@ espn.com##.promo-banner-container
 loggly.com##.promotion
 poundshop.com##.promotion-strip-wrapper
 newscientist.com##.prompt
+fonepaw.com##.prompt-box
 hyundaicanada.com##.province-selector
 compuprint.com##.pryck
 goodrx.com##.pt-10
