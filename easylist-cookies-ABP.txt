@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QBo70+uowoCLFCc/2wD6wA
+! Checksum: /RaytzVFGLG90CvzUOJtdA
 ! Title: Easylist Cookie List
-! Updated: 2024-03-23 06:40 UTC
+! Updated: 2024-03-23 15:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -14164,6 +14164,7 @@
 ##.gb-cookie-consent
 ##.gb-cookies
 ##.gb-gnb__notice-bar
+##.GBaseGDPRConsentDialog
 ##.gbi-cookiebar
 ##.gbp-cookieinfo
 ##.gc_message_bar_bottom
@@ -23193,7 +23194,6 @@ virtasenkauppa.fi###gtmCookieBanner
 kiinteistomaailma.fi###km-ccw
 napsu.fi###napsu_cc
 br-automation.com###siwa-cookiebar
-apteekkiverkkokauppa.fi##.GBaseGDPRConsentDialog
 print24.com##.ModalSubModule_overlay__qg9IL
 lehtodigital.fi##.__ld_cookies
 hk.fi##.animate.mask
