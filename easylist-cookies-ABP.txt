@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AH9S/8g0a74aiqer6uMbag
+! Checksum: 0nBIcWWG6m62LjaxHBOayQ
 ! Title: Easylist Cookie List
-! Updated: 2024-03-24 22:15 UTC
+! Updated: 2024-03-25 04:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20994,6 +20994,7 @@ fischer-technology.com##[data-ajax-loading="false"]
 myworkdayjobs.com##[data-automation-id="legalNotice"]
 uber.com##[data-baseweb="toaster"]
 ticketmaster.com##[data-bdd="terms-of-use"]
+nature.com##[data-cc-banner]
 abc.net.au##[data-component="CookieBanner"]
 jdslabs.com##[data-component="cookieBanner"]
 koenigsegg.com##[data-component="n3-cookie-notice"]
