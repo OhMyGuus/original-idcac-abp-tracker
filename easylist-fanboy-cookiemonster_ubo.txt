@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bMcNJma0ri6llfiiBhs5Sw
+! Checksum: tV6Mf/rnZWVJyPhpFvgjWQ
 ! Title: Easylist Cookie List
-! Updated: 2024-03-26 16:40 UTC
+! Updated: 2024-03-26 18:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23991,7 +23991,7 @@ heycar.co.uk##.Consent_cookieModal__IcNAf
 heycar.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 ! deichmann.com# (on select regional of deichmann.com)
 ||delivery.consentmanager.net^
-deichmann.com##body:style(overflow: auto !important;
+deichmann.com##body:style(overflow: auto !important;)
 ! cunardcruceros.com
 cunardcruceros.com##.prtltmmc-popup
 cunardcruceros.com##body:style(overflow: auto !important; position: initial !important;)
