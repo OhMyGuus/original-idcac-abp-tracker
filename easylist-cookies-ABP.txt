@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QUJiOR/pkBRHlA3scyhnbA
+! Checksum: MD04aspB0QuPFZK0Swb84g
 ! Title: Easylist Cookie List
-! Updated: 2024-03-27 03:15 UTC
+! Updated: 2024-03-27 04:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22725,6 +22725,7 @@ atlant.by##.confirm-panel
 shate-m.by##.cookie-alert-show
 ostrov-chistoty.by,ostrov-shop.by##.modal-delivery-data-data
 ostrov-chistoty.by,ostrov-shop.by##.modal-delivery-data-data-w
+domain.by##.notice-ck-wrapper
 minsk2019.by##.notification-container
 profit.by##.policy-footer
 oma.by##.popover-wrapper
