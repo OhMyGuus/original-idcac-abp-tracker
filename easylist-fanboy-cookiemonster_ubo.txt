@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: B7VoHOqqIMr8L1cvDjrNgg
+! Checksum: qTCLL5EWCpHSPqUxay1ryw
 ! Title: Easylist Cookie List
-! Updated: 2024-03-27 10:15 UTC
+! Updated: 2024-03-27 21:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18761,6 +18761,7 @@ ups.com###__tealiumImplicitmodal
 coloradocollege.edu###_pc
 tuya.com###_th-trust
 abramsbooks.com###abr_cookie_modal
+grantwatch.com###ac-wrapper
 jemako.com###acb-wrapper
 presta-module.com###acbModal
 brulocalis.brussels###acc-bottom
