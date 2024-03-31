@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7lLq8JD+r/9KkrspLvzLUw
+! Checksum: zuboOa3ub3uOCbPA/Xnl2Q
 ! Title: Easylist Cookie List
-! Updated: 2024-03-31 01:15 UTC
+! Updated: 2024-03-31 02:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -18679,6 +18679,7 @@
 ||sourcepoint.theonion.com^
 ||sourcepoint.theroot.com^
 ||sourcepoint.thetakeout.com^
+||steelseries.com/static/css/eu-osano.
 ||storage-mart.com/sm-policy-banner.js
 ||stromnetz-hamburg.de/matomo/js/
 ||synology.com/js/syno/syno_cookie_element.js
@@ -20721,7 +20722,6 @@ saleor.io##.sc-cooIXK
 safetyculture.com##.sc-cookie-pop
 scorpion.co##.sc-cookie-popup
 amplerbikes.com##.sc-edLOhm
-leibniz.com##.sc-hAsxaJ
 privfile.com##.sc-noti-banner
 travelrepublic.ie##.sc-u-padding-y-m
 trade.bisonapp.com##.sc-ywFzA
