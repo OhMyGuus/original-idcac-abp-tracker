@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7Mz2z5GLJf0PkOHsKLmKvw
+! Checksum: jmwhyDFm70aWSKffoa+NjA
 ! Title: Easylist Cookie List
-! Updated: 2024-04-01 22:15 UTC
+! Updated: 2024-04-02 03:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24846,7 +24846,7 @@ nipa.co.th###cookie-con-head
 settrade.com###pdpa-policy
 siamsport.co.th###popup-ss
 sanook.com##.Pdpa
-thailandpost.co.th##.becookies-outer-container
+pruksa.com,thailandpost.co.th##.becookies-outer-container
 vroom.truevirtualworld.com##.card-cookie
 thaiza.com##.ck-acpt-container
 dict.longdo.com##.consent-div
