@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2t8hG6lbx390QIXrwYk/Zw
+! Checksum: fNACLZltt9fEEMYuE71xRQ
 ! Title: Easylist Cookie List
-! Updated: 2024-04-07 11:15 UTC
+! Updated: 2024-04-07 12:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21143,6 +21143,7 @@ bosch-professional.com##dock-privacy-settings
 angular.dev##docs-cookie-popup
 fi.google.com##fi-cookie-consent
 welcome.sparxmaths.uk##footer
+jovemnerd.com.br##footer + div[style="position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 999; background-color: rgba(0, 0, 0, 0.3);"]
 getgreatcareers.com##gc-accept-cookie
 gcore.com##gcore-cookies-settings
 globalsolaratlas.info##gsa-cookie-banner
