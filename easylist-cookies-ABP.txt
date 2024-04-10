@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CUK+l8n5D53nt52qB6AelQ
+! Checksum: R4HS6RXAycs60zSx6NHBsg
 ! Title: Easylist Cookie List
-! Updated: 2024-04-10 09:40 UTC
+! Updated: 2024-04-10 12:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -728,6 +728,7 @@
 /lgpd/cookie.js
 /lin_gdpr_cookiejar.js
 /ll_cookie_bar.js
+/LmcCookieConsentManager.min.css
 /loadcookieconsent.js
 /loom-cookie.js
 /loom_cookie.block.js
@@ -7854,6 +7855,7 @@
 ###panCookieContainer
 ###panCookieRequest
 ###pan_cookies
+###pandectes-banner
 ###panel-cookie
 ###panel-cookie-usage
 ###panel-cookies
@@ -25275,6 +25277,7 @@ ants.vn##.sg-popup-content
 !
 ||cookies.teraz.sk^
 ||posta.sk/cookies-consents/v1/cookies-consents.js
+||profesia.sk/assets/js/cookie_consent_
 !
 ! ---------- Slovenian ----------
 !
