@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: C03eZJarV5ODVvxhkqD5Dg
+! Checksum: edYSh74d2bGMi8Rmp4dRJg
 ! Title: Easylist Cookie List
-! Updated: 2024-04-13 11:40 UTC
+! Updated: 2024-04-13 15:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24899,6 +24899,7 @@ becteroradio.com,teroradio.com##.policy
 toyota.co.th##.popup__pdpa
 thunhoon.com##.privacy-concern
 pantip.com##.pt-snackbar__surface
+scbam.com##.scbam-modal-list_b004
 bnn.in.th##.the-pdpa-consent-bar
 punpro.com##div[class^="CookieSession"]
 !
@@ -24966,7 +24967,6 @@ gedik.com##.protectionOfData
 cci.com.tr##.res-bottom-bar
 zipatotr.com##.sabitkvkk
 blablacar.com.tr##.sc-mqugsu-0.eejIlc
-scbam.com##.scbam-modal-list_b004
 ups.com.tr##.stickfooter
 abone.com.tr,kargomsende.com,tdp.com.tr,turkuvazabone.com##.sticky-footer
 fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltBar
