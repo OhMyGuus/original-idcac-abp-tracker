@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hhKZ1eibcTG8NRNpsTB+aw
+! Checksum: viAMReFcTS6y0rTq5CL+uQ
 ! Title: Easylist Cookie List
-! Updated: 2024-04-16 00:15 UTC
+! Updated: 2024-04-16 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -25781,7 +25781,7 @@ fahrschulefuerth.de##.cc-info--closed
 bresser.de##.cc-modal-backdrop
 aussenrollo.de##.cc-screen
 boltenhagen.reisen##.cc_overlay
-bszam.de,poppen.de##.ccm-root
+bszam.de,glarus24.ch,poppen.de##.ccm-root
 bwv-stuttgart.de##.ce-cookieconsent
 bluesnews.de##.ce_rsce_oneo_fixed_note
 foodjobs.de##.ckOuter
