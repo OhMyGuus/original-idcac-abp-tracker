@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ShEPsb41CigHab8HKHdaaw
+! Checksum: /U8m2CjSRTKW8Bq7yN5Oyw
 ! Title: Easylist Cookie List
-! Updated: 2024-04-16 23:40 UTC
+! Updated: 2024-04-17 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22245,6 +22245,7 @@ greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_conse
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 privatekeys.pw##+js(set-cookie, cookie_consent_closed, 1)
+guide-bordeaux-gironde.com##+js(set-cookie, cookieConsent-2023-03, false)
 gdpr.twitter.com##+js(set-cookie, twtr_pixel_opt_in, N)
 mora.hu##+js(set-cookie, RBCookie-Alert, 1)
 confused.com##+js(set-cookie, CookieConsentV4, false)
