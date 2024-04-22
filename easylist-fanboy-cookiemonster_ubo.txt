@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZvkFEKGIpeddy72KLKyKnQ
+! Checksum: U7Rrqp4DwEbZ2S5Z0XCyxA
 ! Title: Easylist Cookie List
-! Updated: 2024-04-22 03:15 UTC
+! Updated: 2024-04-22 11:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -28965,7 +28965,7 @@ vocearancio.ing.it#@#.banner-cookie
 mistertennis.com#@#.banner_cokie
 chronicle.com#@#.bcpNotificationBar
 volantino.carrefour.it#@#.c-cookie
-klinkercentrum.cz,openfiber.it,rete.toscana.it,supertennis.tv#@#.cc-banner
+biomedcentral.com,klinkercentrum.cz,openfiber.it,rete.toscana.it,supertennis.tv#@#.cc-banner
 cyberforum.de,hartmanngruppe.net#@#.cc-floating
 bryzgunoff-photography.de,msa-berlin.de,sahne-band.de#@#.cc-individual-cookie-settings
 hartmanngruppe.net,rete.toscana.it#@#.cc-revoke
