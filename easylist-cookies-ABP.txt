@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: j8mLd3v1pwCxu97fP19EPg
+! Checksum: Xve96c5ctlz0sNT7RR4WcA
 ! Title: Easylist Cookie List
-! Updated: 2024-04-23 19:15 UTC
+! Updated: 2024-04-23 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21999,7 +21999,7 @@ laboratoire-cellmade.fr#@##cookiesPop
 ba.com,britishairways.com#@##ensModalWrapper[role]
 ba.com,britishairways.com#@##ensNotifyBanner
 n26.com#@##gdpr-notice
-mobiliteit.nl#@##gdpr-overlay
+automobielmanagement.nl,automotive-online.nl,carwashpro.nl,dagvandeinfra.nl,fleet-mobility.nl,infrasite.nl,mobiliteit.nl,promedia.nl,rijschoolpro.nl,spoorpro.nl,tankpro.nl,taxipro.nl,zelfrijdendvervoer.nl#@##gdpr-overlay
 cremas-caseras.es,whyopencomputing.com#@##idxrcookies
 pathe.nl#@##js-cookie-popup
 beko.com,thetrainline.com#@##onetrust-banner-sdk
