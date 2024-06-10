@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9QplUQLcKB31S3nV2UDDBA
+! Checksum: K4/cCCZ7T75OgsnFbGXNTQ
 ! Title: Easylist Cookie List
-! Updated: 2024-06-10 19:40 UTC
+! Updated: 2024-06-10 20:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22271,7 +22271,9 @@ greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_conse
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 privatekeys.pw##+js(set-cookie, cookie_consent_closed, 1)
+reservations.helveticmotion.ch##+js(set-cookie, decline, true, , , reload, 1)
 srf.nu##+js(set-cookie, CookieConsent, necessary)
+rovia.es##+js(set-cookie, cookiesAccepted, 1)
 airnewzealand.co.nz##+js(set-cookie, airTRFX_cookies, accepted)
 viu.com##+js(set-cookie, cookie_consent_accept, true)
 dinamalar.com##+js(set-cookie, agree, true)
@@ -26121,6 +26123,7 @@ gartengeraete-onlineshop.de##.z-100.py-6.max-h-screen
 moebel.de##.z-\[1000\].fixed
 swu.de##[class*="-banner"]
 gutscheine.de##[data-ssr-consent]
+notebooksbilliger.de##[data-testid="uc-app-container"]
 meinungsstark.de##[role="dialog"]
 cecil.de##consent-layer
 puerner.de##dialog[style="border-color:lightgray;border-width:2px;border-radius:6px;"]
