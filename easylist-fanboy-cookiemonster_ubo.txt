@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xh/gnsYMf5ALAHy0y7hzuw
+! Checksum: kPBOq+/NlNRMD0fQW6gZ2g
 ! Title: Easylist Cookie List
-! Updated: 2024-06-30 05:15 UTC
+! Updated: 2024-06-30 06:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24555,6 +24555,8 @@ groupeonepoint.com##+js(rc, noScroll, , stay)
 ! edpsciences.org
 edpsciences.org##+js(rc, cookie_notification, , stay)
 edpsciences.org##.mobile
+!  xv-ru.com
+xv-ru.com##+js(set, xv.disclaimer.displayCookiePopup, noopFunc)
 ! seriesmania.com
 seriesmania.com##.popin-overlay
 seriesmania.com##body,html:style(overflow: auto !important; position: initial !important;)
@@ -28008,6 +28010,7 @@ upread.ru###kuk
 volnamobile.ru###message-block-cookie
 alfazdrav.ru###modalcookie
 forum-windows.net###ntf
+stentex.ru###overlay
 rosbank.ru###personal-data-processing
 hyundai-electronics.com.ru,iru.ru###policyBlockForFirstVisit
 antiplagiat.ru###policyConfirmation
