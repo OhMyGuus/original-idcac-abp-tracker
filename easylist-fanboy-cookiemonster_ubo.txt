@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: D5VzG2Ac3VrtRf+3x8jt1g
+! Checksum: LXj3hygQB21EDC+3mK67KA
 ! Title: Easylist Cookie List
-! Updated: 2024-07-01 19:15 UTC
+! Updated: 2024-07-01 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -27991,6 +27991,7 @@ leroymerlin.ro##.loader
 caricaturist-la-evenimente.ro,greencleaning.ro##.m-wrapper-bg--glass
 verasys.ro##.sticky-alert
 altex.ro##.z-1050
+pressone.ro##[style="position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 1040;"]
 !
 ! ---------- Russian ----------
 !
