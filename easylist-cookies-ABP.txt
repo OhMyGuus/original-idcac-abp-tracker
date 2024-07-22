@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8uzvFzagGUbqzjSzleHB0Q
+! Checksum: FpUHo3lev0oz9IfAfXlzfg
 ! Title: Easylist Cookie List
-! Updated: 2024-07-21 23:40 UTC
+! Updated: 2024-07-22 11:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23532,6 +23532,7 @@ torshavn.fo##.sucd-banner
 !
 ! ---------- Indian ----------
 !
+gujaratsamachar.com##.CookiesModel
 sbilife.co.in##.header-text-contener
 dinamalar.com##.quickslide
 jiosaavn.com##.site-message-container
