@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zyzrVRQBs3u9Y3rt6hYt7w
+! Checksum: mGexiLzjn+OVlTtfdmH0uQ
 ! Title: Easylist Cookie List
-! Updated: 2024-08-18 12:15 UTC
+! Updated: 2024-08-18 13:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -12127,7 +12127,6 @@
 ##.cookieFooter
 ##.cookieFooterDiv
 ##.cookieFooterbg
-##.cookieForm
 ##.cookieForward
 ##.cookieGate
 ##.cookieGco
@@ -22361,6 +22360,9 @@ marinelink.com##+js(set-cookie, GDPR, 9)
 thegraph.com##+js(set-cookie, cookie-consent, false)
 hiermitherz.de##+js(set-cookie, cookie_alert, true)
 easywintergarten.de##+js(set-cookie, chcCookieHint, 1, , reload, 1)
+vinothekwaespi.ch##+js(set-cookie, accept-selected-cookies, true, , reload, 1)
+vinothekwaespi.ch##+js(set-cookie,cookiePreferences, true)
+vinothekwaespi.ch##+js(set-cookie,necessary, true)
 graphy.com##+js(set-cookie, has_accepted_cookies, true)
 raspberrypi.dk##+js(set-cookie, cs_viewed_cookie_policy, yes)
 ocean.io##+js(set-cookie, cookies, false)
@@ -23333,6 +23335,7 @@ schneidewind-immobilien.de##+js(set-local-storage-item, pcClosedOnce, true)
 textshuttle.com##+js(set-local-storage-item, textshuttle_cookie, false)
 simpleswap.io##+js(set-local-storage-item, cookies-notification-message-is-hidden, true)
 wales.nhs.attendanywhere.com##+js(set-local-storage-item, cookieBanner, false)
+sacal.it##+js(set-local-storage-item, cookieBanner, true)
 astondevs.ru##+js(set-local-storage-item, banner, true)
 comnet.com.tr##+js(set-local-storage-item, cookieConsent, true)
 gonxt.com##+js(set-local-storage-item, isAllowCookies, true)
