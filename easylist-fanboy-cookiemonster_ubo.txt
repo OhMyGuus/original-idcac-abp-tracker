@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bd7B+8/+yBBwXsgQt3wMSw
+! Checksum: +MmNpWytnB6YKTqOxjgDxA
 ! Title: Easylist Cookie List
-! Updated: 2024-08-19 10:15 UTC
+! Updated: 2024-08-19 10:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23297,6 +23297,7 @@ nhnieuws.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 nhnieuws.nl##+js(set-local-storage-item, psh:cookies-social, true)
 column.com##+js(set-local-storage-item, cookieAllowed, false)
 jito.network##+js(set-local-storage-item, hasConsentedPH, no)
+canonvannederland.nl##+js(set-local-storage-item, z_cookie_consent, true)
 my-account.storage-mart.com##+js(set-local-storage-item, StorageMartCookiesPolicySeen, true)
 santander.rewardgateway.co.uk##+js(set-cookie, cookie_preferences, 10)
 news.abs-cbn.com##+js(set-cookie, uninavIsAgreeCookie, true)
