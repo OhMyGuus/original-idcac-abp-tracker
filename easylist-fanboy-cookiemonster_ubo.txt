@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kyuJWw93TeNgArDyVrF/wA
+! Checksum: 4pyKdiAQPsBtv+cd7Nv6gQ
 ! Title: Easylist Cookie List
-! Updated: 2024-08-22 22:40 UTC
+! Updated: 2024-08-23 00:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -26523,6 +26523,7 @@ mazout-on-line.be,proxifuel.be##.cl-banner
 lamaisondusureau.com##.cmp-popin
 10doigts.fr##.cmp-wrapper
 utilemploi.fr##.cognito2
+babelmed.net##.consent-block-site
 inc-conso.fr##.consent-modal-content
 immo-leclercq.com##.consent_info
 lirelactu.fr##.container-0-5
