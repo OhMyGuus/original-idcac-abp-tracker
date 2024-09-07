@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RBqhufNdjTF1ADxU3KvGag
+! Checksum: QlwW3jLuOMIru2e13s/MhQ
 ! Title: Easylist Cookie List
-! Updated: 2024-09-07 07:15 UTC
+! Updated: 2024-09-07 12:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22650,6 +22650,7 @@ weather.com##+js(set-cookie, __adblocker, false, , reload, 1)
 bolist.se##+js(set-cookie, cookies_marketing_ok, false)
 bolist.se##+js(set-cookie, cookies_ok, true)
 evivanlanschot.nl##+js(set-cookie, acceptCookies, 0)
+alohabrowser.com##+js(set-cookie, acceptCookie, 1)
 prenatal.nl##+js(set-cookie, marketingCookies, false)
 wagner-tuning.com##+js(set-cookie, CookieLaw_statistik 0)
 wagner-tuning.com##+js(set-cookie, CookieLaw_komfort, 0)
