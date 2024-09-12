@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0uYLysB58jgJlTnFarql0w
+! Checksum: Bp6m+0412nopeMw24vcISA
 ! Title: Easylist Cookie List
-! Updated: 2024-09-11 22:40 UTC
+! Updated: 2024-09-12 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23509,7 +23509,7 @@ safe.global##+js(set-local-storage-item, safe.global, false)
 jibjab.com##+js(set-local-storage-item, cookie_banner:hidden, true)
 filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)
 vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)
-betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)
+engineering.mixpanel.com,betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)
 kick.com##+js(set-local-storage-item, kick_cookie_accepted, true)
 jimdosite.com##+js(set-local-storage-item, cookies-selected, true)
 thingtesting.com,streamclipsgermany.de##+js(set-local-storage-item, cookiesAccepted, true)
