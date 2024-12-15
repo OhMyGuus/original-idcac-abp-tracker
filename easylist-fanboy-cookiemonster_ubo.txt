@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Bn/GzCmzXFRT+03JTddTzw
+! Checksum: fH5DuvEdx9ZQfvzFWfZ6yA
 ! Title: Easylist Cookie List
-! Updated: 2024-12-14 22:40 UTC
+! Updated: 2024-12-15 01:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -5940,36 +5940,27 @@
 ###dvt_cookiechoiceinfo
 ###dx-coki
 ###dxCookieConsentContainer
-###dxm_ckScr_injected
-###dy-cookieInfo-container
-###dy_cookiebar_001
 ###dynamic-cookies-bar
 ###dynamic-cookies-bar-overlay
 ###dywc
 ###dywc_bglayer
 ###e-privacy-message
 ###e2e-cookie-banner
-###e3cookie
-###e3cookie-banner-container
 ###eCookieConsentDialog
 ###eCookieMsg
-###eKPC_Container
 ###ePrivacy
 ###ePrivacyBanner
 ###ePrivacyDisclaimer
-###eStore_gdpr
 ###e_cookieWarning
 ###eac_cookie_message
 ###eafw-cookies
-###eagerly-tools-cookie-overlay
+###eagerly-tools-cookie
 ###easy-cookies-policy-main-wrapper
 ###easyCookie
 ###easycookieinfo
 ###eawe_cookies_info
-###ebsninjabar-cookie-bar
 ###ebutoo-easy-dsgvo-cookie-popup
 ###ec-cookie-messages-container
-###ec-popup-modal[style="display:block"]
 ###ecd_opt_in_banner
 ###ecl-notice
 ###ecl-notification
@@ -5985,7 +5976,6 @@
 ###ed-gdpr-cookie-bar
 ###edcCookiesPolicyBanner
 ###edp-cookies-banner
-###edp_Cookies_Disclaimer_Banner
 ###edunetCookies
 ###ee-cookies-message
 ###eea-confirmation-outer
@@ -6024,11 +6014,6 @@
 ###enablecookies
 ###enedue_cookieBox
 ###enhanced-privacy-popup
-###ensBannerBG
-###ensConsentWidget
-###ensModalWrapper[aria-labelledby*="Consent"]
-###ensModalWrapper[role]
-###ensNotifyBanner
 ###ens_pr_mini.ens_pr_mini
 ###entryCookie:not(body)
 ###eocookie
@@ -13622,9 +13607,6 @@
 ##.enerjisa-cerez-politikasi-cookie-bar
 ##.eng_cookie_inner
 ##.enhanced-privacy-cookie-policy
-##.ensModalBackdrop
-##.ensNotifyBanner
-##.ensNotifyBannerWrapper
 ##.ensureCookie
 ##.env-modal-cookies
 ##.eocookie
@@ -18598,6 +18580,7 @@ tenerife-guided-walks.com###dmPopup
 tenerife-guided-walks.com###dmPopupMask
 dobbies.com###dobbies_cookie_widget
 drupal.org###drupalorg-crosssite-gdpr
+dyclassroom.com###dy-cookieInfo-container
 starwest-botanicals.com###eapps-cookie
 swann-morton.com###easyNotification
 overunity.com###ecl_outer
@@ -21015,6 +20998,12 @@ furn-on.com,hughrice.co.uk,ipercomp.ro,nothinkin.com,shop.transposafe.be,spiuk.c
 99percentinvisible.org,bookcabin.com,matterport.com,rauch-ft.com###cookie-policy
 !! .cookie-permission-container
 fleurop.nl,korodrogerie.de,leguano.eu,vinumpetri.com,wbv.de,webshop.asus.com##.cookie-permission-container
+!! #ensNotifyBanner
+beerwulf.com,bhphotovideo.com,binekarac.vw.com.tr,distrelec.de,easyjet.com,ensighten.com,experian.co.uk,experianidentityservice.co.uk,fidelity.de,jal.co.jp,jrhotelgroup.com,latimes.com,nisshin-seifun-welna.com,norton.com,nortonlifelock.com,rac.co.uk,scotsman.com,surfeasy.com,volkswagen.ch,volkswagenplus.ca,vueling.com,vw.com.br###ensNotifyBanner
+!! #ensBannerBG
+easyjet.com,experian.co.uk,experianidentityservice.co.uk,postoffice.co.uk###ensBannerBG
+!! #ensConsentWidget
+nortonlifelock.com###ensConsentWidget
 !! .cookie-message
 action.pl,cambridge.org,haber7.com,jobg8.com,macpac.co.nz,nomos-glashuette.com,rules.co.uk,safra.sg##.cookie-message
 !! .cookie-accept
