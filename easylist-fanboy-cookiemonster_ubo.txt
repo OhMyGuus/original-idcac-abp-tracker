@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Zs764Mt/ebj+tWfIfFtamw
+! Checksum: mGazLf6Rh7ClDyTiPiwJfg
 ! Title: Easylist Cookie List
-! Updated: 2024-12-23 07:15 UTC
+! Updated: 2024-12-23 08:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -17769,7 +17769,7 @@
 ||jimstatic.com/ckies.js
 ||jsdelivr.net/gh/accept-all/cdn/banner-2024.js
 ||jsdelivr.net/gh/accept-all/cdn/banner.js
-||ketchcdn.com^$third-party
+||ketchcdn.com^$third-party,domain=~forbes.com
 ||ketchjs.com/lanyard/
 ||kiprotect.com/v1/privacy-managers/
 ||kookiecheck.cz/static/script/
