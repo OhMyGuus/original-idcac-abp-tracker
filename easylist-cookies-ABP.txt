@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wIlFh3L6+03qRNO8FXEJYg
+! Checksum: qMN/UvcKxpmlK5fgjj+XHQ
 ! Title: Easylist Cookie List
-! Updated: 2025-01-21 05:15 UTC
+! Updated: 2025-01-21 09:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -7866,6 +7866,7 @@
 ###rgdp.rgpd
 ###rgpb.rgpd
 ###rgpd-accept-cookies
+###rgpd-background
 ###rgpd-band
 ###rgpd-banner
 ###rgpd-bar-container
@@ -19883,6 +19884,7 @@ trello.com##[data-testid="cookies-consent-banner"]
 airhelp.com##[data-testid="cookiesNotice"]
 spectrum.ieee.org##[data-toggle-property="gdpr"]
 oneclickcover.com##[data-v-5f675fc8]
+atlassian.net##[data-vc="banner-container-component"]
 reddit.com##[reddit-cookie-banner]
 stuffthatworks.health##[role="alertdialog"]
 academy.com##[role="complementary"]
