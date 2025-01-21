@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rKmkl2wYJAiOdP/be64Wrg
+! Checksum: WAkOhDYQ4klfaK75EaL+AQ
 ! Title: Easylist Cookie List
-! Updated: 2025-01-21 03:15 UTC
+! Updated: 2025-01-21 04:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24307,7 +24307,6 @@ ants.vn##.sg-popup-content
 ||credit-agricole.it/cookies/cookies.min.js
 ||cure-naturali.it/cookies?
 ||effekt.it/analytics/
-||fastweb.it/cookie-center/
 ||informagiovani-italia.com/consenso.js
 ||kkaio.com/templates/t4_blank/js/ck.js
 ||korkeinoikeus.fi/webcomponents/oh-internet-seuranta/evastekysely.html
