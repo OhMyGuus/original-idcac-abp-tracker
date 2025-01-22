@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8o3Q9AA0euodEHYSaNF9zw
+! Checksum: cdG/bDPBWxzLiDGM1ouRUA
 ! Title: Easylist Cookie List
-! Updated: 2025-01-22 11:40 UTC
+! Updated: 2025-01-22 12:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -10750,7 +10750,6 @@
 ##.cookie-consent-jolt
 ##.cookie-consent-layer
 ##.cookie-consent-local
-##.cookie-consent-manager
 ##.cookie-consent-message
 ##.cookie-consent-notice
 ##.cookie-consent-notify
@@ -16669,7 +16668,6 @@
 ##div.cookieBackgaround
 ##div.cookieBanner
 ##div.cookieBar
-##div.cookieConsent
 ##div.cookieDisclaimer
 ##div.cookieHolder
 ##div.cookieMessage
@@ -23112,7 +23110,7 @@ asf.com.pt###asfCookiesBar
 portugalglobal.pt###barramensagem
 oantagonista.com.br###card-cookies
 assertivasolucoes.com.br###ck-container
-tudosaladeaula.com###consent-box-lgpd
+sempreupdate.com.br,tudosaladeaula.com###consent-box-lgpd
 cliper.pt###cook
 ipn.pt###cookie-law-panel
 staples.pt###cookie-new-cconsent-bar
