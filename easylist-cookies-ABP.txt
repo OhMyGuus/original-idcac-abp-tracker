@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aiHILwsfALyIPyHR7fURkA
+! Checksum: terqN7ZHHOfFL/RO0Sy0Kg
 ! Title: Easylist Cookie List
-! Updated: 2025-01-28 00:40 UTC
+! Updated: 2025-01-28 03:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20000,6 +20000,8 @@ norma-online.de,norma.fr##.cookie-info-v24
 norma-online.de,norma.fr##.modal-backdrop.cookie-info
 ! .gdpr_infobar_postion_bottom
 anime-odcinki.pl,frozenbyte.com##.gdpr_infobar_postion_bottom
+! sogeti.*
+sogeti.*###popup-cookieConsent
 ! wayfair
 wayfair.co.uk,wayfair.de,wayfair.ie##.FooterPopups
 ! roninwear.
