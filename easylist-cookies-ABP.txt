@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WWzNRR7l0/eAzNWlUfAegw
+! Checksum: +mnljIdmPcOhOX8fL4ZQjg
 ! Title: Easylist Cookie List
-! Updated: 2025-03-09 11:40 UTC
+! Updated: 2025-03-09 15:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21765,6 +21765,7 @@ tvb.com##.tvb-cookies
 !
 hbor.hr###JPO
 vobco.hr###blokDiv
+dokutv.net###cmp_overlay
 liberal.hr###footer
 iarh.hr###kukijima
 tzdubrovnik.hr###mygdprPopupHR
