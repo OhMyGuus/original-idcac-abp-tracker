@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AnDYczFn6s/WBvyzaAoarA
+! Checksum: yb0djMqbAkCr5VO8L75U5A
 ! Title: Easylist Cookie List
-! Updated: 2025-04-28 09:38 UTC
+! Updated: 2025-04-28 10:10 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -17987,6 +17987,7 @@ norm.store##.above-pages-container > .animation-container
 nicequest.com##.ac
 presta-module.com##.acbBackdrop
 greenfields.eu,toraytac.com##.accept-alert
+reviewjournal.com##.accept-cookie
 nwslsoccer.com##.accept-cookies-snackbar
 plugins.jetbrains.com##.acceptance-popup
 ibuypower.com##.acceptcookie_contain__JVvcU
@@ -18200,7 +18201,7 @@ skygroup.sky##.c-banner-shadow
 rapidtyping.com##.c-c
 rebirth-hannover.de,werum.com##.c-callout
 index.co##.c-consent-manager
-croda.com,frontgate.com,incotec.com##.c-cookie-banner
+croda.com,frontgate.com,incotec.com,york.ac.uk##.c-cookie-banner
 asm.com,bastionhotels.com,bestwesternschipholairport.com##.c-cookie-bar
 datagen.tech##.c-cookie-consent-background
 cabify.com##.c-cookies
@@ -18328,7 +18329,7 @@ justwatch.com##.consent-notification
 sportskeeda.com##.consent-pop-up
 gla.ac.uk##.consent-switch
 app.traderepublic.com##.consentCard
-kairustaubu.com##.consentDialogContainer
+kairustaubu.com,ouwhoatsipt.com##.consentDialogContainer
 sony.co.id##.consent__overlayHandler
 fullscript.com##.consent__popup
 remotly.com##.consent_container
@@ -20600,7 +20601,7 @@ arrowtyres.com,batyres.com,bodahl.com,corktyrewholesale.ie,donegaltyres.com,guso
 !! #cookiesModal
 7art.cz,artdeco.cz,auctionxchange.ie,blacklimba.com,bodyfactory.cz,brela.cz,buzzaar.eu,chemical-anchors.com,conferences-scientific.cz,cutishelp.com,dataelcom.sk,dentalplanet.cz,dobreoci.cz,easy-menu.io,envero.cz,eurogat.eu,formanka.net,frezovanie-kominov.eu,getlini.lv,golfagency.cz,grillnor.cz,hrad-cervenyujezd.cz,innovaiberica.com,irishcob.cz,it-svet.cz,jdsupra.com,jigsawconferences.co.uk,jiranek.cz,klik-klap.cz,lazne-lipova.cz,meditacnipolstare.cz,mirdacars.cz,missprincessworld.com,mobilnydom.eu,nabytek-aldo.cz,nerezove-kominy.sk,oddo.fr,olovo.eu,oteuamigo.pt,ottovo-nakladatelstvi.cz,prodej-karavanu-dante.cz,pujcovna-karavanu-dante.cz,raledo.cz,restauraceukostela.cz,return-my-parcel.com,sacr.cz,savane.com.br,servispc.com,skiland.cz,skisvarc.cz,sslmarket.at,sslmarket.com,sslmarket.de,sslmarket.sk,stromac.cz,tanatech.cz,upmyshop.com,ural.cz,virivky-sauny.eu,welko.cz,whippets-dog.cz,widara.com,xodax.cz,zmenazdravotnipojistovny.cz,zubni-lekarka.cz###cookiesModal
 !! #modalCookies
-andreabattistoni.it,cardmates.org,cetelem.es,diskus.cz,ernest-inn.com,q2bstudio.com###modalCookies
+andreabattistoni.it,cardmates.org,cetelem.es,diskus.cz,ernest-inn.com,gays-cruising.com,q2bstudio.com###modalCookies
 !! #cookies2020
 bizartgallery.com,e-kiriazis.gr,irakleitos.gr,sapon.gr,skolahotelnictvi.cz,topithari.gr,urology-athens.gr,yachtdeals.gr###cookies2020
 bizartgallery.com,e-kiriazis.gr,irakleitos.gr,sapon.gr,skolahotelnictvi.cz,topithari.gr,urology-athens.gr,yachtdeals.gr###cookies2020overlay
@@ -20734,6 +20735,8 @@ news.abs-cbn.com##.MuiBox-root:has-text(Welcome,)
 memefi.club##.MuiStack-root:has-text(Personalised ads)
 honeygain.com##.Wrapper--1lbmq00:has-text(This website uses cookies)
 beta.bom.gov.au##.bom-form-alert--info.bom-form-alert:has-text(We use cookies)
+capcut.com##.box-PQtsNf:has-text(Privacy Policy)
+capcut.com##.box-beCrD2:has-text(cookies)
 betsson.com##.cdk-overlay-pane:has-text(We use cookies)
 x.com##.css-175oi2r.r-12vffkv[style^="position: absolute; bottom: 0px; width: 100%;"]:has-text(data protection)
 cun.edu.co,join.chat,milkinkstudio.com,worklouder.cc##.dialog-lightbox-message:has-text(/Cookies/i)
@@ -22524,7 +22527,7 @@ dev.near.org##+js(set-local-storage-item, cookiesAcknowledged, 1)
 jito.network,jito.wtf##+js(set-local-storage-item, hasConsentedPH, no)
 goodpods.com##+js(set-local-storage-item, cookie_consent, accepted)
 pngtree.com##+js(set-local-storage-item, gtag.consent.option, 1)
-pngtree.com##+js(set-local-storage-item, cps20, 1)
+pngtree.com##+js(set-local-storage-item, cps28, 1)
 v2.xmeye.net##+js(set-local-storage-item, showCookieUse, false)
 venom.foundation##+js(set-local-storage-item, terms, accepted)
 canonvannederland.nl##+js(set-local-storage-item, z_cookie_consent, true)
@@ -26199,7 +26202,7 @@ eldorado.ru##.nK
 bubble.ru##.notifications
 premier.one##.notifications-container
 culture.ru##.notify-bar
-pg11.ru##.notifycation_notifycation__BeRRP
+pg11.ru,progoroduhta.ru##.notifycation_notifycation__BeRRP
 onlinepbx.ru##.onlinepbx__cookie__modal
 lamoda.ru,lamoda.ua##.page > [class*="widget"]
 russia-tv.online##.page-footer__popup-cookie
