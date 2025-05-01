@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XvleyCwRi/Y6wiDlDAYVVg
+! Checksum: mWrDa2w6YUkaZVipiRCg8Q
 ! Title: Easylist Cookie List
-! Updated: 2025-05-01 11:38 UTC
+! Updated: 2025-05-01 12:38 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20891,6 +20891,9 @@ sebo.ddns.opc-asp.de##+js(set-cookie, opc_webapp_cookiesaccepted_be264d3fecc6404
 skyrc.com##+js(set-cookie, accept-cookie-20240708, false)
 dillingen.bayernlab.bayern.de##+js(set-cookie, allowStats, 0)
 dillingen.bayernlab.bayern.de##+js(set-cookie, hideBanner, 1)
+charleskeith.com##+js(set-cookie, consentTracking, true)
+charleskeith.com##+js(set-cookie, consentTrackingPopupCookie, true)
+charleskeith.com##+js(set-cookie, ck_dnt, 1)
 todays-golfer.com##+js(set-cookie, ccpaApplies, true)
 todays-golfer.com##+js(set-cookie, ccpaConsentAll, true)
 todays-golfer.com##+js(set-cookie, ccpaReject, false)
