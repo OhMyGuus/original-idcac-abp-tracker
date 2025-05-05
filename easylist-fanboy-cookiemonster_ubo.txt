@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: x+4ODq39VBRDe5iMpcB4Aw
+! Checksum: nLLLLK3Jrvr/Z7UuaTZSRA
 ! Title: Easylist Cookie List
-! Updated: 2025-05-04 22:38 UTC
+! Updated: 2025-05-04 23:38 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20907,6 +20907,7 @@ fromsmash.com##+js(set-cookie, _sucs, true)
 dtksoft.com,ecuavisa.com,exaktacreative.se,goindex.lt##+js(set-cookie, user_cookie_consent, 1)
 sebo.ddns.opc-asp.de##+js(set-cookie, opc_webapp_cookiesaccepted_be264d3fecc64041f12c2afcba82edc0, 1, , reload, 1)
 voltafinance.com##+js(trusted-set-cookie, __wr_disclaimer_source, 1)
+ghostinternational.com##+js(trusted-set-cookie, pum-9213, true)
 skyrc.com##+js(set-cookie, accept-cookie-20240708, false)
 mycare.de##+js(set-cookie, cookie-policy-accepted-v3, true)
 mycare.de##+js(set-cookie, cc_analytics, false)
