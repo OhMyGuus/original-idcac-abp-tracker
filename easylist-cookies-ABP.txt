@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LFHkI2HCefoyIdc03acXew
+! Checksum: 8Pq+zavU0lCnLg3OtDuulg
 ! Title: Easylist Cookie List
-! Updated: 2025-05-12 00:10 UTC
+! Updated: 2025-05-12 00:38 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -17523,7 +17523,7 @@ whenavailable.com###modalConsent
 umm.nordpoolgroup.com###modalMain
 shellsmart.com###modal_container
 eclipso.eu###modalmsg
-3d-sd.dk,auto-dubina.cz,fgp.com,hautek.dk,intergast.cz,iru.de,izt-labs.de,kapis.si,koper.si,montagneepaesi.com,phr.cz,ragusah24.it,wamu.org###moove_gdpr_cookie_info_bar
+3d-sd.dk,auto-dubina.cz,fgp.com,hautek.dk,intergast.cz,iru.de,izt-labs.de,kapis.si,koper.si,montagneepaesi.com,parlamentario.com,phr.cz,politicaexterior.com,ragusah24.it,wamu.org###moove_gdpr_cookie_info_bar
 momentumgroupltd.co.za###motion-cookies-notice
 eurocirc.org###msgBox_error
 solicitor.info###msgbg
@@ -20289,7 +20289,7 @@ dagrasso.pl,freedomtreks.co.uk,hiveon.com,hiveon.net,krepling.com,kritikos-sm.gr
 !! .cookie-check
 connection.com,eink.com,govconnection.com,iphotel.com.br,macconnection.com##.cookie-check
 !! .cc-window
-ablebits.com,adsimple.at,aussenrollo.de,bund-naturschutz.de,cc-egov.de,e-infra.com,gesundheit-nds.de,goruck.com,ionos-group.com,justia.com,kattenberg.nl,khl.ru,krainz-loipersdorf.at,lightningmaps.org,malaysiaairlines.com,mingpao.com,na-bibb.de,rebinstitute.com,republicbharat.com,republicworld.com,sf311.org,tiom.pl,webit.org,wedolit.eu,wham.physics.wisc.edu,wisc.edu,zesty.tech##.cc-window
+ablebits.com,adsimple.at,aussenrollo.de,bund-naturschutz.de,cc-egov.de,e-infra.com,gesundheit-nds.de,goruck.com,ionos-group.com,justia.com,kattenberg.nl,khl.ru,krainz-loipersdorf.at,lightningmaps.org,lpderecho.pe,malaysiaairlines.com,mingpao.com,na-bibb.de,rebinstitute.com,republicbharat.com,republicworld.com,sf311.org,tiom.pl,webit.org,wedolit.eu,wham.physics.wisc.edu,wisc.edu,zesty.tech##.cc-window
 !! .popup
 advgazeta.ru,agcopartsbooks.com,beiersdorf.com,czc.cz,digitfoto.de,efootwear.eu,engeo.ch,gps-viewer.com,hypeauditor.com,kiswe.com,mellerud.de,mesampoulesgratuites.fr,mindmatrix.net,mymuesli.com,renewal.ru,salesmanago.pl,swayhotels.com,topographic-map.com,travelexpress.pl,yclients.com,zabkagroup.com##.popup
 !! .popup-container
@@ -20331,7 +20331,7 @@ aala-apo-shop.de,anamariareceitas.com.br,aschendorff-buchverlag.de,avm-verlag.de
 !! #toast-container
 alppimatkat.fi,als.royalholloway.ac.uk,ecosto.fi,homenet.no,kialo.com,kindredgroup.com,kuntarekry.fi,lokinn.com,nelly.com,nlyman.com,quedo.es,schoolworkspace.co.uk,sozialleistungen.info,startnext.com,telecomtv.com###toast-container
 !! .toast
-agritrader.eu,alfaenlinea.com,befunky.com,bidvestbank.co.za,bisu.com.tr,byutv.org,cmo.de,dlford.io,elfonografo.mx,freesound.org,interflora.by,interflora.ee,itineraricamper.it,joya937.mx,laz.mx,pasfoto-frederiksberg.dk,puzzlemaster.ca,szybkopraca.pl,tbs.com,tntdrama.com,universal881.com,usave.co.uk##.toast
+agritrader.eu,alfaenlinea.com,befunky.com,bidvestbank.co.za,bisu.com.tr,byutv.org,cmo.de,dlford.io,elfonografo.mx,forbes.pe,freesound.org,interflora.by,interflora.ee,itineraricamper.it,joya937.mx,laz.mx,pasfoto-frederiksberg.dk,puzzlemaster.ca,szybkopraca.pl,tbs.com,tntdrama.com,universal881.com,usave.co.uk##.toast
 !! .gdprModal
 aminarubinacci.it,astromagazin.ro,atlasstoked.com,avlonbg.com,butor-mirjan24.hu,castroniaviacatania.com,cheapoutdoor.nl,diamante.sk,fraggerzstuff.pt,franc-music-shop.com,gecoshop.com,gritija.lt,insilk-seta.it,lafermeducbd.fr,meterspec.it,mirjan24.de,papirbolt.com,premiumtools.ro##.gdprModal
 !! ^.CookiesConsent
@@ -23825,6 +23825,7 @@ palma.es###backgroundPopup
 amnesia.es,arguedas.es###barra
 galeriametro.com###barra_mensaje_cookies
 emaya.es,mercaoleo.es###barraaceptacion
+ovacion.pe###block-fdm-cookiesui
 suitur.com###bs-gdpr-cookies-modal
 norvilsa.com###c-cookies__modalbar
 aerolineas.com.ar###c-message
@@ -23841,6 +23842,7 @@ qalaub.com###contentOverlay
 tienda.edicionesbabylon.es###cook
 packzum.com###cookie-area
 parcan.es###cookie-consent-panel
+mediotiempo.com###cookie-disclaimer
 web.centro-zaragoza.com###cookie-wrapper-objeto
 lekeitio.com,mallabia.eus###cookieTop
 spargrancanaria.es###cookie_blocker
