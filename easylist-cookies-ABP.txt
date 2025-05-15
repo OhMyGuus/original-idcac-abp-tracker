@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6bUrr92l3DWW4GCP1BntkA
+! Checksum: m7oh42wmPhqaNYG9K1kA0Q
 ! Title: Easylist Cookie List
-! Updated: 2025-05-15 12:38 UTC
+! Updated: 2025-05-15 13:10 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -20255,7 +20255,7 @@ adidas.ae,adidas.co.za,adidas.com,adidas.com.eg,campchef.com,colehaan.co.jp,eliz
 !! .backdrop
 ads.nipr.ac.jp,data-driven-forms.org,genome.eu,hoyer.de,weddyplace.com##.backdrop
 !! .lightbox-backdrop
-der-hexenkessel.de,fische-aquaristik-onlineshop.de,improsystem.it,kierratyskeskuspatina.fi,laura-und-felix.de,madiosport.nl,mundschutzgermany.de,portugeseproducten.nl##.lightbox-backdrop
+der-hexenkessel.de,fische-aquaristik-onlineshop.de,improsystem.it,laura-und-felix.de,madiosport.nl,mundschutzgermany.de,portugeseproducten.nl##.lightbox-backdrop
 !! #cookiebannerModal/.modal-backdrop
 digitalhumanrightslab.org,jomdesign.no,linuxlars.net,linuxlars.no,mein-kochbuch.org,robertborges.net,ropet.org,via-ferrata-lantosque.fr,vikja.no###cookiebannerModal
 digitalhumanrightslab.org,jomdesign.no,linuxlars.net,linuxlars.no,mein-kochbuch.org,robertborges.net,ropet.org,via-ferrata-lantosque.fr,vikja.no##.modal-backdrop
