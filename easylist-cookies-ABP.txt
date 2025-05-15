@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: A66Vws1ZmlrT5RLkqX1B+A
+! Checksum: gR5EcuPt+gwjGg3JRkx2Lw
 ! Title: Easylist Cookie List
-! Updated: 2025-05-15 01:10 UTC
+! Updated: 2025-05-15 11:38 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -3108,8 +3108,6 @@
 ###cookie-overlay-message
 ###cookie-overlay-modal-box
 ###cookie-overlay-wrapper
-###cookie-page
-###cookie-panel
 ###cookie-panel-banner
 ###cookie-panel-dialog
 ###cookie-perm-bar
@@ -24526,7 +24524,7 @@ ants.vn##.sg-popup-content
 ||consent.themeteocompany.com^
 ! easylist_cookie_allowlist_general_hide.txt
 cera.coop#@##CookieBanner
-elkjop.no,fdm-travel.dk,landkreis-kelheim.de,power.no,skousen.dk,skousen.no,whiteaway.com,whiteaway.no,whiteaway.se#@##CookieConsent
+elkjop.no,fdm-travel.dk,georgjensen.com,landkreis-kelheim.de,power.no,skousen.dk,skousen.no,whiteaway.com,whiteaway.no,whiteaway.se#@##CookieConsent
 smooth-on.com#@##CookieNotice
 finanzmarktwelt.de#@##CybotCookiebotDialogBodyUnderlay
 online.no,telenor.no#@##__tealiumGDPRcpPrefs
