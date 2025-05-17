@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Aweh012/PV1ihbqPX1Njsg
+! Checksum: RKCsf5oY7D9Q9BbRvfPqNQ
 ! Title: Easylist Cookie List
-! Updated: 2025-05-16 13:10 UTC
+! Updated: 2025-05-17 01:10 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -1357,7 +1357,6 @@
 ###JDCookieNotifier
 ###JM_Cookie_Container
 ###JM_cookielayer
-###JOISH987_bar_holder
 ###JSEW-cookieDetection
 ###JS_cookiesLawAcceptation
 ###JScookieInfo
@@ -16851,6 +16850,10 @@
 ||wukongsch.com/kaamel.js
 ||yelp.*/eu_cookie_notice?
 ||yimg.com^*/guce.js
+! bonprix consent
+||hc.bonprix.hu^
+||hc.bonprix.ro^
+||hc.bonprix.sk^
 ! hotelscombined.* momondo.*
 /privacy/providers/CookiesDataProvider
 ! Amasty_GdprCookie
@@ -19765,6 +19768,8 @@ redtube.com,tube8.com,youporn.com###cookie_consent_wrapper
 ! levoissuzuki.co.uk
 levoissuzuki.co.uk,northridgecars.com##.cookie-overlay
 levoissuzuki.co.uk,northridgecars.com##.cookie-policy-bar
+! bonprix
+bonprix.ee,bonprix.lv##.google-consent-mode-popup-container
 ! Just Eat
 just-eat.co.uk,just-eat.es,justeat.it##div[data-cookie-consent-overlay]
 just-eat.dk##div[data-qa="granular-privacy-settings"]
@@ -22346,7 +22351,7 @@ tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-markkinointi, no)
 tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-tilastointi, no)
 ! set-local-storage-item
 notthebee.com##+js(set-local-storage-item, cookieConsent, granted)
-granola.ai,polar.sh,posthog.com##+js(set-local-storage-item, cookie_consent, no)
+granola.ai,polar.sh,posthog.com,hatchet.run##+js(set-local-storage-item, cookie_consent, no)
 nhnieuws.nl,omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)
 nhnieuws.nl,omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 nhnieuws.nl,omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
@@ -24269,6 +24274,7 @@ rentl.io##.sc-4oup69-1
 ! ---------- Bulgarian ----------
 !
 bgline.bg###bar-message
+bonprix-bg.com###politicadecookies
 holiday.by###pop-up-policy
 adamieva.info###privacy
 tennis24.bg###private_info

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wbXFUpaYUkIoLqWAH2ft6A
+! Checksum: 34/yQ1wp5TIUWn8LM2zMUQ
 ! Title: Easylist Cookie List
-! Updated: 2025-05-16 12:38 UTC
+! Updated: 2025-05-17 00:38 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -1357,7 +1357,6 @@
 ###JDCookieNotifier
 ###JM_Cookie_Container
 ###JM_cookielayer
-###JOISH987_bar_holder
 ###JSEW-cookieDetection
 ###JS_cookiesLawAcceptation
 ###JScookieInfo
@@ -16851,6 +16850,10 @@
 ||wukongsch.com/kaamel.js
 ||yelp.*/eu_cookie_notice?
 ||yimg.com^*/guce.js
+! bonprix consent
+||hc.bonprix.hu^
+||hc.bonprix.ro^
+||hc.bonprix.sk^
 ! hotelscombined.* momondo.*
 /privacy/providers/CookiesDataProvider
 ! Amasty_GdprCookie
@@ -19765,6 +19768,8 @@ redtube.com,tube8.com,youporn.com###cookie_consent_wrapper
 ! levoissuzuki.co.uk
 levoissuzuki.co.uk,northridgecars.com##.cookie-overlay
 levoissuzuki.co.uk,northridgecars.com##.cookie-policy-bar
+! bonprix
+bonprix.ee,bonprix.lv##.google-consent-mode-popup-container
 ! Just Eat
 just-eat.co.uk,just-eat.es,justeat.it##div[data-cookie-consent-overlay]
 just-eat.dk##div[data-qa="granular-privacy-settings"]
@@ -21595,6 +21600,7 @@ rentl.io##.sc-4oup69-1
 ! ---------- Bulgarian ----------
 !
 bgline.bg###bar-message
+bonprix-bg.com###politicadecookies
 holiday.by###pop-up-policy
 adamieva.info###privacy
 tennis24.bg###private_info
