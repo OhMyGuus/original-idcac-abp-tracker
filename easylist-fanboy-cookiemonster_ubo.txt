@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0HnkbIlRe1wOPhTbRiovGw
+! Checksum: nRexy/RiIHRO5nBuDyPZAQ
 ! Title: Easylist Cookie List
-! Updated: 2025-11-17 03:38 UTC
+! Updated: 2025-11-17 21:38 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -23335,6 +23335,9 @@ shangri-la.com##body,html:style(overflow: auto !important; position: initial !im
 ! farmer.pl
 farmer.pl###rodoPopup
 farmer.pl##+js(aopw, FrodoPV)
+! #cc--main
+therover.ca###cc--main
+therover.ca##html:style(overflow:auto !important)
 ! #orejime
 ccifj.or.jp,masante.belgique.be###orejime
 ccifj.or.jp,masante.belgique.be##body,html:style(overflow: auto !important; position: initial !important;)
