@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: k+iIJtO+Ueh1V7Y0JNENGg
+! Checksum: 7eCPUgWIGpTg0OH1iIbzsg
 ! Title: Easylist Cookie List
-! Last modified: 2026-01-23 23:50 UTC
+! Last modified: 2026-01-24 00:25 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21039,6 +21039,7 @@ spusu.co.uk##+js(set-cookie, acceptSpusuCookies, necessary)
 pccomponentes.com,pccomponentes.fr,pccomponentes.it,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)
 d5render.com##+js(set-cookie, accept_cookie_flag, 1)
 dotwatcher.cc,greenpandagames.com##+js(set-cookie, accept_cookie_policy, true)
+nhghealth.com.sg##+js(set-cookie, accept_cookies, 0)
 bimedis.com##+js(set-cookie, accept_cookies, 1)
 anker.com,ankersolix.com,freshis.com,reforge.com,triviacreator.com##+js(set-cookie, accept_cookies, accepted)
 bio-hoflieferant.de##+js(set-cookie, accept_cookies, yes, , reload, 1)
