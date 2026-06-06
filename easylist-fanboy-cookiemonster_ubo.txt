@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: C0djvDUq5C9ESJj2MOck8A
+! Checksum: Y7b9EQmAWy+Pxj0BG8bz/A
 ! Title: Easylist Cookie List
-! Last modified: 2026-06-05 22:25 UTC
+! Last modified: 2026-06-06 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -17904,6 +17904,7 @@ atptour.com##.atp_cookie-message
 scandalbeauties.com##.attention-msg
 amplify.com##.augusta-campaign
 alivecolors.com##.awarning
+amundi.com##.awf-eu-cookie-compliance
 airwallex.com##.awx-privcbanner-root
 welcometothejungle.com##.axeptio_mount
 hush-uk.com##.b-header-message
