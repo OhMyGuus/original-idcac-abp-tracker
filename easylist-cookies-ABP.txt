@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8JEvk3w9BDmyy8OInhyivA
+! Checksum: 9JFuyQQGnwWvcAFWw/NRRA
 ! Title: Easylist Cookie List
-! Last modified: 2026-06-08 00:50 UTC
+! Last modified: 2026-06-08 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -16852,6 +16852,7 @@ ubet.com.mt###alert_message
 cbc.ca###alert_modal
 heli-one.com###alertmessagewrp
 dagbladet.no,elbil24.no,kk.no,seher.no,sol.no###am-branding
+auroramap.org###am-cookie-banner
 mightywatches.com###am-cookie-bar
 adcoffee.io###analytics-id
 buckle.com###analytics-prompt
@@ -20025,7 +20026,7 @@ courtika.com,essor.ca,groupedpa.com,laturquoise.ca,rockebilly.com,tremblayassura
 !! .consent-box
 leouve.com.br,ostsee24.de,photofiltres.fr,ric.com.br##.consent-box
 !! #cookie-bar
-addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,comune.roma.it,correiodoestado.com.br,crossref.org,einforma.co,engelsbergideas.com,eshop.efko.cz,fabricmill.com,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,islambook.com,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,megasport.co.il,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,searchenginewatch.com,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
+addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,comune.roma.it,correiodoestado.com.br,crossref.org,einforma.co,engelsbergideas.com,eshop.efko.cz,fabricmill.com,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,islambook.com,jagledam.com,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,megasport.co.il,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,searchenginewatch.com,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
 !! style_container__
 bossautoukraine.com.ua##[class^="style_container__"]
 !! .notification-bar
@@ -24424,8 +24425,8 @@ fibabanka.com.tr##.efilli-layout-fibabanka
 getir.com##.faOyhg
 yucebasmakine.com.tr##.fadeInUp
 gezinomi.com##.fixedprotectionOfData
-kampanya.peugeot.com.tr##.ihm-popup
-kampanya.peugeot.com.tr##.ihm-popup-overlay
+kampanya.peugeot.com.tr,talep.peugeot.com.tr##.ihm-popup
+kampanya.peugeot.com.tr,talep.peugeot.com.tr##.ihm-popup-overlay
 yigitalisveris.com.tr##.kvk-information-master
 suslusozluk.com##.modal-show
 boxofficeturkiye.com##.notification__wrapper
